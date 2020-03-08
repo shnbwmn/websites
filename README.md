@@ -22,3 +22,8 @@ List of awesome websites.
 * https://www.anthonyboyd.graphics/mockups/
 * https://mockup.ceacle.com/search?kind=all&order=popular&q=%22free%22&view=all
 
+### Patterns
+
+* https://www.toptal.com/designers/subtlepatterns/
+* https://www.transparenttextures.com/
+
