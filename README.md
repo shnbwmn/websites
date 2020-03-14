@@ -26,8 +26,12 @@ List of awesome websites.
 * https://www.toptal.com/designers/subtlepatterns/
 * https://www.transparenttextures.com/
 
-
 ### Icons
 
 * https://freeicons.io/
+
+### Resources
+
+* https://www.editingcorp.com
+
 
