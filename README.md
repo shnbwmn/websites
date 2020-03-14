@@ -33,5 +33,6 @@ List of awesome websites.
 ### Resources
 
 * https://www.editingcorp.com
+* https://www.editingcorp.com/after-effects-plugins-scripts-list/
 
 
