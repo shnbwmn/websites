@@ -1,12 +1,12 @@
-# websites
+# Websites
 List of awesome websites.
 
-### Bootstrap templates
+### Bootstrap Templates
 
 * https://colorlib.com/
 * https://materializecss.com
 
-### Coding help
+### Coding Help
 
 * https://css-tricks.com/
 * https://www.w3schools.com/
@@ -35,8 +35,22 @@ List of awesome websites.
 * https://www.editingcorp.com
 * https://www.editingcorp.com/after-effects-plugins-scripts-list/
 
-### Stock Images
+### Free Images
 
 * https://kaboompics.com
+* https://www.pexels.com
+* https://pixabay.com
+
+
+### Free Videos
+
+* https://www.pexels.com/videos/
+* https://pixabay.com/videos/
+
+### AE / Premiere Templates
+
+* https://motionarray.com/
+* https://shareae.com
+
 
 
