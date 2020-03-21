@@ -51,6 +51,9 @@ List of awesome websites.
 
 * https://motionarray.com/
 * https://shareae.com
-
+* https://www.luxuryleaks.com/after-effects-freebies/
+* https://www.template.net/business/tools/websites-to-download-after-effect/
+* https://www.velosofy.com/templates/after-effects?page=1
+* https://911templates.com/free
 
 
