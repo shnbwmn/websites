@@ -47,6 +47,11 @@ List of awesome websites.
 * https://www.pexels.com/videos/
 * https://pixabay.com/videos/
 
+### Free Music
+
+* http://ccmixter.org
+* http://dig.ccmixter.org
+
 ### AE / Premiere Templates
 
 * https://motionarray.com/
