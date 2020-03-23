@@ -81,6 +81,6 @@ List of awesome websites.
 
 ### Storage
 
-* mega.nz/
+* https://mega.nz
 
 
