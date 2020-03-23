@@ -75,4 +75,8 @@ List of awesome websites.
 * https://www.evetech.co.za
 * https://www.checkers.co.za/c-2824/All-Departments/Electronics
 
+### Courses & Tutorials
+
+* https://freecourseweb.com/tutorials1/
+
 
