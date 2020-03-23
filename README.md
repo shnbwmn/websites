@@ -67,3 +67,12 @@ List of awesome websites.
 * https://thekickasstorrents.com/
 * https://yts.mx/
 
+### Shopping
+
+* https://www.takealot.com
+* https://www.decofurnsa.co.za
+* https://www.loot.co.za/welcome
+* https://www.evetech.co.za
+* https://www.checkers.co.za/c-2824/All-Departments/Electronics
+
+
