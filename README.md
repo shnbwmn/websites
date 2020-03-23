@@ -79,4 +79,8 @@ List of awesome websites.
 
 * https://freecourseweb.com/tutorials1/
 
+### Storage
+
+* mega.nz/
+
 
