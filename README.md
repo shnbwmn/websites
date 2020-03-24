@@ -3,6 +3,7 @@ List of awesome websites.
 
 ### 3D
 
+* https://www.mixamo.com/#/
 * https://www.blendswap.com/
 * https://www.blenderguru.com/
 * https://free3d.com/
