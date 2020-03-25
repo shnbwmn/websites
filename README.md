@@ -89,7 +89,7 @@ List of awesome websites.
 * https://www.houzz.com/
 * https://www.gardenweb.com/
 
-### AE / Premiere Templates
+### AE / Premiere
 
 * https://motionarray.com/
 * https://shareae.com
@@ -97,6 +97,7 @@ List of awesome websites.
 * https://www.template.net/business/tools/websites-to-download-after-effect/
 * https://www.velosofy.com/templates/after-effects?page=1
 * https://911templates.com/free
+* https://adobedownload.org/
 
 ### Torrents
 
@@ -115,6 +116,7 @@ List of awesome websites.
 ### Courses & Tutorials
 
 * https://freecourseweb.com/tutorials1/
+* https://courseupload.com/
 
 ### Storage
 
