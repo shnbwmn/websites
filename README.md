@@ -26,6 +26,7 @@ List of awesome websites.
 
 ### Mockups
 
+* https://adparlor.com/ad-mockups/
 * https://graphicburger.com/
 * https://mockups-design.com/
 * https://mockupsforfree.com/
