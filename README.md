@@ -104,6 +104,7 @@ List of awesome websites.
 * https://proxyrarbg.org/torrents.php
 * https://thekickasstorrents.com/
 * https://yts.mx/
+* https://1337x.to/home/
 
 ### Shopping
 
