@@ -3,13 +3,13 @@ List of awesome websites.
 
 ### AE / Premiere
 
-* https://adobedownload.org/
 * https://motionarray.com/
 * https://shareae.com
 * https://www.luxuryleaks.com/after-effects-freebies/
 * https://www.template.net/business/tools/websites-to-download-after-effect/
 * https://www.velosofy.com/templates/after-effects?page=1
 * https://911templates.com/free
+* https://adobedownload.org/
 
 ### 3D
 
@@ -105,6 +105,7 @@ List of awesome websites.
 * https://thekickasstorrents.com/
 * https://yts.mx/
 * https://1337x.to/home/
+* https://crackdaily.com/
 
 ### Shopping
 
