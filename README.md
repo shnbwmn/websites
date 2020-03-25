@@ -9,7 +9,6 @@ List of awesome websites.
 * https://www.template.net/business/tools/websites-to-download-after-effect/
 * https://www.velosofy.com/templates/after-effects?page=1
 * https://911templates.com/free
-* https://adobedownload.org/
 
 ### 3D
 
@@ -99,13 +98,14 @@ List of awesome websites.
 * https://www.houzz.com/
 * https://www.gardenweb.com/
 
-### Torrents
+### Download Sources
 
 * https://proxyrarbg.org/torrents.php
 * https://thekickasstorrents.com/
 * https://yts.mx/
 * https://1337x.to/home/
 * https://crackdaily.com/
+* https://adobedownload.org/
 
 ### Shopping
 
