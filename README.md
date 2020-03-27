@@ -70,6 +70,7 @@ List of awesome websites.
 ### Fonts
 
 * https://fonts.google.com/
+* https://www.calligraphr.com/en/
 
 ### Resources
 
