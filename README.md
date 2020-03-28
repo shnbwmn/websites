@@ -3,9 +3,12 @@ List of awesome websites.
 
 ### Design
 
+* https://graphicdesign.stackexchange.com/
 * https://www.itsnicethat.com/
 * https://www.blackandwhitestudios.nz/blog/branding-design-process
+* http://adoreddesigns.com/5-signs-your-brand-looks-unprofessional/
 * https://medium.com/@tubikstudio/6-creative-stages-of-branding-design-step-by-step-guide-be557fd329fd
+* https://nicolamurrin.com/blog/2016/11/how-to-create-a-brand-board
 * https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/
 * https://medium.com/black-white-studios/how-to-choose-an-effective-brand-colour-palette-b3c28ea3c075
 * http://zoomagazine.com/
@@ -24,6 +27,13 @@ List of awesome websites.
 * https://jamesclear.com/procrastination
 * https://medium.com/the-mission/to-be-insanely-creative-you-need-to-find-your-flow-44ca9b905ae1
 * https://sacreativenetwork.co.za/
+* https://css-tricks.com/
+* https://www.w3schools.com/
+* https://www.colourlovers.com/
+* https://www.dezeen.com/
+* https://adage.com/
+* https://www.thedrum.com/
+* https://www.creativereview.co.uk/
 
 ### 3D & Animation
 
@@ -72,10 +82,22 @@ List of awesome websites.
 * https://cgmasters.net/
 * https://jonnyelwyn.co.uk/film-and-video-editing/download-free-lens-flares/
 * http://blog.gregzaal.com/2016/03/16/make-your-own-hdri/
+* https://animade.tv/notes/the-seven-steps-of-animation-production
+* https://www.colorgradingcentral.com/
+* http://visperfect.com/en/
+* https://www.learnarchviz.com/
+* https://www.mandelbulb.com/
+
+### Content
+
+* https://copyblogger.com/
+* https://contentmarketinginstitute.com/
+* https://contently.com/strategist/
 
 ### Art
 
 * https://www.creativebloq.com/art/painting-techniques-artists-31619638
+* https://www.artsy.net/
 
 ### Tools
 
@@ -92,24 +114,50 @@ List of awesome websites.
 * https://docs.substance3d.com/spdoc/gpu-drivers-crash-with-long-computations-128745489.html
 * https://www.blendernation.com/2018/07/27/blender-2-8-pbr-texture-mapper-add-on-simplifies-importing-substance-painter-textures/
 * https://www.mixamo.com/#/
+* https://app.simplenote.com/
+* https://public.tableau.com/en-us/s/
+* https://marketingplatform.google.com/
+* https://www.audiotool.com/
+* https://laragon.org/
+* https://www.blackmagicdesign.com/products/davinciresolve/
+* https://www.contextfreeart.org/index.html
+* https://github.com/3Dickulus/FragM
+* https://www.facebook.com/ads/tools/text_overlay
+* https://color.hailpixel.com/
+* https://convertio.co/
+* https://gtmetrix.com/
+* https://developers.google.com/speed/
+* https://www.webpagetest.org/
+* https://www.grammarly.com/
+* https://www.google.com/webmasters/#?modal_active=none
+* https://search.google.com/test/mobile-friendly
 
 ### Agencies & Studios
 
 * https://www.pixar.com/
+* https://animade.tv/
 
 ### Nice brands
 
 * https://www.united.com/en/us/
 
-### Bootstrap Templates
+### Museums
 
-* https://colorlib.com/
-* https://materializecss.com
+* https://www.mfa.org/
 
-### Coding Help
+### Research
 
-* https://css-tricks.com/
-* https://www.w3schools.com/
+* https://wazimap.co.za/
+* https://www.wolframalpha.com/
+* https://www.google.com/alerts
+* https://trends.google.com/trends/?geo=ZA
+* https://marketfinder.thinkwithgoogle.com/intl/en/
+* https://www.thinkwithgoogle.com/intl/en-gb/consumer-insights/consumer-barometer/
+* https://www.bing.com/toolbox/keywords
+* https://answerthepublic.com/
+* https://www.thinkwithgoogle.com/intl/en-gb/
+* https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx
+* https://ads.google.com/intl/en_za/home/tools/keyword-planner/
 
 ### Mockups
 
@@ -122,11 +170,6 @@ List of awesome websites.
 * https://mockup.ceacle.com/search?kind=all&order=popular&q=%22free%22&view=all
 * https://www.graphberry.com/
 
-### Patterns
-
-* https://www.toptal.com/designers/subtlepatterns/
-* https://www.transparenttextures.com/
-
 ### Photography
 
 * https://www.creativebloq.com/news/take-better-photos-with-this-handy-cheat-sheet
@@ -138,6 +181,49 @@ List of awesome websites.
 * https://fstoppers.com/originals/want-make-stock-video-footage-sells-read-these-nine-tips-first-217613
 * https://photographylife.com/
 * https://skylum.com/blog/how-to-shoot-hdr
+
+### Resources
+
+* https://www.editingcorp.com
+* https://www.editingcorp.com/after-effects-plugins-scripts-list/
+* https://www.freepik.com/
+* https://kaboompics.com
+* https://www.pexels.com
+* https://unsplash.com/
+* https://pixabay.com
+* https://www.pexels.com/videos/
+* https://pixabay.com/videos/
+* https://www.rawpixel.com/
+* https://creativecommons.org/
+* https://www.flickr.com/creativecommons/
+* http://ccmixter.org
+* http://dig.ccmixter.org
+* https://www.youtube.com/audiolibrary/music?nv=1
+* https://seeklogo.com/
+* https://colorlib.com/
+* https://materializecss.com
+* https://get.foundation/
+* https://www.bensound.com/
+* https://www.toptal.com/designers/subtlepatterns/
+* https://www.transparenttextures.com/
+* https://github.com/atlemo/SubtlePatterns
+* https://freemusicarchive.org/
+* https://freesound.org/
+* https://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820
+* http://soundbible.com/
+* http://bbcsfx.acropolis.org.uk/
+* https://offers.adobe.com/en/na/audition/offers/audition_dlc.html
+* https://www.youtube.com/audiolibrary/music?nv=1
+* http://99sounds.org/
+* https://www.zapsplat.com/
+* https://www.freesfx.co.uk/
+* https://artlist.io/
+* https://www.shutterstock.com/blog/129-free-cinematic-luts
+* https://cc0textures.com/
+* https://publicdomaintextures.com/
+* https://www.pexels.com/search/texture/
+* https://www.textures.com/
+* https://freestocktextures.com/
 
 ### Icons
 
@@ -152,10 +238,7 @@ List of awesome websites.
 * https://speckyboy.com/top-50-free-icon-sets/
 * https://material.io/resources/icons/?style=baseline
 * https://github.com/google/material-design-icons
-
-### Logos
-
-* https://seeklogo.com/
+* https://thenounproject.com/
 
 ### Fonts
 
@@ -168,28 +251,6 @@ List of awesome websites.
 * https://freetypography.com/
 * https://www.shutterstock.com/blog/best-sites-source-high-quality-free-fonts
 * https://fontsinuse.com/
-
-### Resources
-
-* https://www.editingcorp.com
-* https://www.editingcorp.com/after-effects-plugins-scripts-list/
-
-### Free Images
-
-* https://kaboompics.com
-* https://www.pexels.com
-* https://pixabay.com
-
-### Free Videos
-
-* https://www.pexels.com/videos/
-* https://pixabay.com/videos/
-
-### Free Music
-
-* http://ccmixter.org
-* http://dig.ccmixter.org
-* https://www.youtube.com/audiolibrary/music?nv=1
 
 ### Home & Garden
 
@@ -220,6 +281,8 @@ List of awesome websites.
 * https://freecourseweb.com/tutorials1/
 * https://courseupload.com/
 * https://www.thoughtco.com/
+* https://www.javascript.com/
+* https://www.edx.org/
 
 ### Storage
 
@@ -232,10 +295,6 @@ List of awesome websites.
 ### Product Manuals
 
 * https://www.manualslib.com/
-
-### Tech
-
-* https://www.slashgear.com/
 
 ### Jobs
 
@@ -255,10 +314,9 @@ List of awesome websites.
 
 * https://aeon.co/
 * https://www.ted.com/
-
-### Notes
-
-* https://app.simplenote.com/
+* https://www.slashgear.com/
+* http://archimedespalimpsest.org/
+* https://hypebeast.com/
 
 
 
