@@ -224,6 +224,7 @@ List of awesome websites.
 * https://www.pexels.com/search/texture/
 * https://www.textures.com/
 * https://freestocktextures.com/
+* https://motionarray.com/learn/video-effects/free-light-leaks-overlays/
 
 ### Icons
 
