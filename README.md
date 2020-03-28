@@ -1,6 +1,8 @@
 # Websites
 List of awesome websites.
 
+> [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ### AE / Premiere
 
 * https://motionarray.com/
@@ -107,6 +109,7 @@ List of awesome websites.
 * https://1337x.to/home/
 * https://crackdaily.com/
 * https://adobedownload.org/
+* http://gen.lib.rus.ec/
 
 ### Shopping
 
