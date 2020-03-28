@@ -1,7 +1,29 @@
 # Websites
 List of awesome websites.
 
-> [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+### Design
+
+* https://www.itsnicethat.com/
+* https://www.blackandwhitestudios.nz/blog/branding-design-process
+* https://medium.com/@tubikstudio/6-creative-stages-of-branding-design-step-by-step-guide-be557fd329fd
+* https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/
+* https://medium.com/black-white-studios/how-to-choose-an-effective-brand-colour-palette-b3c28ea3c075
+* http://zoomagazine.com/
+* https://www.aiga.org/
+* https://lookbook.nu/
+* https://designmodo.com/
+* http://www.graphicdesignforums.co.uk/
+* https://www.designernews.co/
+* https://thedsgnblog.com/
+* https://filestage.io/blog/creative-brief-checklist/
+* https://kandi.co.za/how-to-write-a-brief/
+* https://www.shutterstock.com/blog/guide-graphic-design-process
+* https://thatistheday.com/
+* https://www.interaction-design.org/literature/article/ideation-for-design-preparing-for-the-design-race
+* https://www.workamajig.com/blog/creative-brief
+* https://jamesclear.com/procrastination
+* https://medium.com/the-mission/to-be-insanely-creative-you-need-to-find-your-flow-44ca9b905ae1
+* https://sacreativenetwork.co.za/
 
 ### 3D & Animation
 
@@ -46,9 +68,18 @@ List of awesome websites.
 * https://help.poliigon.com/en/articles/1712652-what-are-the-different-texture-maps-for
 * https://3dtextures.me/
 * https://www.strata.com/free-textures/
+* https://profounder.com/600-vfx-and-sfx-freebies/
+* https://cgmasters.net/
+* https://jonnyelwyn.co.uk/film-and-video-editing/download-free-lens-flares/
+* http://blog.gregzaal.com/2016/03/16/make-your-own-hdri/
+
+### Art
+
+* https://www.creativebloq.com/art/painting-techniques-artists-31619638
 
 ### Tools
 
+* https://adparlor.com/ad-mockups/
 * https://quixel.com/mixer
 * https://www.unrealengine.com/
 * https://godotengine.org/
@@ -62,6 +93,14 @@ List of awesome websites.
 * https://www.blendernation.com/2018/07/27/blender-2-8-pbr-texture-mapper-add-on-simplifies-importing-substance-painter-textures/
 * https://www.mixamo.com/#/
 
+### Agencies & Studios
+
+* https://www.pixar.com/
+
+### Nice brands
+
+* https://www.united.com/en/us/
+
 ### Bootstrap Templates
 
 * https://colorlib.com/
@@ -74,7 +113,6 @@ List of awesome websites.
 
 ### Mockups
 
-* https://adparlor.com/ad-mockups/
 * https://graphicburger.com/
 * https://mockups-design.com/
 * https://mockupsforfree.com/
@@ -82,6 +120,7 @@ List of awesome websites.
 * https://goodmockups.com/
 * https://www.anthonyboyd.graphics/mockups/
 * https://mockup.ceacle.com/search?kind=all&order=popular&q=%22free%22&view=all
+* https://www.graphberry.com/
 
 ### Patterns
 
@@ -92,6 +131,13 @@ List of awesome websites.
 
 * https://www.creativebloq.com/news/take-better-photos-with-this-handy-cheat-sheet
 * https://skylum.com/blog/photography-cheat-sheet-manual-mode-camera-settings
+* https://pixls.us/
+* https://www.reddit.com/r/photography/
+* https://www.bhphotovideo.com/explora/video/tips-and-solutions/understanding-log-format-recording
+* https://www.rocketstock.com/blog/tips-for-log-color-space-compositing/
+* https://fstoppers.com/originals/want-make-stock-video-footage-sells-read-these-nine-tips-first-217613
+* https://photographylife.com/
+* https://skylum.com/blog/how-to-shoot-hdr
 
 ### Icons
 
@@ -118,6 +164,10 @@ List of awesome websites.
 * https://thefontsmaster.com/all-the-fonts/
 * https://www.futurafree.com/
 * https://github.com/potyt/fonts
+* https://www.canva.com/learn/font-design/
+* https://freetypography.com/
+* https://www.shutterstock.com/blog/best-sites-source-high-quality-free-fonts
+* https://fontsinuse.com/
 
 ### Resources
 
@@ -145,6 +195,7 @@ List of awesome websites.
 
 * https://www.houzz.com/
 * https://www.gardenweb.com/
+* https://abeautifulmess.com/
 
 ### Download Sources
 
@@ -168,6 +219,7 @@ List of awesome websites.
 
 * https://freecourseweb.com/tutorials1/
 * https://courseupload.com/
+* https://www.thoughtco.com/
 
 ### Storage
 
