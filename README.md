@@ -3,27 +3,64 @@ List of awesome websites.
 
 > [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-### AE / Premiere
+### 3D & Animation
 
+* https://www.blendswap.com/
+* https://www.blenderguru.com/
+* https://free3d.com/
+* https://www.blenderhd.com/
+* https://blendermada.com/
+* https://discover.therookies.co/
+* http://blendersauce.com/the-blendersauce-vault-2/the-material-vault-categories/
+* https://devtalk.blender.org/
+* https://www.reddit.com/r/blender/
+* https://www.reddit.com/r/blenderhelp/
+* http://www.cgchannel.com/
+* https://blender-addons.org/
+* https://devtalk.blender.org/
+* https://easings.net/en
+* https://blender.community/c/
 * https://motionarray.com/
 * https://shareae.com
 * https://www.luxuryleaks.com/after-effects-freebies/
 * https://www.template.net/business/tools/websites-to-download-after-effect/
 * https://www.velosofy.com/templates/after-effects?page=1
 * https://911templates.com/free
-
-### 3D
-
-* https://www.mixamo.com/#/
-* https://www.blendswap.com/
-* https://www.blenderguru.com/
-* https://free3d.com/
-* https://www.blenderhd.com/
-* https://blendermada.com/
-
-### HDRI
-
 * https://hdrihaven.com/
+* https://www.cgtrader.com/free-3d-models
+* http://www.aendom.com/en/
+* https://www.strata.com/free-textures/
+* https://all3dp.com/
+* https://www.cgtrader.com/free-3d-models/textures
+* https://source.substance3d.com/
+* http://www.texturise.club/
+* https://3dtextures.me/
+* https://www.sketchuptextureclub.com/
+* https://freepbr.com/
+* https://www.all3dfree.net/
+* https://www.creativebloq.com/3d-tips/find-high-res-textures-1232646
+* http://texturer.com/
+* https://freetextures.3dtotal.com/
+* https://www.3dxo.com/textures
+* https://all3dp.com/2/best-sites-for-free-3d-textures/
+* https://help.poliigon.com/en/articles/1712652-what-are-the-different-texture-maps-for
+* https://3dtextures.me/
+* https://www.strata.com/free-textures/
+
+### Tools
+
+* https://quixel.com/mixer
+* https://www.unrealengine.com/
+* https://godotengine.org/
+* http://www.wings3d.com/
+* https://blenderartists.org/t/wings3d-to-blender/310273
+* http://www.makehumancommunity.org/
+* https://ephtracy.github.io/
+* https://natrongithub.github.io/
+* https://www.substance3d.com/
+* https://docs.substance3d.com/spdoc/gpu-drivers-crash-with-long-computations-128745489.html
+* https://www.blendernation.com/2018/07/27/blender-2-8-pbr-texture-mapper-add-on-simplifies-importing-substance-painter-textures/
+* https://www.mixamo.com/#/
 
 ### Bootstrap Templates
 
@@ -51,6 +88,11 @@ List of awesome websites.
 * https://www.toptal.com/designers/subtlepatterns/
 * https://www.transparenttextures.com/
 
+### Photography
+
+* https://www.creativebloq.com/news/take-better-photos-with-this-handy-cheat-sheet
+* https://skylum.com/blog/photography-cheat-sheet-manual-mode-camera-settings
+
 ### Icons
 
 * https://freeicons.io/
@@ -73,6 +115,9 @@ List of awesome websites.
 
 * https://fonts.google.com/
 * https://www.calligraphr.com/en/
+* https://thefontsmaster.com/all-the-fonts/
+* https://www.futurafree.com/
+* https://github.com/potyt/fonts
 
 ### Resources
 
