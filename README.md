@@ -253,6 +253,14 @@ List of awesome websites.
 * https://freetypography.com/
 * https://www.shutterstock.com/blog/best-sites-source-high-quality-free-fonts
 * https://fontsinuse.com/
+* https://en.bestfonts.pro/
+* https://www.cufonfonts.com/
+* http://fontsgeek.com/
+* http://fontsfree.net/
+* https://freetypography.com/
+* https://type.method.ac/
+* https://www.onlinewebfonts.com/
+* https://thefontsmaster.com/
 
 ### Home & Garden
 
