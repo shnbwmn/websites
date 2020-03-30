@@ -132,6 +132,8 @@ List of awesome websites.
 * https://www.google.com/webmasters/#?modal_active=none
 * https://search.google.com/test/mobile-friendly
 * https://getmetastream.com/
+* https://www.monotype.com/products/skyfonts
+* https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
 
 ### Agencies & Studios
 
@@ -261,6 +263,7 @@ List of awesome websites.
 * https://type.method.ac/
 * https://www.onlinewebfonts.com/
 * https://thefontsmaster.com/
+* http://rostype.com/en/home_/
 
 ### Home & Garden
 
