@@ -34,6 +34,8 @@ List of awesome websites.
 * https://adage.com/
 * https://www.thedrum.com/
 * https://www.creativereview.co.uk/
+* https://creativefeel.co.za/
+* https://visi.co.za/
 
 ### 3D & Animation
 
@@ -334,6 +336,7 @@ List of awesome websites.
 * https://www.slashgear.com/
 * http://archimedespalimpsest.org/
 * https://hypebeast.com/
+* https://www.theverge.com/
 
 
 
