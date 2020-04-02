@@ -229,6 +229,7 @@ List of awesome websites.
 * https://freestocktextures.com/
 * https://motionarray.com/learn/video-effects/free-light-leaks-overlays/
 * https://www.brandsoftheworld.com/
+* https://www.free-mockup.com/downloads/iphone-8-mockup-free/
 
 ### Icons
 
