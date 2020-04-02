@@ -179,6 +179,7 @@ List of awesome websites.
 * https://www.creativebloq.com/news/take-better-photos-with-this-handy-cheat-sheet
 * https://skylum.com/blog/photography-cheat-sheet-manual-mode-camera-settings
 * https://pixls.us/
+* https://petapixel.com/
 * https://www.reddit.com/r/photography/
 * https://www.bhphotovideo.com/explora/video/tips-and-solutions/understanding-log-format-recording
 * https://www.rocketstock.com/blog/tips-for-log-color-space-compositing/
