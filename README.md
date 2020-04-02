@@ -282,6 +282,7 @@ List of awesome websites.
 * https://crackdaily.com/
 * https://adobedownload.org/
 * http://gen.lib.rus.ec/
+* https://btdb.io/
 
 ### Shopping
 
