@@ -189,24 +189,29 @@ List of awesome websites.
 * https://photographylife.com/
 * https://skylum.com/blog/how-to-shoot-hdr
 
-### Resources
+## Resources
+
+### Images
+
+* https://kaboompics.com
+* https://unsplash.com/
+* https://pixabay.com
+* https://www.pexels.com
+* https://www.rawpixel.com/
+
+| Video | Show file differences that haven't been staged |
+| Audio | Show file differences that haven't been staged |
+| Vectors | https://www.freepik.com/ <br> https://seeklogo.com/ |
 
 * https://www.editingcorp.com
 * https://www.editingcorp.com/after-effects-plugins-scripts-list/
-* https://www.freepik.com/
-* https://kaboompics.com
-* https://www.pexels.com
-* https://unsplash.com/
-* https://pixabay.com
 * https://www.pexels.com/videos/
 * https://pixabay.com/videos/
-* https://www.rawpixel.com/
 * https://creativecommons.org/
 * https://www.flickr.com/creativecommons/
 * http://ccmixter.org
 * http://dig.ccmixter.org
 * https://www.youtube.com/audiolibrary/music?nv=1
-* https://seeklogo.com/
 * https://colorlib.com/
 * https://materializecss.com
 * https://get.foundation/
