@@ -6,12 +6,6 @@ List of awesome websites.
 
 * https://graphicdesign.stackexchange.com/
 * https://www.itsnicethat.com/
-* https://www.blackandwhitestudios.nz/blog/branding-design-process
-* http://adoreddesigns.com/5-signs-your-brand-looks-unprofessional/
-* https://medium.com/@tubikstudio/6-creative-stages-of-branding-design-step-by-step-guide-be557fd329fd
-* https://nicolamurrin.com/blog/2016/11/how-to-create-a-brand-board
-* https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/
-* https://medium.com/black-white-studios/how-to-choose-an-effective-brand-colour-palette-b3c28ea3c075
 * http://zoomagazine.com/
 * https://www.aiga.org/
 * https://lookbook.nu/
@@ -19,14 +13,7 @@ List of awesome websites.
 * http://www.graphicdesignforums.co.uk/
 * https://www.designernews.co/
 * https://thedsgnblog.com/
-* https://filestage.io/blog/creative-brief-checklist/
-* https://kandi.co.za/how-to-write-a-brief/
-* https://www.shutterstock.com/blog/guide-graphic-design-process
 * https://thatistheday.com/
-* https://www.interaction-design.org/literature/article/ideation-for-design-preparing-for-the-design-race
-* https://www.workamajig.com/blog/creative-brief
-* https://jamesclear.com/procrastination
-* https://medium.com/the-mission/to-be-insanely-creative-you-need-to-find-your-flow-44ca9b905ae1
 * https://sacreativenetwork.co.za/
 * https://css-tricks.com/
 * https://www.w3schools.com/
@@ -37,6 +24,22 @@ List of awesome websites.
 * https://www.creativereview.co.uk/
 * https://creativefeel.co.za/
 * https://visi.co.za/
+
+### Articles
+
+* https://www.blackandwhitestudios.nz/blog/branding-design-process
+* http://adoreddesigns.com/5-signs-your-brand-looks-unprofessional/
+* https://medium.com/@tubikstudio/6-creative-stages-of-branding-design-step-by-step-guide-be557fd329fd
+* https://nicolamurrin.com/blog/2016/11/how-to-create-a-brand-board
+* https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/
+* https://medium.com/black-white-studios/how-to-choose-an-effective-brand-colour-palette-b3c28ea3c075
+* https://jamesclear.com/procrastination
+* https://medium.com/the-mission/to-be-insanely-creative-you-need-to-find-your-flow-44ca9b905ae1
+* https://www.interaction-design.org/literature/article/ideation-for-design-preparing-for-the-design-race
+* https://www.workamajig.com/blog/creative-brief
+* https://filestage.io/blog/creative-brief-checklist/
+* https://kandi.co.za/how-to-write-a-brief/
+* https://www.shutterstock.com/blog/guide-graphic-design-process
 
 ### Agencies & Studios
 
