@@ -1,7 +1,8 @@
+
 # Websites
 List of awesome websites.
 
-### Design
+## Design
 
 * https://graphicdesign.stackexchange.com/
 * https://www.itsnicethat.com/
@@ -37,7 +38,25 @@ List of awesome websites.
 * https://creativefeel.co.za/
 * https://visi.co.za/
 
-### 3D & Animation
+### Agencies & Studios
+
+* https://www.pixar.com/
+* https://animade.tv/
+
+### Nice brands
+
+* https://www.united.com/en/us/
+
+### Museums
+
+* https://www.mfa.org/
+
+### Art
+
+* https://www.creativebloq.com/art/painting-techniques-artists-31619638
+* https://www.artsy.net/
+
+## 3D & Animation
 
 * https://www.blendswap.com/
 * https://www.blenderguru.com/
@@ -90,18 +109,40 @@ List of awesome websites.
 * https://www.learnarchviz.com/
 * https://www.mandelbulb.com/
 
-### Content
+## Content
 
 * https://copyblogger.com/
 * https://contentmarketinginstitute.com/
 * https://contently.com/strategist/
 
-### Art
+## Research
 
-* https://www.creativebloq.com/art/painting-techniques-artists-31619638
-* https://www.artsy.net/
+* https://wazimap.co.za/
+* https://www.wolframalpha.com/
+* https://www.google.com/alerts
+* https://trends.google.com/trends/?geo=ZA
+* https://marketfinder.thinkwithgoogle.com/intl/en/
+* https://www.thinkwithgoogle.com/intl/en-gb/consumer-insights/consumer-barometer/
+* https://www.bing.com/toolbox/keywords
+* https://answerthepublic.com/
+* https://www.thinkwithgoogle.com/intl/en-gb/
+* https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx
+* https://ads.google.com/intl/en_za/home/tools/keyword-planner/
 
-### Tools
+## Photography
+
+* https://www.creativebloq.com/news/take-better-photos-with-this-handy-cheat-sheet
+* https://skylum.com/blog/photography-cheat-sheet-manual-mode-camera-settings
+* https://pixls.us/
+* https://petapixel.com/
+* https://www.reddit.com/r/photography/
+* https://www.bhphotovideo.com/explora/video/tips-and-solutions/understanding-log-format-recording
+* https://www.rocketstock.com/blog/tips-for-log-color-space-compositing/
+* https://fstoppers.com/originals/want-make-stock-video-footage-sells-read-these-nine-tips-first-217613
+* https://photographylife.com/
+* https://skylum.com/blog/how-to-shoot-hdr
+
+## Tools
 
 * https://adparlor.com/ad-mockups/
 * https://quixel.com/mixer
@@ -137,59 +178,13 @@ List of awesome websites.
 * https://www.monotype.com/products/skyfonts
 * https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
 
-### Agencies & Studios
+### Storage
 
-* https://www.pixar.com/
-* https://animade.tv/
-
-### Nice brands
-
-* https://www.united.com/en/us/
-
-### Museums
-
-* https://www.mfa.org/
-
-### Research
-
-* https://wazimap.co.za/
-* https://www.wolframalpha.com/
-* https://www.google.com/alerts
-* https://trends.google.com/trends/?geo=ZA
-* https://marketfinder.thinkwithgoogle.com/intl/en/
-* https://www.thinkwithgoogle.com/intl/en-gb/consumer-insights/consumer-barometer/
-* https://www.bing.com/toolbox/keywords
-* https://answerthepublic.com/
-* https://www.thinkwithgoogle.com/intl/en-gb/
-* https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx
-* https://ads.google.com/intl/en_za/home/tools/keyword-planner/
-
-### Mockups
-
-* https://graphicburger.com/
-* https://mockups-design.com/
-* https://mockupsforfree.com/
-* https://www.mockupworld.co/
-* https://goodmockups.com/
-* https://www.anthonyboyd.graphics/mockups/
-* https://mockup.ceacle.com/search?kind=all&order=popular&q=%22free%22&view=all
-* https://www.graphberry.com/
-* https://www.free-mockup.com/downloads/iphone-8-mockup-free/
-
-### Photography
-
-* https://www.creativebloq.com/news/take-better-photos-with-this-handy-cheat-sheet
-* https://skylum.com/blog/photography-cheat-sheet-manual-mode-camera-settings
-* https://pixls.us/
-* https://petapixel.com/
-* https://www.reddit.com/r/photography/
-* https://www.bhphotovideo.com/explora/video/tips-and-solutions/understanding-log-format-recording
-* https://www.rocketstock.com/blog/tips-for-log-color-space-compositing/
-* https://fstoppers.com/originals/want-make-stock-video-footage-sells-read-these-nine-tips-first-217613
-* https://photographylife.com/
-* https://skylum.com/blog/how-to-shoot-hdr
+* https://mega.nz
 
 ## Resources
+
+* https://creativecommons.org/
 
 ### Images
 
@@ -198,27 +193,15 @@ List of awesome websites.
 * https://pixabay.com
 * https://www.pexels.com
 * https://www.rawpixel.com/
+* https://www.flickr.com/creativecommons/
 
-| Video | Show file differences that haven't been staged |
-| Audio | Show file differences that haven't been staged |
-| Vectors | https://www.freepik.com/ <br> https://seeklogo.com/ |
+### Video
 
-* https://www.editingcorp.com
-* https://www.editingcorp.com/after-effects-plugins-scripts-list/
 * https://www.pexels.com/videos/
 * https://pixabay.com/videos/
-* https://creativecommons.org/
-* https://www.flickr.com/creativecommons/
-* http://ccmixter.org
-* http://dig.ccmixter.org
-* https://www.youtube.com/audiolibrary/music?nv=1
-* https://colorlib.com/
-* https://materializecss.com
-* https://get.foundation/
-* https://www.bensound.com/
-* https://www.toptal.com/designers/subtlepatterns/
-* https://www.transparenttextures.com/
-* https://github.com/atlemo/SubtlePatterns
+
+### Audio
+
 * https://freemusicarchive.org/
 * https://freesound.org/
 * https://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820
@@ -230,14 +213,32 @@ List of awesome websites.
 * https://www.zapsplat.com/
 * https://www.freesfx.co.uk/
 * https://artlist.io/
-* https://www.shutterstock.com/blog/129-free-cinematic-luts
+* http://ccmixter.org
+* http://dig.ccmixter.org
+* https://www.bensound.com/
+
+### Vectors
+
+* https://www.freepik.com/
+* https://seeklogo.com/
+* https://www.brandsoftheworld.com/
+
+### Textures
+
 * https://cc0textures.com/
 * https://publicdomaintextures.com/
 * https://www.pexels.com/search/texture/
 * https://www.textures.com/
 * https://freestocktextures.com/
-* https://motionarray.com/learn/video-effects/free-light-leaks-overlays/
-* https://www.brandsoftheworld.com/
+* https://www.toptal.com/designers/subtlepatterns/
+* https://www.transparenttextures.com/
+* https://github.com/atlemo/SubtlePatterns
+
+### Web
+
+* https://colorlib.com/
+* https://materializecss.com
+* https://get.foundation/
 
 ### Icons
 
@@ -275,13 +276,32 @@ List of awesome websites.
 * https://thefontsmaster.com/
 * http://rostype.com/en/home_/
 
-### Home & Garden
+### After Effects & Premiere
+
+* https://www.shutterstock.com/blog/129-free-cinematic-luts
+* https://motionarray.com/learn/video-effects/free-light-leaks-overlays/
+* https://www.editingcorp.com
+* https://www.editingcorp.com/after-effects-plugins-scripts-list/
+
+### Mockups
+
+* https://graphicburger.com/
+* https://mockups-design.com/
+* https://mockupsforfree.com/
+* https://www.mockupworld.co/
+* https://goodmockups.com/
+* https://www.anthonyboyd.graphics/mockups/
+* https://mockup.ceacle.com/search?kind=all&order=popular&q=%22free%22&view=all
+* https://www.graphberry.com/
+* https://www.free-mockup.com/downloads/iphone-8-mockup-free/
+
+## Home & Garden
 
 * https://www.houzz.com/
 * https://www.gardenweb.com/
 * https://abeautifulmess.com/
 
-### Download Sources
+## Download Sources
 
 * https://proxyrarbg.org/torrents.php
 * https://thekickasstorrents.com/
@@ -292,26 +312,6 @@ List of awesome websites.
 * http://gen.lib.rus.ec/
 * https://btdb.io/
 
-### Shopping
-
-* https://www.takealot.com
-* https://www.decofurnsa.co.za
-* https://www.loot.co.za/welcome
-* https://www.evetech.co.za
-* https://www.checkers.co.za/c-2824/All-Departments/Electronics
-
-### Courses & Tutorials
-
-* https://freecourseweb.com/tutorials1/
-* https://courseupload.com/
-* https://www.thoughtco.com/
-* https://www.javascript.com/
-* https://www.edx.org/
-
-### Storage
-
-* https://mega.nz
-
 ### Streaming
 
 * https://ihavenotv.com/
@@ -320,7 +320,23 @@ List of awesome websites.
 
 * https://www.manualslib.com/
 
-### Jobs
+## Shopping
+
+* https://www.takealot.com
+* https://www.decofurnsa.co.za
+* https://www.loot.co.za/welcome
+* https://www.evetech.co.za
+* https://www.checkers.co.za/c-2824/All-Departments/Electronics
+
+## Learning
+
+* https://freecourseweb.com/tutorials1/
+* https://courseupload.com/
+* https://www.thoughtco.com/
+* https://www.javascript.com/
+* https://www.edx.org/
+
+## Jobs
 
 * https://www.indeed.co.za/
 * https://za.jooble.org/
@@ -334,7 +350,7 @@ List of awesome websites.
 * https://www.careers24.com/
 * https://www.jobplacements.com/index.asp
 
-### Interesting
+## Interesting
 
 * https://aeon.co/
 * https://www.ted.com/
