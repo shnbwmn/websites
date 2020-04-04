@@ -111,6 +111,7 @@ List of awesome websites.
 * http://visperfect.com/en/
 * https://www.learnarchviz.com/
 * https://www.mandelbulb.com/
+* https://computergraphics.stackexchange.com/
 
 ## Content
 
@@ -355,6 +356,8 @@ List of awesome websites.
 
 ## Interesting
 
+* https://www.quora.com/
+* https://stackexchange.com/
 * https://aeon.co/
 * https://www.ted.com/
 * https://www.slashgear.com/
