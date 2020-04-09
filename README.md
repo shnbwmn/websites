@@ -148,7 +148,6 @@ List of awesome websites.
 
 ## Tools
 
-* https://adparlor.com/ad-mockups/
 * https://quixel.com/mixer
 * https://www.unrealengine.com/
 * https://godotengine.org/
@@ -184,6 +183,8 @@ List of awesome websites.
 
 ### Social Media
 
+* https://adparlor.com/ad-mockups/
+* https://www.facebook.com/ads/adbuilder/home/?act=345719909395101
 * https://www.savetweetvid.com/
 * https://downloadgram.com/
 * https://fbdown.net/
