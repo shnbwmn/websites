@@ -181,6 +181,10 @@ List of awesome websites.
 * https://www.monotype.com/products/skyfonts
 * https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
 
+### Markdown
+
+* https://stackedit.io/
+
 ### Social Media
 
 * https://adparlor.com/ad-mockups/
