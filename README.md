@@ -237,8 +237,6 @@ List of awesome websites.
 * https://www.freepik.com/
 * https://seeklogo.com/
 * https://www.brandsoftheworld.com/
-* [https://iconstore.co/](https://iconstore.co/)
-* [https://freeicons.io/](https://freeicons.io/)
 
 ### Textures
 
@@ -259,7 +257,6 @@ List of awesome websites.
 
 ### Icons
 
-* https://freeicons.io/
 * https://www.flaticon.com/
 * https://medium.com/@101/the-best-free-icon-packs-26f36ddd732e
 * https://icons8.com/
@@ -271,6 +268,8 @@ List of awesome websites.
 * https://material.io/resources/icons/?style=baseline
 * https://github.com/google/material-design-icons
 * https://thenounproject.com/
+* [https://iconstore.co/](https://iconstore.co/) - free for commercial use
+* [https://freeicons.io/](https://freeicons.io/)
 
 ### Fonts
 
