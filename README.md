@@ -292,6 +292,7 @@ List of awesome websites.
 * https://www.onlinewebfonts.com/
 * https://thefontsmaster.com/
 * http://rostype.com/en/home_/
+* [https://v-fonts.com/](https://v-fonts.com/) - variable fonts
 
 ### After Effects & Premiere
 
@@ -383,5 +384,5 @@ List of awesome websites.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA4NTYzNDRdfQ==
+eyJoaXN0b3J5IjpbLTczOTU4MjA5MCwtMTcwMDg1NjM0NF19
 -->
