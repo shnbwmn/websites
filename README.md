@@ -237,6 +237,8 @@ List of awesome websites.
 * https://www.freepik.com/
 * https://seeklogo.com/
 * https://www.brandsoftheworld.com/
+* [https://iconstore.co/](https://iconstore.co/)
+* [https://freeicons.io/](https://freeicons.io/)
 
 ### Textures
 
@@ -380,3 +382,6 @@ List of awesome websites.
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3MDA4NTYzNDRdfQ==
+-->
