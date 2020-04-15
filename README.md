@@ -187,6 +187,7 @@ List of awesome websites.
 
 ### Social Media
 
+* [https://socialblade.com/](https://socialblade.com/)
 * https://adparlor.com/ad-mockups/
 * https://www.facebook.com/ads/adbuilder/home/?act=345719909395101
 * https://www.savetweetvid.com/
@@ -304,6 +305,8 @@ List of awesome websites.
 
 * [http://vectips.com/](http://vectips.com/)
 * [https://indesignsecrets.com/](https://indesignsecrets.com/)
+* [https://www.creativebloq.com/computer-arts/mastering-grids-indesign-cc-71412235](https://www.creativebloq.com/computer-arts/mastering-grids-indesign-cc-71412235)
+* [https://indesignsecrets.com/transform-a-frame-into-a-grid-of-frames.php](https://indesignsecrets.com/transform-a-frame-into-a-grid-of-frames.php)
 
 ### Mockups
 
@@ -388,6 +391,6 @@ List of awesome websites.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTQyOTM0MiwtNzM5NTgyMDkwLC0xNz
-AwODU2MzQ0XX0=
+eyJoaXN0b3J5IjpbMzQ4NzU4MzE1LC03Mzk1ODIwOTAsLTE3MD
+A4NTYzNDRdfQ==
 -->
