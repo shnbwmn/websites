@@ -300,6 +300,11 @@ List of awesome websites.
 * https://www.editingcorp.com
 * https://www.editingcorp.com/after-effects-plugins-scripts-list/
 
+### Illustrator & Indesign
+
+* [http://vectips.com/](http://vectips.com/)
+* [https://indesignsecrets.com/](https://indesignsecrets.com/)
+
 ### Mockups
 
 * https://graphicburger.com/
@@ -383,5 +388,6 @@ List of awesome websites.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTU4MjA5MCwtMTcwMDg1NjM0NF19
+eyJoaXN0b3J5IjpbLTI0OTQyOTM0MiwtNzM5NTgyMDkwLC0xNz
+AwODU2MzQ0XX0=
 -->
