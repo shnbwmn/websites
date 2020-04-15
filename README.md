@@ -300,6 +300,7 @@ List of awesome websites.
 * https://motionarray.com/learn/video-effects/free-light-leaks-overlays/
 * https://www.editingcorp.com
 * https://www.editingcorp.com/after-effects-plugins-scripts-list/
+* https://helpx.adobe.com/africa/premiere-pro/how-to/send-sequence-audition-mixing.html
 
 ### Illustrator & Indesign
 
@@ -391,6 +392,6 @@ List of awesome websites.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQxMzkyNiwtNzM5NTgyMDkwLC0xNz
-AwODU2MzQ0XX0=
+eyJoaXN0b3J5IjpbLTQ0ODgzMTEzMywtMTA2NDEzOTI2LC03Mz
+k1ODIwOTAsLTE3MDA4NTYzNDRdfQ==
 -->
