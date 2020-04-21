@@ -29,6 +29,11 @@ List of awesome websites.
 
 * [https://www.davechaffey.com/](https://www.davechaffey.com/)
 
+### Web
+
+* https://uxplanet.org/
+* https://1stwebdesigner.com/
+
 ### Articles
 
 * https://www.blackandwhitestudios.nz/blog/branding-design-process
@@ -186,6 +191,10 @@ List of awesome websites.
 * https://www.monotype.com/products/skyfonts
 * https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
 
+### 3D
+
+* [https://clara.io/](https://clara.io/)
+
 ### Markdown
 
 * https://stackedit.io/
@@ -237,6 +246,13 @@ List of awesome websites.
 * http://ccmixter.org
 * http://dig.ccmixter.org
 * https://www.bensound.com/
+
+### 3D & CAD
+
+* [https://sketchfab.com/](https://sketchfab.com/)
+* [https://clara.io/](https://clara.io/)
+* https://www.3dcadbrowser.com/
+* https://free3d.com/
 
 ### Vectors
 
