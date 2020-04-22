@@ -33,6 +33,7 @@ List of awesome websites.
 
 * https://uxplanet.org/
 * https://1stwebdesigner.com/
+* https://uxdesign.cc/
 
 ### Articles
 
