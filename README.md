@@ -207,6 +207,8 @@ List of awesome websites.
 * https://www.savetweetvid.com/
 * https://downloadgram.com/
 * https://fbdown.net/
+* [Facebook Text Overlay Tool](https://www.facebook.com/ads/tools/text_overlay) - find out if FB/insta images adhere to text rule
+* [About Text in Ad Images](https://www.facebook.com/business/help/980593475366490?id=1240182842783684)
 
 ### Storage
 
