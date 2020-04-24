@@ -192,7 +192,7 @@ List of awesome websites.
 * https://www.monotype.com/products/skyfonts
 * https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
 
-### 3D
+### Online 3D
 
 * [https://clara.io/](https://clara.io/)
 
@@ -250,12 +250,13 @@ List of awesome websites.
 * http://dig.ccmixter.org
 * https://www.bensound.com/
 
-### 3D & CAD
+### 3D Models
 
 * [https://sketchfab.com/](https://sketchfab.com/)
 * [https://clara.io/](https://clara.io/)
 * https://www.3dcadbrowser.com/
 * https://free3d.com/
+* [https://www.blender.org/download/demo-files/](https://www.blender.org/download/demo-files/)
 
 ### Vectors
 
@@ -417,6 +418,7 @@ List of awesome websites.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODgyNDYxNDUsNjAwMTgxMDc4LC0xMD
-Y0MTM5MjYsLTczOTU4MjA5MCwtMTcwMDg1NjM0NF19
+eyJoaXN0b3J5IjpbMTYxNDYzNzYzMCwtMTI4ODI0NjE0NSw2MD
+AxODEwNzgsLTEwNjQxMzkyNiwtNzM5NTgyMDkwLC0xNzAwODU2
+MzQ0XX0=
 -->
