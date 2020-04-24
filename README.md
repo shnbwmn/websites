@@ -212,11 +212,6 @@ List of awesome websites.
 * [Facebook Text Overlay Tool](https://www.facebook.com/ads/tools/text_overlay) - find out if FB/insta images adhere to text rule
 * [About Text in Ad Images](https://www.facebook.com/business/help/980593475366490?id=1240182842783684)
 
-### Web Design
-
-* [https://www.layoutit.com/](https://www.layoutit.com/)
-* [https://mobirise.com/bootstrap-builder/](https://mobirise.com/bootstrap-builder/)
-
 ### Storage
 
 * https://mega.nz
@@ -424,7 +419,7 @@ List of awesome websites.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjU4OTQ3NCwxNjE0NjM3NjMwLC0xMj
-g4MjQ2MTQ1LDYwMDE4MTA3OCwtMTA2NDEzOTI2LC03Mzk1ODIw
-OTAsLTE3MDA4NTYzNDRdfQ==
+eyJoaXN0b3J5IjpbLTEwNDk2NDM1NTUsLTM2MjU4OTQ3NCwxNj
+E0NjM3NjMwLC0xMjg4MjQ2MTQ1LDYwMDE4MTA3OCwtMTA2NDEz
+OTI2LC03Mzk1ODIwOTAsLTE3MDA4NTYzNDRdfQ==
 -->
