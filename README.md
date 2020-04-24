@@ -28,6 +28,7 @@ List of awesome websites.
 ### Marketing
 
 * [https://www.davechaffey.com/](https://www.davechaffey.com/)
+* [https://themediaonline.co.za/](https://themediaonline.co.za/)
 
 ### Web
 
@@ -210,6 +211,11 @@ List of awesome websites.
 * https://fbdown.net/
 * [Facebook Text Overlay Tool](https://www.facebook.com/ads/tools/text_overlay) - find out if FB/insta images adhere to text rule
 * [About Text in Ad Images](https://www.facebook.com/business/help/980593475366490?id=1240182842783684)
+
+### Web Design
+
+* [https://www.layoutit.com/](https://www.layoutit.com/)
+* [https://mobirise.com/bootstrap-builder/](https://mobirise.com/bootstrap-builder/)
 
 ### Storage
 
@@ -418,7 +424,7 @@ List of awesome websites.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDYzNzYzMCwtMTI4ODI0NjE0NSw2MD
-AxODEwNzgsLTEwNjQxMzkyNiwtNzM5NTgyMDkwLC0xNzAwODU2
-MzQ0XX0=
+eyJoaXN0b3J5IjpbLTM2MjU4OTQ3NCwxNjE0NjM3NjMwLC0xMj
+g4MjQ2MTQ1LDYwMDE4MTA3OCwtMTA2NDEzOTI2LC03Mzk1ODIw
+OTAsLTE3MDA4NTYzNDRdfQ==
 -->
