@@ -216,6 +216,10 @@ List of awesome websites.
 
 * https://mega.nz
 
+### Vector
+
+* [Vectr](https://vectr.com/#)
+
 ## Resources
 
 * https://creativecommons.org/
@@ -419,7 +423,8 @@ List of awesome websites.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDk2NDM1NTUsLTM2MjU4OTQ3NCwxNj
-E0NjM3NjMwLC0xMjg4MjQ2MTQ1LDYwMDE4MTA3OCwtMTA2NDEz
-OTI2LC03Mzk1ODIwOTAsLTE3MDA4NTYzNDRdfQ==
+eyJoaXN0b3J5IjpbMjQ4MDIxODU0LC0xMDQ5NjQzNTU1LC0zNj
+I1ODk0NzQsMTYxNDYzNzYzMCwtMTI4ODI0NjE0NSw2MDAxODEw
+NzgsLTEwNjQxMzkyNiwtNzM5NTgyMDkwLC0xNzAwODU2MzQ0XX
+0=
 -->
