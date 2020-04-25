@@ -201,6 +201,10 @@ List of awesome websites.
 
 * [https://clara.io/](https://clara.io/)
 
+### CAD
+
+ * [https://3dorchard.com/app](https://3dorchard.com/app)
+
 ### Markdown
 
 * https://stackedit.io/
@@ -266,6 +270,7 @@ List of awesome websites.
 * https://www.3dcadbrowser.com/
 * https://free3d.com/
 * [https://www.blender.org/download/demo-files/](https://www.blender.org/download/demo-files/)
+* [https://3dorchard.com/app](https://3dorchard.com/app)
 
 ### Vectors
 
@@ -427,8 +432,8 @@ List of awesome websites.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODQ0ODEyMSwtMTA0OTY0MzU1NSwtMz
-YyNTg5NDc0LDE2MTQ2Mzc2MzAsLTEyODgyNDYxNDUsNjAwMTgx
-MDc4LC0xMDY0MTM5MjYsLTczOTU4MjA5MCwtMTcwMDg1NjM0NF
-19
+eyJoaXN0b3J5IjpbMTc5Njc4MDUyNiwtMjc4NDQ4MTIxLC0xMD
+Q5NjQzNTU1LC0zNjI1ODk0NzQsMTYxNDYzNzYzMCwtMTI4ODI0
+NjE0NSw2MDAxODEwNzgsLTEwNjQxMzkyNiwtNzM5NTgyMDkwLC
+0xNzAwODU2MzQ0XX0=
 -->
