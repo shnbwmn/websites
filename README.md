@@ -193,6 +193,10 @@ List of awesome websites.
 * https://www.monotype.com/products/skyfonts
 * https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
 
+### Packaging
+
+* [https://www.pack.ly/en](https://www.pack.ly/en)
+
 ### Online 3D
 
 * [https://clara.io/](https://clara.io/)
@@ -423,8 +427,8 @@ List of awesome websites.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4MDIxODU0LC0xMDQ5NjQzNTU1LC0zNj
-I1ODk0NzQsMTYxNDYzNzYzMCwtMTI4ODI0NjE0NSw2MDAxODEw
-NzgsLTEwNjQxMzkyNiwtNzM5NTgyMDkwLC0xNzAwODU2MzQ0XX
-0=
+eyJoaXN0b3J5IjpbLTI3ODQ0ODEyMSwtMTA0OTY0MzU1NSwtMz
+YyNTg5NDc0LDE2MTQ2Mzc2MzAsLTEyODgyNDYxNDUsNjAwMTgx
+MDc4LC0xMDY0MTM5MjYsLTczOTU4MjA5MCwtMTcwMDg1NjM0NF
+19
 -->
