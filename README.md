@@ -737,6 +737,7 @@ List of awesome websites and tools, particularly for design.
 ### Streaming
 
 * https://ihavenotv.com/
+* [https://chillhop.com/live/lofihiphop/](https://chillhop.com/live/lofihiphop/)
 
 ### Product Manuals
 
@@ -801,10 +802,10 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxNDY3Nzc1LC00MzIwNDg5NjIsLTE4MD
-Q1MDI2ODYsMTg5NTM2MjA4NCwyMDM5MzA3NTMxLC02NzU5NTkw
-MjAsMTc5Njc4MDUyNiwtMjc4NDQ4MTIxLC0xMDQ5NjQzNTU1LC
-0zNjI1ODk0NzQsMTYxNDYzNzYzMCwtMTI4ODI0NjE0NSw2MDAx
-ODEwNzgsLTEwNjQxMzkyNiwtNzM5NTgyMDkwLC0xNzAwODU2Mz
-Q0XX0=
+eyJoaXN0b3J5IjpbLTE0ODM3MTcxODcsMzMxNDY3Nzc1LC00Mz
+IwNDg5NjIsLTE4MDQ1MDI2ODYsMTg5NTM2MjA4NCwyMDM5MzA3
+NTMxLC02NzU5NTkwMjAsMTc5Njc4MDUyNiwtMjc4NDQ4MTIxLC
+0xMDQ5NjQzNTU1LC0zNjI1ODk0NzQsMTYxNDYzNzYzMCwtMTI4
+ODI0NjE0NSw2MDAxODEwNzgsLTEwNjQxMzkyNiwtNzM5NTgyMD
+kwLC0xNzAwODU2MzQ0XX0=
 -->
