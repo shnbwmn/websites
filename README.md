@@ -1,6 +1,7 @@
 
-# Websites
-List of awesome websites.
+# Sites that inspire
+
+List of awesome websites and tools.
 
 ## Design
 
@@ -549,6 +550,12 @@ List of awesome websites.
 
 ### Software
 
+* [AlternativeTo](https://alternativeto.net)
+* [PortableFreeware](https://www.portablefreeware.com)
+* [Sourceforge](https://sourceforge.net)
+* [FOSSHub](https://www.fosshub.com)
+* [Portapps](https://portapps.io/)
+
 ## Shopping
 
 * https://www.takealot.com
@@ -597,8 +604,8 @@ List of awesome websites.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzMwODA2LC02NzU5NTkwMjAsMTc5Nj
-c4MDUyNiwtMjc4NDQ4MTIxLC0xMDQ5NjQzNTU1LC0zNjI1ODk0
-NzQsMTYxNDYzNzYzMCwtMTI4ODI0NjE0NSw2MDAxODEwNzgsLT
-EwNjQxMzkyNiwtNzM5NTgyMDkwLC0xNzAwODU2MzQ0XX0=
+eyJoaXN0b3J5IjpbLTMxNTMzMjE1OCwtNjc1OTU5MDIwLDE3OT
+Y3ODA1MjYsLTI3ODQ0ODEyMSwtMTA0OTY0MzU1NSwtMzYyNTg5
+NDc0LDE2MTQ2Mzc2MzAsLTEyODgyNDYxNDUsNjAwMTgxMDc4LC
+0xMDY0MTM5MjYsLTczOTU4MjA5MCwtMTcwMDg1NjM0NF19
 -->
