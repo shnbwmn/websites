@@ -5,6 +5,42 @@ List of awesome websites and tools, particularly for design.
 
 ## Design
 
+* [Pinterest](https://za.pinterest.com/)
+* [Behance :: Best of Behance](https://www.behance.net/)
+* [Dribbble - Discover the World's Top Designers & Creative Professionals](https://dribbble.com/)
+* [Inspiration Grid: Daily design inspiration for creatives](https://theinspirationgrid.com/)
+* [Designspiration - Design Inspiration](https://www.designspiration.com/)
+* [siteInspire - Web Design Inspiration](https://www.siteinspire.com/)
+* [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
+* [What's Trending in Type · Typewolf](https://www.typewolf.com/)
+* [Issuu - Categories and Collections](https://issuu.com/categories)
+* [Design Clever](https://www.designclever.co.uk/)
+* [Panda Design Feed](https://usepanda.com/app/#/)
+* [Search by Muzli](https://search.muz.li/)
+* [Mycoted](https://www.mycoted.com/Main_Page)
+* [Information is Beautiful](https://informationisbeautiful.net/)
+* [Beautiful News](https://informationisbeautiful.net/beautifulnews/)
+* [Logopond - Logo, Brand & Identity Inspiration](https://logopond.com/)
+* [Logo Design Love | on logos and brand identity design](https://www.logodesignlove.com/)
+* [Codrops | Useful resources and inspiration for creative minds](https://tympanus.net/codrops/)
+* [Things Organized Neatly](https://thingsorganizedneatly.tumblr.com/)
+* [Adobe Create Magazine](https://create.adobe.com/)
+* [Dieline](https://thedieline.com/)
+* [Creative Boom: Art & Design Magazine for the Creative Industries](https://www.creativeboom.com/)
+* [50 of the best graphic design blogs for inspiration in 2020](https://www.creativeboom.com/inspiration/50-of-the-best-blogs-for-graphic-design-inspiration/)
+* [Dropbox Design](https://dropbox.design/)
+* [Medium – Get smarter about what matters to you.](https://medium.com/)
+* [Best Ads on TV](https://www.bestadsontv.com/)
+* [Ads of the World](https://www.adsoftheworld.com/)
+* [We Love Ad](http://www.welovead.com/en/)
+* [Between 10 and 5](https://10and5.com/)
+* [IDidTht](https://www.ididthteditorial.com/best-by-productioncompanies/)
+* [canvas ©](http://www.thisisyourcanvas.co.za/)
+* [2AM Agency](http://2amagency.com/)
+* [SS+K](https://www.ssk.com/#!/about)
+* [Inspiration | Inside Design Blog](https://www.invisionapp.com/inside-design/category/inspiration/)
+* [Design | Inside Design Blog](https://www.invisionapp.com/inside-design/category/design/)
+* [Identity Designed | a brand identity showcase](https://identitydesigned.com/)
 * https://graphicdesign.stackexchange.com/
 * https://www.itsnicethat.com/
 * http://zoomagazine.com/
@@ -58,6 +94,14 @@ List of awesome websites and tools, particularly for design.
 
 * https://www.exr-io.com/
 
+### Podcasts & Video
+
+* [20 TED-talks for Designers](https://tubikstudio.com/20-ted-talks-for-designers-inspiration-full-of-thoughts/)
+
+### Events
+
+* [CreativeMornings | Breakfast lecture series for the creative community](https://creativemornings.com/)
+* [https://www.invisionapp.com/inside-design/category/design-chats/](https://www.invisionapp.com/inside-design/category/design-chats/)
 
 ### Marketing
 
@@ -601,44 +645,6 @@ List of awesome websites and tools, particularly for design.
 
 ## Sort
 
-
-* [Pinterest](https://za.pinterest.com/)
-* [Behance :: Best of Behance](https://www.behance.net/)
-* [Dribbble - Discover the World's Top Designers & Creative Professionals](https://dribbble.com/)
-* [Inspiration Grid: Daily design inspiration for creatives](https://theinspirationgrid.com/)
-* [Designspiration - Design Inspiration](https://www.designspiration.com/)
-* [siteInspire - Web Design Inspiration](https://www.siteinspire.com/)
-* [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
-* [What's Trending in Type · Typewolf](https://www.typewolf.com/)
-* [Issuu - Categories and Collections](https://issuu.com/categories)
-* [Design Clever](https://www.designclever.co.uk/)
-* [Panda Design Feed](https://usepanda.com/app/#/)
-* [Search by Muzli](https://search.muz.li/)
-* [Mycoted](https://www.mycoted.com/Main_Page)
-* [Information is Beautiful](https://informationisbeautiful.net/)
-* [Beautiful News](https://informationisbeautiful.net/beautifulnews/)
-* [Logopond - Logo, Brand & Identity Inspiration](https://logopond.com/)
-* [Logo Design Love | on logos and brand identity design](https://www.logodesignlove.com/)
-* [Codrops | Useful resources and inspiration for creative minds](https://tympanus.net/codrops/)
-* [Things Organized Neatly](https://thingsorganizedneatly.tumblr.com/)
-* [Adobe Create Magazine](https://create.adobe.com/)
-* [Dieline](https://thedieline.com/)
-* [Creative Boom: Art & Design Magazine for the Creative Industries](https://www.creativeboom.com/)
-* [50 of the best graphic design blogs for inspiration in 2020](https://www.creativeboom.com/inspiration/50-of-the-best-blogs-for-graphic-design-inspiration/)
-* [Dropbox Design](https://dropbox.design/)
-* [Medium – Get smarter about what matters to you.](https://medium.com/)
-* [Best Ads on TV](https://www.bestadsontv.com/)
-* [Ads of the World](https://www.adsoftheworld.com/)
-* [We Love Ad](http://www.welovead.com/en/)
-* [Between 10 and 5](https://10and5.com/)
-* [IDidTht](https://www.ididthteditorial.com/best-by-productioncompanies/)
-* [canvas ©](http://www.thisisyourcanvas.co.za/)
-* [2AM Agency](http://2amagency.com/)
-* [SS+K](https://www.ssk.com/#!/about)
-* [Inspiration | Inside Design Blog](https://www.invisionapp.com/inside-design/category/inspiration/)
-* [Design | Inside Design Blog](https://www.invisionapp.com/inside-design/category/design/)
-* [Identity Designed | a brand identity showcase](https://identitydesigned.com/)
-
 ### Keeping up to date with trends
 
 * [R/GA | Digital trends](https://www.rga.com/)
@@ -688,10 +694,6 @@ List of awesome websites and tools, particularly for design.
 * [VIDEO COPILOT | After Effects Tutorials, Plug-ins and Stock Footage for Post Production Professionals](https://www.videocopilot.net/)
 * [Creative COW Forums](https://forums.creativecow.net/)
 
-### Podcasts & Video
-
-* [20 TED-talks for Designers](https://tubikstudio.com/20-ted-talks-for-designers-inspiration-full-of-thoughts/)
-
 ### Tools
 
 * [Ad Mockup Generator](https://adparlor.com/ad-mockups/)
@@ -733,11 +735,6 @@ List of awesome websites and tools, particularly for design.
 * [3D Youtube Downloader - 3D Youtube Downloader](https://yd.3dyd.com/home/)
 * [https://www.invisionapp.com/inside-design/design-resources/](https://www.invisionapp.com/inside-design/design-resources/)
 
-### Events
-
-* [CreativeMornings | Breakfast lecture series for the creative community](https://creativemornings.com/)
-* [https://www.invisionapp.com/inside-design/category/design-chats/](https://www.invisionapp.com/inside-design/category/design-chats/)
-
 ### Interesting
 
 * [Quora: Home](https://www.quora.com/)
@@ -747,9 +744,9 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDIyNTE5NzQsLTE4MDQ1MDI2ODYsMT
-g5NTM2MjA4NCwyMDM5MzA3NTMxLC02NzU5NTkwMjAsMTc5Njc4
-MDUyNiwtMjc4NDQ4MTIxLC0xMDQ5NjQzNTU1LC0zNjI1ODk0Nz
-QsMTYxNDYzNzYzMCwtMTI4ODI0NjE0NSw2MDAxODEwNzgsLTEw
-NjQxMzkyNiwtNzM5NTgyMDkwLC0xNzAwODU2MzQ0XX0=
+eyJoaXN0b3J5IjpbLTEzMzU4ODI1MiwtMTgwNDUwMjY4NiwxOD
+k1MzYyMDg0LDIwMzkzMDc1MzEsLTY3NTk1OTAyMCwxNzk2Nzgw
+NTI2LC0yNzg0NDgxMjEsLTEwNDk2NDM1NTUsLTM2MjU4OTQ3NC
+wxNjE0NjM3NjMwLC0xMjg4MjQ2MTQ1LDYwMDE4MTA3OCwtMTA2
+NDEzOTI2LC03Mzk1ODIwOTAsLTE3MDA4NTYzNDRdfQ==
 -->
