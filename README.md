@@ -1,7 +1,7 @@
 
 # Sites that inspire
 
-List of awesome websites and tools.
+List of awesome websites and tools, particularly for design.
 
 ## Design
 
@@ -604,7 +604,7 @@ List of awesome websites and tools.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTMzMjE1OCwtNjc1OTU5MDIwLDE3OT
+eyJoaXN0b3J5IjpbMjAzOTMwNzUzMSwtNjc1OTU5MDIwLDE3OT
 Y3ODA1MjYsLTI3ODQ0ODEyMSwtMTA0OTY0MzU1NSwtMzYyNTg5
 NDc0LDE2MTQ2Mzc2MzAsLTEyODgyNDYxNDUsNjAwMTgxMDc4LC
 0xMDY0MTM5MjYsLTczOTU4MjA5MCwtMTcwMDg1NjM0NF19
