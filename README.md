@@ -685,15 +685,9 @@ List of awesome websites and tools, particularly for design.
 -   [Begin Learning Blender and Game Development with CG Cookie - CG Cookie](https://cgcookie.com/)
 -   [Lesterbanks - An Everyday Resource for the Computer Graphics & 3D Community](https://lesterbanks.com/)
 -   [VIDEO COPILOT | After Effects Tutorials, Plug-ins and Stock Footage for Post Production Professionals](https://www.videocopilot.net/)
-    
 -   [Creative COW Forums](https://forums.creativecow.net/)
-    
 
-  
-
-Podcasts & Video
-
-  
+### Podcasts & Video
 
 -   [20 TED-talks for Designers](https://tubikstudio.com/20-ted-talks-for-designers-inspiration-full-of-thoughts/)
 
@@ -752,7 +746,7 @@ Podcasts & Video
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTMwMDYxODksMTg5NTM2MjA4NCwyMD
+eyJoaXN0b3J5IjpbLTE4MDQ1MDI2ODYsMTg5NTM2MjA4NCwyMD
 M5MzA3NTMxLC02NzU5NTkwMjAsMTc5Njc4MDUyNiwtMjc4NDQ4
 MTIxLC0xMDQ5NjQzNTU1LC0zNjI1ODk0NzQsMTYxNDYzNzYzMC
 wtMTI4ODI0NjE0NSw2MDAxODEwNzgsLTEwNjQxMzkyNiwtNzM5
