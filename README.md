@@ -25,6 +25,8 @@ List of awesome websites.
 * https://creativefeel.co.za/
 * https://visi.co.za/
 
+
+
 ### Marketing
 
 * [https://www.davechaffey.com/](https://www.davechaffey.com/)
@@ -124,6 +126,10 @@ List of awesome websites.
 * https://www.mandelbulb.com/
 * https://computergraphics.stackexchange.com/
 * https://conceptartempire.com/
+* 
+### Tools
+
+* [https://clara.io/](https://clara.io/)
 
 ## Content
 
@@ -196,10 +202,6 @@ List of awesome websites.
 ### Packaging
 
 * [https://www.pack.ly/en](https://www.pack.ly/en)
-
-### Online 3D
-
-* [https://clara.io/](https://clara.io/)
 
 ### CAD
 
@@ -432,8 +434,8 @@ List of awesome websites.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Njc4MDUyNiwtMjc4NDQ4MTIxLC0xMD
-Q5NjQzNTU1LC0zNjI1ODk0NzQsMTYxNDYzNzYzMCwtMTI4ODI0
-NjE0NSw2MDAxODEwNzgsLTEwNjQxMzkyNiwtNzM5NTgyMDkwLC
-0xNzAwODU2MzQ0XX0=
+eyJoaXN0b3J5IjpbLTE5MTUxNTAwNTcsMTc5Njc4MDUyNiwtMj
+c4NDQ4MTIxLC0xMDQ5NjQzNTU1LC0zNjI1ODk0NzQsMTYxNDYz
+NzYzMCwtMTI4ODI0NjE0NSw2MDAxODEwNzgsLTEwNjQxMzkyNi
+wtNzM5NTgyMDkwLC0xNzAwODU2MzQ0XX0=
 -->
