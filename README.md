@@ -231,6 +231,29 @@ List of awesome websites.
 * https://contentmarketinginstitute.com/
 * https://contently.com/strategist/
 
+### Writing
+
+* https://hundredrabbits.itch.io/left
+* https://www.libreoffice.org/
+
+### Screenwriting
+
+* https://kitscenarist.ru/en/index.html
+* https://fountain.io/
+
+### Markdown
+
+* https://stackedit.io/
+* https://github.com/mike-ward/Markdown-Edit
+* https://atom.io/
+* https://atom.io/packages/markdown-pdf
+* https://atom.io/packages/gfm-pdf
+* https://wereturtle.github.io/ghostwriter/
+* https://wkhtmltopdf.org/
+* https://superuser.com/questions/689056/how-can-i-convert-github-flavored-markdown-to-a-pdf
+* https://www.npmjs.com/package/markdown-pdf
+* https://marktext.app/
+
 ## Research
 
 * https://wazimap.co.za/
@@ -303,20 +326,6 @@ List of awesome websites.
 * https://www.freecadweb.org/
 * https://librecad.org/
 * [DoubleCAD XT v5](https://www.turbocad.com/content/doublecad-xt-v5)
-
-### Markdown
-
-* https://stackedit.io/
-* https://github.com/mike-ward/Markdown-Edit
-* https://atom.io/
-* https://atom.io/packages/markdown-pdf
-* https://atom.io/packages/gfm-pdf
-* https://wereturtle.github.io/ghostwriter/
-* https://wkhtmltopdf.org/
-* https://superuser.com/questions/689056/how-can-i-convert-github-flavored-markdown-to-a-pdf
-* https://www.npmjs.com/package/markdown-pdf
-* https://marktext.app/
-
 
 ### Social Media
 
@@ -562,8 +571,8 @@ List of awesome websites.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTA0ODgwOSwtNjc1OTU5MDIwLDE3OT
-Y3ODA1MjYsLTI3ODQ0ODEyMSwtMTA0OTY0MzU1NSwtMzYyNTg5
-NDc0LDE2MTQ2Mzc2MzAsLTEyODgyNDYxNDUsNjAwMTgxMDc4LC
-0xMDY0MTM5MjYsLTczOTU4MjA5MCwtMTcwMDg1NjM0NF19
+eyJoaXN0b3J5IjpbOTI4NzUxOTEwLC02NzU5NTkwMjAsMTc5Nj
+c4MDUyNiwtMjc4NDQ4MTIxLC0xMDQ5NjQzNTU1LC0zNjI1ODk0
+NzQsMTYxNDYzNzYzMCwtMTI4ODI0NjE0NSw2MDAxODEwNzgsLT
+EwNjQxMzkyNiwtNzM5NTgyMDkwLC0xNzAwODU2MzQ0XX0=
 -->
