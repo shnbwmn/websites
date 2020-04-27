@@ -69,6 +69,15 @@ List of awesome websites.
 * https://1stwebdesigner.com/
 * https://uxdesign.cc/
 
+### Web Tools
+
+* https://code.visualstudio.com/
+* https://desktop.github.com/
+* [https://bootstrapstudio.io/](https://bootstrapstudio.io/)
+* [https://www.adobe.com/africa/products/dreamweaver.html](https://www.adobe.com/africa/products/dreamweaver.html)
+* [https://www.layoutit.com/](https://www.layoutit.com/)
+* [https://mobirise.com/bootstrap-builder/](https://mobirise.com/bootstrap-builder/)
+
 ### Articles
 
 * https://www.blackandwhitestudios.nz/blog/branding-design-process
@@ -291,6 +300,16 @@ List of awesome websites.
 ### Markdown
 
 * https://stackedit.io/
+* https://github.com/mike-ward/Markdown-Edit
+* https://atom.io/
+* https://atom.io/packages/markdown-pdf
+* https://atom.io/packages/gfm-pdf
+* https://wereturtle.github.io/ghostwriter/
+* https://wkhtmltopdf.org/
+* https://superuser.com/questions/689056/how-can-i-convert-github-flavored-markdown-to-a-pdf
+* https://www.npmjs.com/package/markdown-pdf
+* https://marktext.app/
+
 
 ### Social Media
 
@@ -515,8 +534,8 @@ List of awesome websites.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTk1OTAyMCwxNzk2NzgwNTI2LC0yNz
-g0NDgxMjEsLTEwNDk2NDM1NTUsLTM2MjU4OTQ3NCwxNjE0NjM3
-NjMwLC0xMjg4MjQ2MTQ1LDYwMDE4MTA3OCwtMTA2NDEzOTI2LC
-03Mzk1ODIwOTAsLTE3MDA4NTYzNDRdfQ==
+eyJoaXN0b3J5IjpbMzA5MTI4MTQxLC02NzU5NTkwMjAsMTc5Nj
+c4MDUyNiwtMjc4NDQ4MTIxLC0xMDQ5NjQzNTU1LC0zNjI1ODk0
+NzQsMTYxNDYzNzYzMCwtMTI4ODI0NjE0NSw2MDAxODEwNzgsLT
+EwNjQxMzkyNiwtNzM5NTgyMDkwLC0xNzAwODU2MzQ0XX0=
 -->
