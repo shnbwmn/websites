@@ -129,7 +129,19 @@ List of awesome websites.
 * 
 ### Tools
 
-* [https://clara.io/](https://clara.io/)
+* [https://clara.io/](https://clara.io/) - online
+* https://opentoonz.github.io/e/
+* https://morevnaproject.org/opentoonz/
+* https://morevnaproject.org/
+* https://www.synfig.org/
+* https://sourceforge.net/projects/mandelbulber/
+* https://www.pencil2d.org/
+* https://softology.com.au/voc.htm
+* https://docs.egret.com/dragonbones
+* https://darbyjohnston.github.io/DJV/
+* http://ivy-generator.com/
+* [Microsoft 3D Builder](https://www.microsoft.com/en-za/p/3d-builder/9wzdncrfj3t6) - Windows Store
+* https://store.speedtree.com/ - commercial
 
 ## Content
 
@@ -434,7 +446,7 @@ List of awesome websites.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTUxNTAwNTcsMTc5Njc4MDUyNiwtMj
+eyJoaXN0b3J5IjpbLTEwMDA5MTQ1MjcsMTc5Njc4MDUyNiwtMj
 c4NDQ4MTIxLC0xMDQ5NjQzNTU1LC0zNjI1ODk0NzQsMTYxNDYz
 NzYzMCwtMTI4ODI0NjE0NSw2MDAxODEwNzgsLTEwNjQxMzkyNi
 wtNzM5NTgyMDkwLC0xNzAwODU2MzQ0XX0=
