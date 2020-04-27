@@ -3,6 +3,78 @@
 
 List of awesome websites and tools, particularly for design.
 
+- [Sites that inspire](#sites-that-inspire)
+  * [Design](#design)
+    + [Keeping up to date with trends](#keeping-up-to-date-with-trends)
+    + [Designers specific](#designers-specific)
+    + [Blogs](#blogs)
+    + [Agencies](#agencies)
+    + [Tools](#tools)
+    + [Enlargement](#enlargement)
+    + [Viewers](#viewers)
+    + [Photoshop & Lightroom](#photoshop---lightroom)
+    + [HDRI](#hdri)
+    + [Podcasts & Video](#podcasts---video)
+    + [Events](#events)
+    + [Marketing](#marketing)
+    + [Web](#web)
+    + [Web Tools](#web-tools)
+    + [Typography](#typography)
+    + [Articles](#articles)
+    + [Agencies & Studios](#agencies---studios)
+    + [Nice brands](#nice-brands)
+    + [Museums](#museums)
+    + [Art](#art)
+  * [3D & Animation](#3d---animation)
+    + [Tools](#tools-1)
+    + [Blender](#blender)
+    + [Rigging](#rigging)
+    + [After Effects & Premiere](#after-effects---premiere)
+    + [Video Copilot](#video-copilot)
+    + [Duik and related](#duik-and-related)
+    + [Generative](#generative)
+  * [Content](#content)
+    + [Writing](#writing)
+    + [Screenwriting](#screenwriting)
+    + [Markdown](#markdown)
+  * [Research](#research)
+  * [Photography](#photography)
+  * [Tools](#tools-2)
+    + [Audio](#audio)
+    + [Packaging](#packaging)
+    + [CAD](#cad)
+    + [Social Media](#social-media)
+    + [Storage](#storage)
+    + [Vector](#vector)
+    + [Utilities](#utilities)
+  * [Resources](#resources)
+    + [Images](#images)
+    + [Video](#video)
+    + [Audio](#audio-1)
+    + [3D Models](#3d-models)
+    + [Vectors](#vectors)
+    + [Textures](#textures)
+    + [Web](#web-1)
+    + [Icons](#icons)
+    + [Fonts](#fonts)
+    + [After Effects & Premiere](#after-effects---premiere-1)
+    + [Illustrator & Indesign](#illustrator---indesign)
+    + [Mockups](#mockups)
+  * [Home & Garden](#home---garden)
+  * [Download Sources](#download-sources)
+    + [Tools](#tools-3)
+    + [Streaming](#streaming)
+    + [Product Manuals](#product-manuals)
+    + [Browsers](#browsers)
+    + [Software](#software)
+  * [Shopping](#shopping)
+  * [Learning](#learning)
+  * [Jobs](#jobs)
+  * [Interesting](#interesting)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Design
 
 * [Pinterest](https://za.pinterest.com/)
@@ -729,9 +801,10 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjA0ODk2MiwtMTgwNDUwMjY4NiwxOD
-k1MzYyMDg0LDIwMzkzMDc1MzEsLTY3NTk1OTAyMCwxNzk2Nzgw
-NTI2LC0yNzg0NDgxMjEsLTEwNDk2NDM1NTUsLTM2MjU4OTQ3NC
-wxNjE0NjM3NjMwLC0xMjg4MjQ2MTQ1LDYwMDE4MTA3OCwtMTA2
-NDEzOTI2LC03Mzk1ODIwOTAsLTE3MDA4NTYzNDRdfQ==
+eyJoaXN0b3J5IjpbMzMxNDY3Nzc1LC00MzIwNDg5NjIsLTE4MD
+Q1MDI2ODYsMTg5NTM2MjA4NCwyMDM5MzA3NTMxLC02NzU5NTkw
+MjAsMTc5Njc4MDUyNiwtMjc4NDQ4MTIxLC0xMDQ5NjQzNTU1LC
+0zNjI1ODk0NzQsMTYxNDYzNzYzMCwtMTI4ODI0NjE0NSw2MDAx
+ODEwNzgsLTEwNjQxMzkyNiwtNzM5NTgyMDkwLC0xNzAwODU2Mz
+Q0XX0=
 -->
