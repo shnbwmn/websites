@@ -78,6 +78,16 @@ List of awesome websites.
 * [https://www.layoutit.com/](https://www.layoutit.com/)
 * [https://mobirise.com/bootstrap-builder/](https://mobirise.com/bootstrap-builder/)
 
+### Typography
+
+* https://fontforge.org/en-US/
+* https://birdfont.org
+* https://trufont.github.io
+* https://fontstruct.com
+* http://www.xiles.net
+* https://www.softwareok.com/?seite=Freeware/FontViewOK
+* http://www.nattyware.com/fontster.php
+
 ### Articles
 
 * https://www.blackandwhitestudios.nz/blog/branding-design-process
@@ -316,6 +326,14 @@ List of awesome websites.
 * https://www.monotype.com/products/skyfonts
 * https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
 
+### Audio
+
+* https://resonic.at/
+* https://picard.musicbrainz.org/
+* https://portableapps.com/apps/music_video/picard-portable
+* https://www.xdlab.ru/en/ - TagScanner
+* https://www.vb-audio.com/Voicemeeter/index.htm
+
 ### Packaging
 
 * [https://www.pack.ly/en](https://www.pack.ly/en)
@@ -523,6 +541,14 @@ List of awesome websites.
 
 * https://www.manualslib.com/
 
+### Browsers
+
+* https://www.opera.com/gx
+* https://brave.com/
+* https://portapps.io/app/brave-portable/
+
+### Software
+
 ## Shopping
 
 * https://www.takealot.com
@@ -571,7 +597,7 @@ List of awesome websites.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4NzUxOTEwLC02NzU5NTkwMjAsMTc5Nj
+eyJoaXN0b3J5IjpbMTUzMzMwODA2LC02NzU5NTkwMjAsMTc5Nj
 c4MDUyNiwtMjc4NDQ4MTIxLC0xMDQ5NjQzNTU1LC0zNjI1ODk0
 NzQsMTYxNDYzNzYzMCwtMTI4ODI0NjE0NSw2MDAxODEwNzgsLT
 EwNjQxMzkyNiwtNzM5NTgyMDkwLC0xNzAwODU2MzQ0XX0=
