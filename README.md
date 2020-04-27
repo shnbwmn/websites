@@ -823,40 +823,27 @@ Podcasts & Video
 -   [Maperitive](http://maperitive.net/)
 -   [Stamen Maps](http://maps.stamen.com/)
 -   [Geofabrik Download Server](https://download.geofabrik.de/)
-*   [Boundary Data (Detailed South African Maps)](http://www.demarcation.org.za/index.php/downloads/boundary-data)
+-   [Boundary Data (Detailed South African Maps)](http://www.demarcation.org.za/index.php/downloads/boundary-data)
 -   [Preparing Geographic Data for Your Next Design Project in Illustrator](https://www.azavea.com/blog/2015/10/05/preparing-geographic-data-for-your-next-design-project-in-illustrator/)
 -   [FreeCAD: Your own 3D parametric modeler](https://www.freecadweb.org/)
 -   [3D Youtube Downloader - 3D Youtube Downloader](https://yd.3dyd.com/home/)
 -   [https://www.invisionapp.com/inside-design/design-resources/](https://www.invisionapp.com/inside-design/design-resources/)
-    
 
-  
-
-Events
-
-  
+### Events
 
 -   [CreativeMornings | Breakfast lecture series for the creative community](https://creativemornings.com/)
-    
 -   [https://www.invisionapp.com/inside-design/category/design-chats/](https://www.invisionapp.com/inside-design/category/design-chats/)
-    
 
-  
-
-Interesting
-
-  
+### Interesting
 
 -   [Quora: Home](https://www.quora.com/)
-    
 -   [Aeon | a world of ideas](https://aeon.co/)
-    
 -   [PROTOCHIC](https://www.protochic.com/)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzUwMDQ1MSwyMDM5MzA3NTMxLC02Nz
+eyJoaXN0b3J5IjpbMTg5NTM2MjA4NCwyMDM5MzA3NTMxLC02Nz
 U5NTkwMjAsMTc5Njc4MDUyNiwtMjc4NDQ4MTIxLC0xMDQ5NjQz
 NTU1LC0zNjI1ODk0NzQsMTYxNDYzNzYzMCwtMTI4ODI0NjE0NS
 w2MDAxODEwNzgsLTEwNjQxMzkyNiwtNzM5NTgyMDkwLC0xNzAw
