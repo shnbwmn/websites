@@ -25,6 +25,37 @@ List of awesome websites.
 * https://creativefeel.co.za/
 * https://visi.co.za/
 
+### Tools
+
+* https://krita.org/en/
+* http://mypaint.org/
+* https://www.gimp.org/
+* https://www.getpaint.net/index.html
+* https://sourceforge.net/projects/jpegview/
+* https://www.xnview.com/en/xnviewmp/
+* http://www.nyam.pe.kr/dev/imagine/
+* https://www.portablefreeware.com/index.php?id=1819 (Imagine)
+* https://webdesigner.withgoogle.com/
+* https://www.invisionapp.com/studio
+* https://www.draw.io/
+
+### Enlargement
+
+* https://github.com/lltcggie/waifu2x-caffe
+* https://github.com/AaronFeng753/Waifu2x-Extension-GUI
+
+### Viewers
+
+* [https://arturkovacs.github.io/emulsion-website/](https://arturkovacs.github.io/emulsion-website/)
+
+### Photoshop & Lightroom
+
+* https://www.fnordware.com/superpng/
+* https://nikcollection.dxo.com/
+
+### HDRI 
+
+* https://www.exr-io.com/
 
 
 ### Marketing
@@ -142,6 +173,44 @@ List of awesome websites.
 * http://ivy-generator.com/
 * [Microsoft 3D Builder](https://www.microsoft.com/en-za/p/3d-builder/9wzdncrfj3t6) - Windows Store
 * https://store.speedtree.com/ - commercial
+
+### Blender
+
+* https://www.blender.org/
+* https://blendermarket.com/products/retopoflow
+* https://github.com/CGCookie/retopoflow
+* https://www.reddit.com/r/blenderhelp/comments/eljxj8/short_guide_on_getting_retopoflow_30_to_work_from/
+* https://www.amd.com/en/technologies/radeon-prorender
+* https://github.com/appleseedhq/blenderseed
+
+### Rigging
+
+* [http://digicreatures.net/articles/rigacar.html](http://digicreatures.net/articles/rigacar.html)
+
+### After Effects & Premiere
+
+* https://www.redgiant.com/products/red-giant-complete/
+* https://aescripts.com/
+* https://aescripts.com/bodymovin/
+* http://darkpulse-motion-design.com/portfolio/uigrids
+* https://www.battleaxe.co/
+* https://misterhorse.com/animation-composer
+* https://cavalry.scenegroup.co/
+* https://www.fnordware.com/ProEXR/
+* https://www.fnordware.com/WebM/
+
+### Video Copilot
+
+* https://www.videocopilot.net/products/opticalflares/
+* https://www.videocopilot.net/products/element2/
+* https://www.videocopilot.net/orb/
+
+### Duik and related
+
+* https://rainboxlab.org/
+* https://rainboxlab.org/tools/duik/
+* https://rainboxlab.org/tag/after-effects/
+* https://rainboxlab.org/tag/blender/
 
 ## Content
 
@@ -446,8 +515,8 @@ List of awesome websites.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA5MTQ1MjcsMTc5Njc4MDUyNiwtMj
-c4NDQ4MTIxLC0xMDQ5NjQzNTU1LC0zNjI1ODk0NzQsMTYxNDYz
-NzYzMCwtMTI4ODI0NjE0NSw2MDAxODEwNzgsLTEwNjQxMzkyNi
-wtNzM5NTgyMDkwLC0xNzAwODU2MzQ0XX0=
+eyJoaXN0b3J5IjpbLTY3NTk1OTAyMCwxNzk2NzgwNTI2LC0yNz
+g0NDgxMjEsLTEwNDk2NDM1NTUsLTM2MjU4OTQ3NCwxNjE0NjM3
+NjMwLC0xMjg4MjQ2MTQ1LDYwMDE4MTA3OCwtMTA2NDEzOTI2LC
+03Mzk1ODIwOTAsLTE3MDA4NTYzNDRdfQ==
 -->
