@@ -295,7 +295,10 @@ List of awesome websites.
 
 ### CAD
 
- * [https://3dorchard.com/app](https://3dorchard.com/app)
+* [https://3dorchard.com/app](https://3dorchard.com/app)
+* https://www.freecadweb.org/
+* https://librecad.org/
+* [DoubleCAD XT v5](https://www.turbocad.com/content/doublecad-xt-v5)
 
 ### Markdown
 
@@ -329,6 +332,18 @@ List of awesome websites.
 ### Vector
 
 * [Vectr](https://vectr.com/#)
+
+### Utilities
+
+* https://handbrake.fr/
+* https://www.xnview.com/en/xnretro/
+* https://lockhunter.com/
+* https://www.bulkrenameutility.co.uk/
+* https://www.peazip.org/
+* https://www.print-conductor.com
+* https://www.fcoder.com/directions/batch-printing-software
+* https://rclone.org/
+* https://abstractspoon.com/ - ToDoList
 
 ## Resources
 
@@ -534,8 +549,8 @@ List of awesome websites.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5MTI4MTQxLC02NzU5NTkwMjAsMTc5Nj
-c4MDUyNiwtMjc4NDQ4MTIxLC0xMDQ5NjQzNTU1LC0zNjI1ODk0
-NzQsMTYxNDYzNzYzMCwtMTI4ODI0NjE0NSw2MDAxODEwNzgsLT
-EwNjQxMzkyNiwtNzM5NTgyMDkwLC0xNzAwODU2MzQ0XX0=
+eyJoaXN0b3J5IjpbMTc3NTc1NTgzNSwtNjc1OTU5MDIwLDE3OT
+Y3ODA1MjYsLTI3ODQ0ODEyMSwtMTA0OTY0MzU1NSwtMzYyNTg5
+NDc0LDE2MTQ2Mzc2MzAsLTEyODgyNDYxNDUsNjAwMTgxMDc4LC
+0xMDY0MTM5MjYsLTczOTU4MjA5MCwtMTcwMDg1NjM0NF19
 -->
