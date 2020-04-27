@@ -602,83 +602,43 @@ List of awesome websites and tools, particularly for design.
 ## Sort
 
 -   [Pinterest](https://za.pinterest.com/)
-    
 -   [Behance :: Best of Behance](https://www.behance.net/)
-    
 -   [Dribbble - Discover the World's Top Designers & Creative Professionals](https://dribbble.com/)
-    
 -   [Inspiration Grid: Daily design inspiration for creatives](https://theinspirationgrid.com/)
-    
 -   [Designspiration - Design Inspiration](https://www.designspiration.com/)
-    
 -   [siteInspire - Web Design Inspiration](https://www.siteinspire.com/)
-    
 -   [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
-    
 -   [What's Trending in Type · Typewolf](https://www.typewolf.com/)
-    
 -   [Issuu - Categories and Collections](https://issuu.com/categories)
-    
 -   [Design Clever](https://www.designclever.co.uk/)
-    
 -   [Panda Design Feed](https://usepanda.com/app/#/)
-    
 -   [Search by Muzli](https://search.muz.li/)
-    
 -   [Mycoted](https://www.mycoted.com/Main_Page)
-    
 -   [Information is Beautiful](https://informationisbeautiful.net/)
-    
 -   [Beautiful News](https://informationisbeautiful.net/beautifulnews/)
-    
 -   [Logopond - Logo, Brand & Identity Inspiration](https://logopond.com/)
-    
 -   [Logo Design Love | on logos and brand identity design](https://www.logodesignlove.com/)
-    
 -   [Codrops | Useful resources and inspiration for creative minds](https://tympanus.net/codrops/)
-    
 -   [Things Organized Neatly](https://thingsorganizedneatly.tumblr.com/)
-    
 -   [Adobe Create Magazine](https://create.adobe.com/)
-    
 -   [Dieline](https://thedieline.com/)
-    
 -   [Creative Boom: Art & Design Magazine for the Creative Industries](https://www.creativeboom.com/)
-    
 -   [50 of the best graphic design blogs for inspiration in 2020](https://www.creativeboom.com/inspiration/50-of-the-best-blogs-for-graphic-design-inspiration/)
-    
 -   [Dropbox Design](https://dropbox.design/)
-    
 -   [Medium – Get smarter about what matters to you.](https://medium.com/)
-    
 -   [Best Ads on TV](https://www.bestadsontv.com/)
-    
 -   [Ads of the World](https://www.adsoftheworld.com/)
-    
 -   [We Love Ad](http://www.welovead.com/en/)
-    
 -   [Between 10 and 5](https://10and5.com/)
-    
 -   [IDidTht](https://www.ididthteditorial.com/best-by-productioncompanies/)
-    
 -   [canvas ©](http://www.thisisyourcanvas.co.za/)
-    
 -   [2AM Agency](http://2amagency.com/)
-    
 -   [SS+K](https://www.ssk.com/#!/about)
-    
 -   [Inspiration | Inside Design Blog](https://www.invisionapp.com/inside-design/category/inspiration/)
-    
 -   [Design | Inside Design Blog](https://www.invisionapp.com/inside-design/category/design/)
-    
 -   [Identity Designed | a brand identity showcase](https://identitydesigned.com/)
-    
 
-  
-
-Keeping up to date with trends
-
-  
+### Keeping up to date with trends
 
 -   [R/GA | Digital trends](https://www.rga.com/)
     
@@ -843,9 +803,9 @@ Podcasts & Video
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTM2MjA4NCwyMDM5MzA3NTMxLC02Nz
-U5NTkwMjAsMTc5Njc4MDUyNiwtMjc4NDQ4MTIxLC0xMDQ5NjQz
-NTU1LC0zNjI1ODk0NzQsMTYxNDYzNzYzMCwtMTI4ODI0NjE0NS
-w2MDAxODEwNzgsLTEwNjQxMzkyNiwtNzM5NTgyMDkwLC0xNzAw
-ODU2MzQ0XX0=
+eyJoaXN0b3J5IjpbMjYwODI3NjI3LDE4OTUzNjIwODQsMjAzOT
+MwNzUzMSwtNjc1OTU5MDIwLDE3OTY3ODA1MjYsLTI3ODQ0ODEy
+MSwtMTA0OTY0MzU1NSwtMzYyNTg5NDc0LDE2MTQ2Mzc2MzAsLT
+EyODgyNDYxNDUsNjAwMTgxMDc4LC0xMDY0MTM5MjYsLTczOTU4
+MjA5MCwtMTcwMDg1NjM0NF19
 -->
