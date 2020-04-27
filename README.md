@@ -3,7 +3,7 @@
 
 List of awesome websites and tools, particularly for design.
 
-- [Sites that inspire](#sites-that-inspire)
+- [Websites](#websites)
   * [Design](#design)
     + [Keeping up to date with trends](#keeping-up-to-date-with-trends)
     + [Designers specific](#designers-specific)
