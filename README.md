@@ -62,6 +62,42 @@ List of awesome websites and tools, particularly for design.
 * https://creativefeel.co.za/
 * https://visi.co.za/
 
+### Keeping up to date with trends
+
+* [R/GA | Digital trends](https://www.rga.com/)
+* [Think with Google - Discover Marketing Research & Digital Trends](https://www.thinkwithgoogle.com/)
+* [Fast Company | The future of business](https://www.fastcompany.com/)
+* [Ads of the World™ | Part of The Clio Network](https://www.adsoftheworld.com/)
+
+### Designers specific
+
+* [Design Inspiration](https://designinspiration.com/)
+* [WE LOVE AD | World Creative Advertising Database and Network](http://www.welovead.com/en/)
+* [Pentagram — The world's largest independent design consultancy](https://www.pentagram.com/)
+* [African Digital Art (@africandigitalart)](https://www.instagram.com/africandigitalart/?hl=en)
+
+### Blogs
+
+* [Adobe 99U - A resource for the creative career](https://99u.adobe.com/) 
+* [AIGA Eye on Design: Eye on Design](https://eyeondesign.aiga.org/)
+* [Creative Bloq | Art and Design Inspiration](https://www.creativebloq.com/)
+* [Abduzeedo - Design Inspiration and Tutorials](https://abduzeedo.com/)
+* [Muzli - Design Inspiration](https://medium.muz.li/)
+* [BizCommunity - Marketing and Media South Africa](https://www.bizcommunity.com/)
+* [UX Collective](https://uxdesign.cc/)
+* [Inside Design Blog | Thoughts on users, experience, and design](https://www.invisionapp.com/inside-design/)
+
+### Agencies
+
+* [Pentagram — The world's largest independent design consultancy](https://www.pentagram.com/)
+* [Sagmeister & Walsh](https://sagmeisterwalsh.com/)
+* [Luma Animation: Featured](http://www.luma.co.za/)
+* [Landers Miller Design](http://www.landersmiller.com/)
+* [Digital Agency Network: DAN](https://digitalagencynetwork.com/)
+* [mimosa agency - digital marketing agency](https://mimosaagency.com/)
+* [K&i Creative Design Agency Cape Town | Branding | Graphic Design | Web](https://kandi.co.za/)
+* [hero | Full Service Strategic Marketing Agency](https://hero.co.za/)
+
 ### Tools
 
 * https://krita.org/en/
@@ -221,6 +257,7 @@ List of awesome websites and tools, particularly for design.
 * https://www.mandelbulb.com/
 * https://computergraphics.stackexchange.com/
 * https://conceptartempire.com/
+
 * 
 ### Tools
 
@@ -237,6 +274,44 @@ List of awesome websites and tools, particularly for design.
 * http://ivy-generator.com/
 * [Microsoft 3D Builder](https://www.microsoft.com/en-za/p/3d-builder/9wzdncrfj3t6) - Windows Store
 * https://store.speedtree.com/ - commercial
+* [Ad Mockup Generator](https://adparlor.com/ad-mockups/)
+* [Google Fonts](https://fonts.google.com/)
+* [Frontify - The All-In-One Brand Management Software](https://www.frontify.com/en/)
+* [Figma: the collaborative interface design tool.](https://www.figma.com/)
+* [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org/)
+* [CodePen: Build, Test, and Discover Front-end Code.](https://codepen.io/)
+* [Adobe Color: Color wheel, a color palette generator](https://color.adobe.com/create)
+* [Paletton - The Color Scheme Designer](http://paletton.com/)
+* [Color Hunt - Color Palettes for Designers and Artists](https://colorhunt.co/)
+* [Coolors.co - The super fast color schemes generator](https://coolors.co/)
+* [uiGradients - Beautiful colored gradients](https://uigradients.com/)
+* [HTML Color Codes](https://htmlcolorcodes.com/)
+* [Power Thesaurus](https://www.powerthesaurus.org/)
+* [Thesaurus.com | Synonyms and Antonyms of Words at Thesaurus.com](https://www.thesaurus.com/)
+* [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
+* [Quickposes: pose library for figure & gesture drawing practice](https://quickposes.com/en)
+* [Subtle Patterns | Free textures for your next web project](https://www.toptal.com/designers/subtlepatterns/)
+* [Transparent Textures](https://www.transparenttextures.com/)
+* [MakeHuman](http://www.makehumancommunity.org/)
+* [MagicaVoxel](https://ephtracy.github.io/)
+* [Storyboarder - The best and easiest way to storyboard.](https://wonderunit.com/storyboarder/)
+* [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
+* [FontForge Open Source Font Editor](https://fontforge.org/en-US/)
+* [Design With FontForge](http://designwithfontforge.com/en-US/index.html)
+* [Cakewalk by BandLab](https://www.bandlab.com/products/cakewalk)
+* [SoundBridge - A Free Full-Featured DAW Designed with Simplicity in Mind](https://soundbridge.io/)
+* [Trello](https://trello.com/)
+* [Guerilla Render | Animation and VFX production rendering](http://guerillarender.com/)
+* [waifu2x-caffe: Image Upscaling using neural networks](https://github.com/lltcggie/waifu2x-caffe)
+* [TinyPNG – Compress PNG images while preserving transparency](https://tinypng.com/)
+* [Maperitive](http://maperitive.net/)
+* [Stamen Maps](http://maps.stamen.com/)
+* [Geofabrik Download Server](https://download.geofabrik.de/)
+* [Boundary Data (Detailed South African Maps)](http://www.demarcation.org.za/index.php/downloads/boundary-data)
+* [Preparing Geographic Data for Your Next Design Project in Illustrator](https://www.azavea.com/blog/2015/10/05/preparing-geographic-data-for-your-next-design-project-in-illustrator/)
+* [FreeCAD: Your own 3D parametric modeler](https://www.freecadweb.org/)
+* [3D Youtube Downloader - 3D Youtube Downloader](https://yd.3dyd.com/home/)
+* [https://www.invisionapp.com/inside-design/design-resources/](https://www.invisionapp.com/inside-design/design-resources/)
 
 ### Blender
 
@@ -643,97 +718,11 @@ List of awesome websites and tools, particularly for design.
 
 
 
-## Sort
 
-### Keeping up to date with trends
 
-* [R/GA | Digital trends](https://www.rga.com/)
-* [Think with Google - Discover Marketing Research & Digital Trends](https://www.thinkwithgoogle.com/)
-* [Fast Company | The future of business](https://www.fastcompany.com/)
-* [Ads of the World™ | Part of The Clio Network](https://www.adsoftheworld.com/)
 
-### Designers specific
 
-* [Design Inspiration](https://designinspiration.com/)
-* [WE LOVE AD | World Creative Advertising Database and Network](http://www.welovead.com/en/)
-* [Pentagram — The world's largest independent design consultancy](https://www.pentagram.com/)
-* [African Digital Art (@africandigitalart)](https://www.instagram.com/africandigitalart/?hl=en)
 
-### Blogs
-
-* [Adobe 99U - A resource for the creative career](https://99u.adobe.com/) 
-* [AIGA Eye on Design: Eye on Design](https://eyeondesign.aiga.org/)
-* [Creative Bloq | Art and Design Inspiration](https://www.creativebloq.com/)
-* [Abduzeedo - Design Inspiration and Tutorials](https://abduzeedo.com/)
-* [Muzli - Design Inspiration](https://medium.muz.li/)
-* [BizCommunity - Marketing and Media South Africa](https://www.bizcommunity.com/)
-* [UX Collective](https://uxdesign.cc/)
-* [Inside Design Blog | Thoughts on users, experience, and design](https://www.invisionapp.com/inside-design/)
-
-### Agencies
-
-* [Pentagram — The world's largest independent design consultancy](https://www.pentagram.com/)
-* [Sagmeister & Walsh](https://sagmeisterwalsh.com/)
-* [Luma Animation: Featured](http://www.luma.co.za/)
-* [Landers Miller Design](http://www.landersmiller.com/)
-* [Digital Agency Network: DAN](https://digitalagencynetwork.com/)
-* [mimosa agency - digital marketing agency](https://mimosaagency.com/)
-* [K&i Creative Design Agency Cape Town | Branding | Graphic Design | Web](https://kandi.co.za/)
-* [hero | Full Service Strategic Marketing Agency](https://hero.co.za/)
-
-### Animation & 3D
-
-* [STASH Magazine](https://www.stashmedia.tv/)
-* [Motionographer Sharing the best in moving media](http://motionographer.com/)
-* [CGSociety.org](https://cgsociety.org/)
-* [ArtStation](https://www.artstation.com/)
-* [Vimeo Staff Picks](https://vimeo.com/channels/staffpicks)
-* [Sketchfab - Publish & find 3D models online](https://sketchfab.com/)
-* [Begin Learning Blender and Game Development with CG Cookie - CG Cookie](https://cgcookie.com/)
-* [Lesterbanks - An Everyday Resource for the Computer Graphics & 3D Community](https://lesterbanks.com/)
-* [VIDEO COPILOT | After Effects Tutorials, Plug-ins and Stock Footage for Post Production Professionals](https://www.videocopilot.net/)
-* [Creative COW Forums](https://forums.creativecow.net/)
-
-### Tools
-
-* [Ad Mockup Generator](https://adparlor.com/ad-mockups/)
-* [Google Fonts](https://fonts.google.com/)
-* [Frontify - The All-In-One Brand Management Software](https://www.frontify.com/en/)
-* [Figma: the collaborative interface design tool.](https://www.figma.com/)
-* [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org/)
-* [CodePen: Build, Test, and Discover Front-end Code.](https://codepen.io/)
-* [Adobe Color: Color wheel, a color palette generator](https://color.adobe.com/create)
-* [Paletton - The Color Scheme Designer](http://paletton.com/)
-* [Color Hunt - Color Palettes for Designers and Artists](https://colorhunt.co/)
-* [Coolors.co - The super fast color schemes generator](https://coolors.co/)
-* [uiGradients - Beautiful colored gradients](https://uigradients.com/)
-* [HTML Color Codes](https://htmlcolorcodes.com/)
-* [Power Thesaurus](https://www.powerthesaurus.org/)
-* [Thesaurus.com | Synonyms and Antonyms of Words at Thesaurus.com](https://www.thesaurus.com/)
-* [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
-* [Quickposes: pose library for figure & gesture drawing practice](https://quickposes.com/en)
-* [Subtle Patterns | Free textures for your next web project](https://www.toptal.com/designers/subtlepatterns/)
-* [Transparent Textures](https://www.transparenttextures.com/)
-* [MakeHuman](http://www.makehumancommunity.org/)
-* [MagicaVoxel](https://ephtracy.github.io/)
-* [Storyboarder - The best and easiest way to storyboard.](https://wonderunit.com/storyboarder/)
-* [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
-* [FontForge Open Source Font Editor](https://fontforge.org/en-US/)
-* [Design With FontForge](http://designwithfontforge.com/en-US/index.html)
-* [Cakewalk by BandLab](https://www.bandlab.com/products/cakewalk)
-* [SoundBridge - A Free Full-Featured DAW Designed with Simplicity in Mind](https://soundbridge.io/)
-* [Trello](https://trello.com/)
-* [Guerilla Render | Animation and VFX production rendering](http://guerillarender.com/)
-* [waifu2x-caffe: Image Upscaling using neural networks](https://github.com/lltcggie/waifu2x-caffe)
-* [TinyPNG – Compress PNG images while preserving transparency](https://tinypng.com/)
-* [Maperitive](http://maperitive.net/)
-* [Stamen Maps](http://maps.stamen.com/)
-* [Geofabrik Download Server](https://download.geofabrik.de/)
-* [Boundary Data (Detailed South African Maps)](http://www.demarcation.org.za/index.php/downloads/boundary-data)
-* [Preparing Geographic Data for Your Next Design Project in Illustrator](https://www.azavea.com/blog/2015/10/05/preparing-geographic-data-for-your-next-design-project-in-illustrator/)
-* [FreeCAD: Your own 3D parametric modeler](https://www.freecadweb.org/)
-* [3D Youtube Downloader - 3D Youtube Downloader](https://yd.3dyd.com/home/)
-* [https://www.invisionapp.com/inside-design/design-resources/](https://www.invisionapp.com/inside-design/design-resources/)
 
 ### Interesting
 
@@ -744,9 +733,9 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzU4ODI1MiwtMTgwNDUwMjY4NiwxOD
-k1MzYyMDg0LDIwMzkzMDc1MzEsLTY3NTk1OTAyMCwxNzk2Nzgw
-NTI2LC0yNzg0NDgxMjEsLTEwNDk2NDM1NTUsLTM2MjU4OTQ3NC
-wxNjE0NjM3NjMwLC0xMjg4MjQ2MTQ1LDYwMDE4MTA3OCwtMTA2
-NDEzOTI2LC03Mzk1ODIwOTAsLTE3MDA4NTYzNDRdfQ==
+eyJoaXN0b3J5IjpbMjI0MzkxMjg5LC0xODA0NTAyNjg2LDE4OT
+UzNjIwODQsMjAzOTMwNzUzMSwtNjc1OTU5MDIwLDE3OTY3ODA1
+MjYsLTI3ODQ0ODEyMSwtMTA0OTY0MzU1NSwtMzYyNTg5NDc0LD
+E2MTQ2Mzc2MzAsLTEyODgyNDYxNDUsNjAwMTgxMDc4LC0xMDY0
+MTM5MjYsLTczOTU4MjA5MCwtMTcwMDg1NjM0NF19
 -->
