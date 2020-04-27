@@ -787,85 +787,46 @@ Podcasts & Video
   
 
 -   [20 TED-talks for Designers](https://tubikstudio.com/20-ted-talks-for-designers-inspiration-full-of-thoughts/)
-    
 
-  
-
-Tools
-
-  
+### Tools
 
 -   [Ad Mockup Generator](https://adparlor.com/ad-mockups/)
-    
 -   [Google Fonts](https://fonts.google.com/)
-    
 -   [Frontify - The All-In-One Brand Management Software](https://www.frontify.com/en/)
-    
 -   [Figma: the collaborative interface design tool.](https://www.figma.com/)
-    
 -   [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org/)
-    
 -   [CodePen: Build, Test, and Discover Front-end Code.](https://codepen.io/)
-    
 -   [Adobe Color: Color wheel, a color palette generator](https://color.adobe.com/create)
-    
 -   [Paletton - The Color Scheme Designer](http://paletton.com/)
-    
 -   [Color Hunt - Color Palettes for Designers and Artists](https://colorhunt.co/)
-    
 -   [Coolors.co - The super fast color schemes generator](https://coolors.co/)
-    
 -   [uiGradients - Beautiful colored gradients](https://uigradients.com/)
-    
 -   [HTML Color Codes](https://htmlcolorcodes.com/)
-    
 -   [Power Thesaurus](https://www.powerthesaurus.org/)
-    
 -   [Thesaurus.com | Synonyms and Antonyms of Words at Thesaurus.com](https://www.thesaurus.com/)
-    
 -   [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
-    
 -   [Quickposes: pose library for figure & gesture drawing practice](https://quickposes.com/en)
-    
 -   [Subtle Patterns | Free textures for your next web project](https://www.toptal.com/designers/subtlepatterns/)
-    
 -   [Transparent Textures](https://www.transparenttextures.com/)
-    
 -   [MakeHuman](http://www.makehumancommunity.org/)
-    
 -   [MagicaVoxel](https://ephtracy.github.io/)
-    
 -   [Storyboarder - The best and easiest way to storyboard.](https://wonderunit.com/storyboarder/)
-    
 -   [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
-    
 -   [FontForge Open Source Font Editor](https://fontforge.org/en-US/)
-    
 -   [Design With FontForge](http://designwithfontforge.com/en-US/index.html)
-    
 -   [Cakewalk by BandLab](https://www.bandlab.com/products/cakewalk)
-    
 -   [SoundBridge - A Free Full-Featured DAW Designed with Simplicity in Mind](https://soundbridge.io/)
 -   [Trello](https://trello.com/)
 -   [Guerilla Render | Animation and VFX production rendering](http://guerillarender.com/)
 -   [waifu2x-caffe: Image Upscaling using neural networks](https://github.com/lltcggie/waifu2x-caffe)
-
 -   [TinyPNG – Compress PNG images while preserving transparency](https://tinypng.com/)
-    
 -   [Maperitive](http://maperitive.net/)
-    
 -   [Stamen Maps](http://maps.stamen.com/)
-    
 -   [Geofabrik Download Server](https://download.geofabrik.de/)
-    
--   [Boundary Data (Detailed South African Maps)](http://www.demarcation.org.za/index.php/downloads/boundary-data)
-    
+*   [Boundary Data (Detailed South African Maps)](http://www.demarcation.org.za/index.php/downloads/boundary-data)
 -   [Preparing Geographic Data for Your Next Design Project in Illustrator](https://www.azavea.com/blog/2015/10/05/preparing-geographic-data-for-your-next-design-project-in-illustrator/)
-    
 -   [FreeCAD: Your own 3D parametric modeler](https://www.freecadweb.org/)
-    
 -   [3D Youtube Downloader - 3D Youtube Downloader](https://yd.3dyd.com/home/)
-    
 -   [https://www.invisionapp.com/inside-design/design-resources/](https://www.invisionapp.com/inside-design/design-resources/)
     
 
@@ -895,9 +856,9 @@ Interesting
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQ0MzYzLDIwMzkzMDc1MzEsLTY3NT
-k1OTAyMCwxNzk2NzgwNTI2LC0yNzg0NDgxMjEsLTEwNDk2NDM1
-NTUsLTM2MjU4OTQ3NCwxNjE0NjM3NjMwLC0xMjg4MjQ2MTQ1LD
-YwMDE4MTA3OCwtMTA2NDEzOTI2LC03Mzk1ODIwOTAsLTE3MDA4
-NTYzNDRdfQ==
+eyJoaXN0b3J5IjpbLTY1MzUwMDQ1MSwyMDM5MzA3NTMxLC02Nz
+U5NTkwMjAsMTc5Njc4MDUyNiwtMjc4NDQ4MTIxLC0xMDQ5NjQz
+NTU1LC0zNjI1ODk0NzQsMTYxNDYzNzYzMCwtMTI4ODI0NjE0NS
+w2MDAxODEwNzgsLTEwNjQxMzkyNiwtNzM5NTgyMDkwLC0xNzAw
+ODU2MzQ0XX0=
 -->
