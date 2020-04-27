@@ -221,6 +221,7 @@ List of awesome websites and tools, particularly for design.
 * https://uxplanet.org/
 * https://1stwebdesigner.com/
 * https://uxdesign.cc/
+* [https://css-tricks.com/](https://css-tricks.com/)
 
 ### Web Tools
 
@@ -802,10 +803,10 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM3MTcxODcsMzMxNDY3Nzc1LC00Mz
-IwNDg5NjIsLTE4MDQ1MDI2ODYsMTg5NTM2MjA4NCwyMDM5MzA3
-NTMxLC02NzU5NTkwMjAsMTc5Njc4MDUyNiwtMjc4NDQ4MTIxLC
-0xMDQ5NjQzNTU1LC0zNjI1ODk0NzQsMTYxNDYzNzYzMCwtMTI4
-ODI0NjE0NSw2MDAxODEwNzgsLTEwNjQxMzkyNiwtNzM5NTgyMD
-kwLC0xNzAwODU2MzQ0XX0=
+eyJoaXN0b3J5IjpbNDM4NzIyMDQ2LC0xNDgzNzE3MTg3LDMzMT
+Q2Nzc3NSwtNDMyMDQ4OTYyLC0xODA0NTAyNjg2LDE4OTUzNjIw
+ODQsMjAzOTMwNzUzMSwtNjc1OTU5MDIwLDE3OTY3ODA1MjYsLT
+I3ODQ0ODEyMSwtMTA0OTY0MzU1NSwtMzYyNTg5NDc0LDE2MTQ2
+Mzc2MzAsLTEyODgyNDYxNDUsNjAwMTgxMDc4LC0xMDY0MTM5Mj
+YsLTczOTU4MjA5MCwtMTcwMDg1NjM0NF19
 -->
