@@ -221,6 +221,10 @@ List of awesome websites.
 * https://rainboxlab.org/tag/after-effects/
 * https://rainboxlab.org/tag/blender/
 
+### Generative
+
+* [https://github.com/inconvergent/weir](https://github.com/inconvergent/weir)
+
 ## Content
 
 * https://copyblogger.com/
@@ -495,6 +499,13 @@ List of awesome websites.
 * https://btdb.io/
 * [https://nulledpremium.com/](https://nulledpremium.com/)
 
+### Tools
+
+* https://kodi.tv
+* https://www.stremio.com
+* https://www.netflix.com/za/
+* https://webtorrent.io/
+
 ### Streaming
 
 * https://ihavenotv.com/
@@ -548,8 +559,10 @@ List of awesome websites.
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTc1NTgzNSwtNjc1OTU5MDIwLDE3OT
+eyJoaXN0b3J5IjpbLTU5OTA0ODgwOSwtNjc1OTU5MDIwLDE3OT
 Y3ODA1MjYsLTI3ODQ0ODEyMSwtMTA0OTY0MzU1NSwtMzYyNTg5
 NDc0LDE2MTQ2Mzc2MzAsLTEyODgyNDYxNDUsNjAwMTgxMDc4LC
 0xMDY0MTM5MjYsLTczOTU4MjA5MCwtMTcwMDg1NjM0NF19
