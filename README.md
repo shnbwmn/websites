@@ -683,6 +683,7 @@ List of awesome websites and tools, particularly for design.
 * https://thefontsmaster.com/
 * http://rostype.com/en/home_/
 * [https://v-fonts.com/](https://v-fonts.com/) - variable fonts
+* [https://www.typeroom.eu/](https://www.typeroom.eu/)
 
 ### After Effects & Premiere
 
@@ -804,10 +805,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3Mzg0ODMsNDM4NzIyMDQ2LC0xNDgzNz
-E3MTg3LDMzMTQ2Nzc3NSwtNDMyMDQ4OTYyLC0xODA0NTAyNjg2
-LDE4OTUzNjIwODQsMjAzOTMwNzUzMSwtNjc1OTU5MDIwLDE3OT
-Y3ODA1MjYsLTI3ODQ0ODEyMSwtMTA0OTY0MzU1NSwtMzYyNTg5
-NDc0LDE2MTQ2Mzc2MzAsLTEyODgyNDYxNDUsNjAwMTgxMDc4LC
-0xMDY0MTM5MjYsLTczOTU4MjA5MCwtMTcwMDg1NjM0NF19
+eyJoaXN0b3J5IjpbLTkyNjgyMTQ0MCwyNzczODQ4Myw0Mzg3Mj
+IwNDYsLTE0ODM3MTcxODcsMzMxNDY3Nzc1LC00MzIwNDg5NjIs
+LTE4MDQ1MDI2ODYsMTg5NTM2MjA4NCwyMDM5MzA3NTMxLC02Nz
+U5NTkwMjAsMTc5Njc4MDUyNiwtMjc4NDQ4MTIxLC0xMDQ5NjQz
+NTU1LC0zNjI1ODk0NzQsMTYxNDYzNzYzMCwtMTI4ODI0NjE0NS
+w2MDAxODEwNzgsLTEwNjQxMzkyNiwtNzM5NTgyMDkwLC0xNzAw
+ODU2MzQ0XX0=
 -->
