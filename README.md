@@ -257,8 +257,17 @@ List of awesome websites and tools, particularly for design.
 * https://www.mandelbulb.com/
 * https://computergraphics.stackexchange.com/
 * https://conceptartempire.com/
+* [STASH Magazine](https://www.stashmedia.tv/)
+* [Motionographer Sharing the best in moving media](http://motionographer.com/)
+* [CGSociety.org](https://cgsociety.org/)
+* [ArtStation](https://www.artstation.com/)
+* [Vimeo Staff Picks](https://vimeo.com/channels/staffpicks)
+* [Sketchfab - Publish & find 3D models online](https://sketchfab.com/)
+* [Begin Learning Blender and Game Development with CG Cookie - CG Cookie](https://cgcookie.com/)
+* [Lesterbanks - An Everyday Resource for the Computer Graphics & 3D Community](https://lesterbanks.com/)
+* [VIDEO COPILOT | After Effects Tutorials, Plug-ins and Stock Footage for Post Production Professionals](https://www.videocopilot.net/)
+* [Creative COW Forums](https://forums.creativecow.net/)
 
-* 
 ### Tools
 
 * [https://clara.io/](https://clara.io/) - online
@@ -707,35 +716,22 @@ List of awesome websites and tools, particularly for design.
 
 ## Interesting
 
-* https://www.quora.com/
+* [Quora: Home](https://www.quora.com/)
 * https://stackexchange.com/
-* https://aeon.co/
+* [Aeon | a world of ideas](https://aeon.co/)
 * https://www.ted.com/
 * https://www.slashgear.com/
 * http://archimedespalimpsest.org/
 * https://hypebeast.com/
 * https://www.theverge.com/
-
-
-
-
-
-
-
-
-
-### Interesting
-
-* [Quora: Home](https://www.quora.com/)
-* [Aeon | a world of ideas](https://aeon.co/)
 * [PROTOCHIC](https://www.protochic.com/)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0MzkxMjg5LC0xODA0NTAyNjg2LDE4OT
-UzNjIwODQsMjAzOTMwNzUzMSwtNjc1OTU5MDIwLDE3OTY3ODA1
-MjYsLTI3ODQ0ODEyMSwtMTA0OTY0MzU1NSwtMzYyNTg5NDc0LD
-E2MTQ2Mzc2MzAsLTEyODgyNDYxNDUsNjAwMTgxMDc4LC0xMDY0
-MTM5MjYsLTczOTU4MjA5MCwtMTcwMDg1NjM0NF19
+eyJoaXN0b3J5IjpbLTQzMjA0ODk2MiwtMTgwNDUwMjY4NiwxOD
+k1MzYyMDg0LDIwMzkzMDc1MzEsLTY3NTk1OTAyMCwxNzk2Nzgw
+NTI2LC0yNzg0NDgxMjEsLTEwNDk2NDM1NTUsLTM2MjU4OTQ3NC
+wxNjE0NjM3NjMwLC0xMjg4MjQ2MTQ1LDYwMDE4MTA3OCwtMTA2
+NDEzOTI2LC03Mzk1ODIwOTAsLTE3MDA4NTYzNDRdfQ==
 -->
