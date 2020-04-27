@@ -1,5 +1,5 @@
 
-# Sites that inspire
+# Websites
 
 List of awesome websites and tools, particularly for design.
 
