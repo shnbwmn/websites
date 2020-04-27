@@ -641,100 +641,49 @@ List of awesome websites and tools, particularly for design.
 ### Keeping up to date with trends
 
 -   [R/GA | Digital trends](https://www.rga.com/)
-    
 -   [Think with Google - Discover Marketing Research & Digital Trends](https://www.thinkwithgoogle.com/)
-    
 -   [Fast Company | The future of business](https://www.fastcompany.com/)
-    
 -   [Ads of the World™ | Part of The Clio Network](https://www.adsoftheworld.com/)
-    
 
-  
-
-Designers specific
-
-  
+### Designers specific
 
 -   [Design Inspiration](https://designinspiration.com/)
-    
 -   [WE LOVE AD | World Creative Advertising Database and Network](http://www.welovead.com/en/)
-    
 -   [Pentagram — The world's largest independent design consultancy](https://www.pentagram.com/)
-    
 -   [African Digital Art (@africandigitalart)](https://www.instagram.com/africandigitalart/?hl=en)
-    
 
-  
-  
+### Blogs
 
-Blogs
-
-  
-
--   [Adobe 99U - A resource for the creative career](https://99u.adobe.com/)
-    
+-   [Adobe 99U - A resource for the creative career](https://99u.adobe.com/) 
 -   [AIGA Eye on Design: Eye on Design](https://eyeondesign.aiga.org/)
-    
 -   [Creative Bloq | Art and Design Inspiration](https://www.creativebloq.com/)
-    
 -   [Abduzeedo - Design Inspiration and Tutorials](https://abduzeedo.com/)
-    
 -   [Muzli - Design Inspiration](https://medium.muz.li/)
-    
 -   [BizCommunity - Marketing and Media South Africa](https://www.bizcommunity.com/)
-    
 -   [UX Collective](https://uxdesign.cc/)
-    
 -   [Inside Design Blog | Thoughts on users, experience, and design](https://www.invisionapp.com/inside-design/)
-    
 
-  
-  
-  
-
-Agencies
-
-  
+### Agencies
 
 -   [Pentagram — The world's largest independent design consultancy](https://www.pentagram.com/)
-    
 -   [Sagmeister & Walsh](https://sagmeisterwalsh.com/)
-    
 -   [Luma Animation: Featured](http://www.luma.co.za/)
-    
 -   [Landers Miller Design](http://www.landersmiller.com/)
-    
 -   [Digital Agency Network: DAN](https://digitalagencynetwork.com/)
-    
 -   [mimosa agency - digital marketing agency](https://mimosaagency.com/)
-    
 -   [K&i Creative Design Agency Cape Town | Branding | Graphic Design | Web](https://kandi.co.za/)
-    
 -   [hero | Full Service Strategic Marketing Agency](https://hero.co.za/)
-    
 
-  
-
-Animation & 3D
-
-  
+### Animation & 3D
 
 -   [STASH Magazine](https://www.stashmedia.tv/)
-    
 -   [Motionographer Sharing the best in moving media](http://motionographer.com/)
-    
 -   [CGSociety.org](https://cgsociety.org/)
-    
 -   [ArtStation](https://www.artstation.com/)
-    
 -   [Vimeo Staff Picks](https://vimeo.com/channels/staffpicks)
-    
 -   [Sketchfab - Publish & find 3D models online](https://sketchfab.com/)
-    
 -   [Begin Learning Blender and Game Development with CG Cookie - CG Cookie](https://cgcookie.com/)
-    
 -   [Lesterbanks - An Everyday Resource for the Computer Graphics & 3D Community](https://lesterbanks.com/)
-    
 -   [VIDEO COPILOT | After Effects Tutorials, Plug-ins and Stock Footage for Post Production Professionals](https://www.videocopilot.net/)
     
 -   [Creative COW Forums](https://forums.creativecow.net/)
@@ -803,9 +752,9 @@ Podcasts & Video
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwODI3NjI3LDE4OTUzNjIwODQsMjAzOT
-MwNzUzMSwtNjc1OTU5MDIwLDE3OTY3ODA1MjYsLTI3ODQ0ODEy
-MSwtMTA0OTY0MzU1NSwtMzYyNTg5NDc0LDE2MTQ2Mzc2MzAsLT
-EyODgyNDYxNDUsNjAwMTgxMDc4LC0xMDY0MTM5MjYsLTczOTU4
-MjA5MCwtMTcwMDg1NjM0NF19
+eyJoaXN0b3J5IjpbLTIwNTMwMDYxODksMTg5NTM2MjA4NCwyMD
+M5MzA3NTMxLC02NzU5NTkwMjAsMTc5Njc4MDUyNiwtMjc4NDQ4
+MTIxLC0xMDQ5NjQzNTU1LC0zNjI1ODk0NzQsMTYxNDYzNzYzMC
+wtMTI4ODI0NjE0NSw2MDAxODEwNzgsLTEwNjQxMzkyNiwtNzM5
+NTgyMDkwLC0xNzAwODU2MzQ0XX0=
 -->
