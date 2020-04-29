@@ -270,6 +270,8 @@ List of awesome websites and tools, particularly for design.
 * [https://designsystemsrepo.com/](https://designsystemsrepo.com/)
 * [https://designsystemsrepo.com/design-systems/](https://designsystemsrepo.com/design-systems/)
 * [https://www.designsystems.com/](https://www.designsystems.com/)
+* [https://www.designbetter.co/](https://www.designbetter.co/)
+* [https://www.designbetter.co/design-systems-handbook](https://www.designbetter.co/design-systems-handbook)
 * [https://www.designbetter.co/design-systems-handbook](https://www.designbetter.co/design-systems-handbook)
 * [https://www.uxpin.com/create-design-system-guide](https://www.uxpin.com/create-design-system-guide)
 * [https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/](https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/)
@@ -822,7 +824,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzgyNTM5OSwtMTc5OTY4MzUyNCw4NT
+eyJoaXN0b3J5IjpbMTc4MTc4MzI0OSwtMTc5OTY4MzUyNCw4NT
 A3MDkxODMsLTkyNjgyMTQ0MCwyNzczODQ4Myw0Mzg3MjIwNDYs
 LTE0ODM3MTcxODcsMzMxNDY3Nzc1LC00MzIwNDg5NjIsLTE4MD
 Q1MDI2ODYsMTg5NTM2MjA4NCwyMDM5MzA3NTMxLC02NzU5NTkw
