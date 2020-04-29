@@ -276,19 +276,6 @@ List of awesome websites and tools, particularly for design.
 * [https://www.uxpin.com/create-design-system-guide](https://www.uxpin.com/create-design-system-guide)
 * [https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/](https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/)
 
-### Agencies & Studios
-
-* https://www.pixar.com/
-* https://animade.tv/
-
-### Nice brands
-
-* https://www.united.com/en/us/
-
-### Museums
-
-* https://www.mfa.org/
-
 ### Art
 
 * https://www.creativebloq.com/art/painting-techniques-artists-31619638
@@ -833,11 +820,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4NzgxODA5LC0zMjU1MzE3ODcsLTE3OT
-k2ODM1MjQsODUwNzA5MTgzLC05MjY4MjE0NDAsMjc3Mzg0ODMs
-NDM4NzIyMDQ2LC0xNDgzNzE3MTg3LDMzMTQ2Nzc3NSwtNDMyMD
-Q4OTYyLC0xODA0NTAyNjg2LDE4OTUzNjIwODQsMjAzOTMwNzUz
-MSwtNjc1OTU5MDIwLDE3OTY3ODA1MjYsLTI3ODQ0ODEyMSwtMT
-A0OTY0MzU1NSwtMzYyNTg5NDc0LDE2MTQ2Mzc2MzAsLTEyODgy
-NDYxNDVdfQ==
+eyJoaXN0b3J5IjpbLTEwMTYwODQ5ODYsLTMyNTUzMTc4NywtMT
+c5OTY4MzUyNCw4NTA3MDkxODMsLTkyNjgyMTQ0MCwyNzczODQ4
+Myw0Mzg3MjIwNDYsLTE0ODM3MTcxODcsMzMxNDY3Nzc1LC00Mz
+IwNDg5NjIsLTE4MDQ1MDI2ODYsMTg5NTM2MjA4NCwyMDM5MzA3
+NTMxLC02NzU5NTkwMjAsMTc5Njc4MDUyNiwtMjc4NDQ4MTIxLC
+0xMDQ5NjQzNTU1LC0zNjI1ODk0NzQsMTYxNDYzNzYzMCwtMTI4
+ODI0NjE0NV19
 -->
