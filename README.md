@@ -822,14 +822,22 @@ List of awesome websites and tools, particularly for design.
 * https://www.theverge.com/
 * [PROTOCHIC](https://www.protochic.com/)
 
+### Art therapy for adults
+
+* [https://www.justcolor.net/](https://www.justcolor.net/)
+
+### History
+
+* [https://www.sahistory.org.za/](https://www.sahistory.org.za/)
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTUzMTc4NywtMTc5OTY4MzUyNCw4NT
-A3MDkxODMsLTkyNjgyMTQ0MCwyNzczODQ4Myw0Mzg3MjIwNDYs
-LTE0ODM3MTcxODcsMzMxNDY3Nzc1LC00MzIwNDg5NjIsLTE4MD
-Q1MDI2ODYsMTg5NTM2MjA4NCwyMDM5MzA3NTMxLC02NzU5NTkw
-MjAsMTc5Njc4MDUyNiwtMjc4NDQ4MTIxLC0xMDQ5NjQzNTU1LC
-0zNjI1ODk0NzQsMTYxNDYzNzYzMCwtMTI4ODI0NjE0NSw2MDAx
-ODEwNzhdfQ==
+eyJoaXN0b3J5IjpbMjY4NzgxODA5LC0zMjU1MzE3ODcsLTE3OT
+k2ODM1MjQsODUwNzA5MTgzLC05MjY4MjE0NDAsMjc3Mzg0ODMs
+NDM4NzIyMDQ2LC0xNDgzNzE3MTg3LDMzMTQ2Nzc3NSwtNDMyMD
+Q4OTYyLC0xODA0NTAyNjg2LDE4OTUzNjIwODQsMjAzOTMwNzUz
+MSwtNjc1OTU5MDIwLDE3OTY3ODA1MjYsLTI3ODQ0ODEyMSwtMT
+A0OTY0MzU1NSwtMzYyNTg5NDc0LDE2MTQ2Mzc2MzAsLTEyODgy
+NDYxNDVdfQ==
 -->
