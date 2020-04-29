@@ -133,6 +133,7 @@ List of awesome websites and tools, particularly for design.
 * https://www.creativereview.co.uk/
 * https://creativefeel.co.za/
 * https://visi.co.za/
+* [https://www.underconsideration.com/brandnew/](https://www.underconsideration.com/brandnew/)
 
 ### Keeping up to date with trends
 
@@ -806,11 +807,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwNzA5MTgzLC05MjY4MjE0NDAsMjc3Mz
-g0ODMsNDM4NzIyMDQ2LC0xNDgzNzE3MTg3LDMzMTQ2Nzc3NSwt
-NDMyMDQ4OTYyLC0xODA0NTAyNjg2LDE4OTUzNjIwODQsMjAzOT
-MwNzUzMSwtNjc1OTU5MDIwLDE3OTY3ODA1MjYsLTI3ODQ0ODEy
-MSwtMTA0OTY0MzU1NSwtMzYyNTg5NDc0LDE2MTQ2Mzc2MzAsLT
-EyODgyNDYxNDUsNjAwMTgxMDc4LC0xMDY0MTM5MjYsLTczOTU4
-MjA5MF19
+eyJoaXN0b3J5IjpbLTE3OTk2ODM1MjQsODUwNzA5MTgzLC05Mj
+Y4MjE0NDAsMjc3Mzg0ODMsNDM4NzIyMDQ2LC0xNDgzNzE3MTg3
+LDMzMTQ2Nzc3NSwtNDMyMDQ4OTYyLC0xODA0NTAyNjg2LDE4OT
+UzNjIwODQsMjAzOTMwNzUzMSwtNjc1OTU5MDIwLDE3OTY3ODA1
+MjYsLTI3ODQ0ODEyMSwtMTA0OTY0MzU1NSwtMzYyNTg5NDc0LD
+E2MTQ2Mzc2MzAsLTEyODgyNDYxNDUsNjAwMTgxMDc4LC0xMDY0
+MTM5MjZdfQ==
 -->
