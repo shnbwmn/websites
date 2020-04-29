@@ -465,6 +465,7 @@ List of awesome websites and tools, particularly for design.
 
 * https://hundredrabbits.itch.io/left
 * https://www.libreoffice.org/
+* [https://writing.stackexchange.com/](https://writing.stackexchange.com/)
 
 ### Screenwriting
 
@@ -824,7 +825,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjA4MDM1NiwtMTc5OTY4MzUyNCw4NT
+eyJoaXN0b3J5IjpbLTMyNTUzMTc4NywtMTc5OTY4MzUyNCw4NT
 A3MDkxODMsLTkyNjgyMTQ0MCwyNzczODQ4Myw0Mzg3MjIwNDYs
 LTE0ODM3MTcxODcsMzMxNDY3Nzc1LC00MzIwNDg5NjIsLTE4MD
 Q1MDI2ODYsMTg5NTM2MjA4NCwyMDM5MzA3NTMxLC02NzU5NTkw
