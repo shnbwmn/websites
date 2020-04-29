@@ -269,8 +269,8 @@ List of awesome websites and tools, particularly for design.
 * [https://www.invisionapp.com/inside-design/guide-to-design-systems/](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
 * [https://designsystemsrepo.com/](https://designsystemsrepo.com/)
 * [https://designsystemsrepo.com/design-systems/](https://designsystemsrepo.com/design-systems/)
-* [https://www.designsystems.com/](https://www.designsystems.com/)
-* [https://www.designbetter.co/](https://www.designbetter.co/)
+* [Design Systems](https://www.designsystems.com/)
+* [Design Better](https://www.designbetter.co/)
 * [https://www.designbetter.co/design-systems-handbook](https://www.designbetter.co/design-systems-handbook)
 * [https://www.designbetter.co/design-systems-handbook](https://www.designbetter.co/design-systems-handbook)
 * [https://www.uxpin.com/create-design-system-guide](https://www.uxpin.com/create-design-system-guide)
@@ -824,7 +824,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTc4MzI0OSwtMTc5OTY4MzUyNCw4NT
+eyJoaXN0b3J5IjpbLTQwMjA4MDM1NiwtMTc5OTY4MzUyNCw4NT
 A3MDkxODMsLTkyNjgyMTQ0MCwyNzczODQ4Myw0Mzg3MjIwNDYs
 LTE0ODM3MTcxODcsMzMxNDY3Nzc1LC00MzIwNDg5NjIsLTE4MD
 Q1MDI2ODYsMTg5NTM2MjA4NCwyMDM5MzA3NTMxLC02NzU5NTkw
