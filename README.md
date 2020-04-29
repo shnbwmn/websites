@@ -262,6 +262,18 @@ List of awesome websites and tools, particularly for design.
 * https://kandi.co.za/how-to-write-a-brief/
 * https://www.shutterstock.com/blog/guide-graphic-design-process
 
+### Design Systems
+
+* [https://medium.muz.li/what-is-a-design-system-1e43d19e7696](https://medium.muz.li/what-is-a-design-system-1e43d19e7696)
+* [https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
+* [https://www.invisionapp.com/inside-design/guide-to-design-systems/](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
+* [https://designsystemsrepo.com/](https://designsystemsrepo.com/)
+* [https://designsystemsrepo.com/design-systems/](https://designsystemsrepo.com/design-systems/)
+* [https://www.designsystems.com/](https://www.designsystems.com/)
+* [https://www.designbetter.co/design-systems-handbook](https://www.designbetter.co/design-systems-handbook)
+* [https://www.uxpin.com/create-design-system-guide](https://www.uxpin.com/create-design-system-guide)
+* [https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/](https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/)
+
 ### Agencies & Studios
 
 * https://www.pixar.com/
@@ -810,11 +822,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjE4NTk2MTUsLTE3OTk2ODM1MjQsOD
-UwNzA5MTgzLC05MjY4MjE0NDAsMjc3Mzg0ODMsNDM4NzIyMDQ2
-LC0xNDgzNzE3MTg3LDMzMTQ2Nzc3NSwtNDMyMDQ4OTYyLC0xOD
-A0NTAyNjg2LDE4OTUzNjIwODQsMjAzOTMwNzUzMSwtNjc1OTU5
-MDIwLDE3OTY3ODA1MjYsLTI3ODQ0ODEyMSwtMTA0OTY0MzU1NS
-wtMzYyNTg5NDc0LDE2MTQ2Mzc2MzAsLTEyODgyNDYxNDUsNjAw
-MTgxMDc4XX0=
+eyJoaXN0b3J5IjpbMTAyNzgyNTM5OSwtMTc5OTY4MzUyNCw4NT
+A3MDkxODMsLTkyNjgyMTQ0MCwyNzczODQ4Myw0Mzg3MjIwNDYs
+LTE0ODM3MTcxODcsMzMxNDY3Nzc1LC00MzIwNDg5NjIsLTE4MD
+Q1MDI2ODYsMTg5NTM2MjA4NCwyMDM5MzA3NTMxLC02NzU5NTkw
+MjAsMTc5Njc4MDUyNiwtMjc4NDQ4MTIxLC0xMDQ5NjQzNTU1LC
+0zNjI1ODk0NzQsMTYxNDYzNzYzMCwtMTI4ODI0NjE0NSw2MDAx
+ODEwNzhdfQ==
 -->
