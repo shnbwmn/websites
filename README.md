@@ -466,6 +466,7 @@ List of awesome websites and tools, particularly for design.
 * https://superuser.com/questions/689056/how-can-i-convert-github-flavored-markdown-to-a-pdf
 * https://www.npmjs.com/package/markdown-pdf
 * https://marktext.app/
+* [https://dillinger.io/](https://dillinger.io/)
 
 ## Research
 
@@ -805,11 +806,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjgyMTQ0MCwyNzczODQ4Myw0Mzg3Mj
-IwNDYsLTE0ODM3MTcxODcsMzMxNDY3Nzc1LC00MzIwNDg5NjIs
-LTE4MDQ1MDI2ODYsMTg5NTM2MjA4NCwyMDM5MzA3NTMxLC02Nz
-U5NTkwMjAsMTc5Njc4MDUyNiwtMjc4NDQ4MTIxLC0xMDQ5NjQz
-NTU1LC0zNjI1ODk0NzQsMTYxNDYzNzYzMCwtMTI4ODI0NjE0NS
-w2MDAxODEwNzgsLTEwNjQxMzkyNiwtNzM5NTgyMDkwLC0xNzAw
-ODU2MzQ0XX0=
+eyJoaXN0b3J5IjpbODUwNzA5MTgzLC05MjY4MjE0NDAsMjc3Mz
+g0ODMsNDM4NzIyMDQ2LC0xNDgzNzE3MTg3LDMzMTQ2Nzc3NSwt
+NDMyMDQ4OTYyLC0xODA0NTAyNjg2LDE4OTUzNjIwODQsMjAzOT
+MwNzUzMSwtNjc1OTU5MDIwLDE3OTY3ODA1MjYsLTI3ODQ0ODEy
+MSwtMTA0OTY0MzU1NSwtMzYyNTg5NDc0LDE2MTQ2Mzc2MzAsLT
+EyODgyNDYxNDUsNjAwMTgxMDc4LC0xMDY0MTM5MjYsLTczOTU4
+MjA5MF19
 -->
