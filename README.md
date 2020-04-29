@@ -246,22 +246,6 @@ List of awesome websites and tools, particularly for design.
 * https://www.softwareok.com/?seite=Freeware/FontViewOK
 * http://www.nattyware.com/fontster.php
 
-### Articles
-
-* https://www.blackandwhitestudios.nz/blog/branding-design-process
-* http://adoreddesigns.com/5-signs-your-brand-looks-unprofessional/
-* https://medium.com/@tubikstudio/6-creative-stages-of-branding-design-step-by-step-guide-be557fd329fd
-* https://nicolamurrin.com/blog/2016/11/how-to-create-a-brand-board
-* https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/
-* https://medium.com/black-white-studios/how-to-choose-an-effective-brand-colour-palette-b3c28ea3c075
-* https://jamesclear.com/procrastination
-* https://medium.com/the-mission/to-be-insanely-creative-you-need-to-find-your-flow-44ca9b905ae1
-* https://www.interaction-design.org/literature/article/ideation-for-design-preparing-for-the-design-race
-* https://www.workamajig.com/blog/creative-brief
-* https://filestage.io/blog/creative-brief-checklist/
-* https://kandi.co.za/how-to-write-a-brief/
-* https://www.shutterstock.com/blog/guide-graphic-design-process
-
 ### Design Systems
 
 * [https://medium.muz.li/what-is-a-design-system-1e43d19e7696](https://medium.muz.li/what-is-a-design-system-1e43d19e7696)
@@ -820,11 +804,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTYwODQ5ODYsLTMyNTUzMTc4NywtMT
-c5OTY4MzUyNCw4NTA3MDkxODMsLTkyNjgyMTQ0MCwyNzczODQ4
-Myw0Mzg3MjIwNDYsLTE0ODM3MTcxODcsMzMxNDY3Nzc1LC00Mz
-IwNDg5NjIsLTE4MDQ1MDI2ODYsMTg5NTM2MjA4NCwyMDM5MzA3
-NTMxLC02NzU5NTkwMjAsMTc5Njc4MDUyNiwtMjc4NDQ4MTIxLC
-0xMDQ5NjQzNTU1LC0zNjI1ODk0NzQsMTYxNDYzNzYzMCwtMTI4
-ODI0NjE0NV19
+eyJoaXN0b3J5IjpbMzU4MzUzMSwtMzI1NTMxNzg3LC0xNzk5Nj
+gzNTI0LDg1MDcwOTE4MywtOTI2ODIxNDQwLDI3NzM4NDgzLDQz
+ODcyMjA0NiwtMTQ4MzcxNzE4NywzMzE0Njc3NzUsLTQzMjA0OD
+k2MiwtMTgwNDUwMjY4NiwxODk1MzYyMDg0LDIwMzkzMDc1MzEs
+LTY3NTk1OTAyMCwxNzk2NzgwNTI2LC0yNzg0NDgxMjEsLTEwND
+k2NDM1NTUsLTM2MjU4OTQ3NCwxNjE0NjM3NjMwLC0xMjg4MjQ2
+MTQ1XX0=
 -->
