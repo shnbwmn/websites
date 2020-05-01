@@ -245,6 +245,7 @@ List of awesome websites and tools, particularly for design.
 * http://www.xiles.net
 * https://www.softwareok.com/?seite=Freeware/FontViewOK
 * http://www.nattyware.com/fontster.php
+* [https://www.google.com/get/noto/](https://www.google.com/get/noto/) - Google fonts designed for
 
 ### Design Systems
 
@@ -804,11 +805,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4MzUzMSwtMzI1NTMxNzg3LC0xNzk5Nj
-gzNTI0LDg1MDcwOTE4MywtOTI2ODIxNDQwLDI3NzM4NDgzLDQz
-ODcyMjA0NiwtMTQ4MzcxNzE4NywzMzE0Njc3NzUsLTQzMjA0OD
-k2MiwtMTgwNDUwMjY4NiwxODk1MzYyMDg0LDIwMzkzMDc1MzEs
-LTY3NTk1OTAyMCwxNzk2NzgwNTI2LC0yNzg0NDgxMjEsLTEwND
-k2NDM1NTUsLTM2MjU4OTQ3NCwxNjE0NjM3NjMwLC0xMjg4MjQ2
-MTQ1XX0=
+eyJoaXN0b3J5IjpbLTEwNTA0MDU1OCwzNTgzNTMxLC0zMjU1Mz
+E3ODcsLTE3OTk2ODM1MjQsODUwNzA5MTgzLC05MjY4MjE0NDAs
+Mjc3Mzg0ODMsNDM4NzIyMDQ2LC0xNDgzNzE3MTg3LDMzMTQ2Nz
+c3NSwtNDMyMDQ4OTYyLC0xODA0NTAyNjg2LDE4OTUzNjIwODQs
+MjAzOTMwNzUzMSwtNjc1OTU5MDIwLDE3OTY3ODA1MjYsLTI3OD
+Q0ODEyMSwtMTA0OTY0MzU1NSwtMzYyNTg5NDc0LDE2MTQ2Mzc2
+MzBdfQ==
 -->
