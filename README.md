@@ -752,6 +752,10 @@ List of awesome websites and tools, particularly for design.
 * [FOSSHub](https://www.fosshub.com)
 * [Portapps](https://portapps.io/)
 
+### Subtitles
+
+* [https://subscene.com/](https://subscene.com/)
+
 ## Shopping
 
 * https://www.takealot.com
@@ -805,11 +809,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDM5NjIxMjYsMzU4MzUzMSwtMzI1NT
-MxNzg3LC0xNzk5NjgzNTI0LDg1MDcwOTE4MywtOTI2ODIxNDQw
-LDI3NzM4NDgzLDQzODcyMjA0NiwtMTQ4MzcxNzE4NywzMzE0Nj
-c3NzUsLTQzMjA0ODk2MiwtMTgwNDUwMjY4NiwxODk1MzYyMDg0
-LDIwMzkzMDc1MzEsLTY3NTk1OTAyMCwxNzk2NzgwNTI2LC0yNz
-g0NDgxMjEsLTEwNDk2NDM1NTUsLTM2MjU4OTQ3NCwxNjE0NjM3
-NjMwXX0=
+eyJoaXN0b3J5IjpbNzI2NjUxNDkxLC0xNjQzOTYyMTI2LDM1OD
+M1MzEsLTMyNTUzMTc4NywtMTc5OTY4MzUyNCw4NTA3MDkxODMs
+LTkyNjgyMTQ0MCwyNzczODQ4Myw0Mzg3MjIwNDYsLTE0ODM3MT
+cxODcsMzMxNDY3Nzc1LC00MzIwNDg5NjIsLTE4MDQ1MDI2ODYs
+MTg5NTM2MjA4NCwyMDM5MzA3NTMxLC02NzU5NTkwMjAsMTc5Nj
+c4MDUyNiwtMjc4NDQ4MTIxLC0xMDQ5NjQzNTU1LC0zNjI1ODk0
+NzRdfQ==
 -->
