@@ -235,6 +235,9 @@ List of awesome websites and tools, particularly for design.
 * [https://www.layoutit.com/](https://www.layoutit.com/)
 * [https://mobirise.com/bootstrap-builder/](https://mobirise.com/bootstrap-builder/)
 * [https://www.uxpin.com/](https://www.uxpin.com/)
+* [https://wame.chat/en/](https://wame.chat/en/) - Create Whatsapp link to number
+* [https://caniuse.com/#home](https://caniuse.com/#home)
+* [https://css-tricks.com/examples/ButtonMaker/#](https://css-tricks.com/examples/ButtonMaker/#) - CSS button maker
 
 ### Typography
 
@@ -809,11 +812,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2NjUxNDkxLC0xNjQzOTYyMTI2LDM1OD
-M1MzEsLTMyNTUzMTc4NywtMTc5OTY4MzUyNCw4NTA3MDkxODMs
-LTkyNjgyMTQ0MCwyNzczODQ4Myw0Mzg3MjIwNDYsLTE0ODM3MT
-cxODcsMzMxNDY3Nzc1LC00MzIwNDg5NjIsLTE4MDQ1MDI2ODYs
-MTg5NTM2MjA4NCwyMDM5MzA3NTMxLC02NzU5NTkwMjAsMTc5Nj
-c4MDUyNiwtMjc4NDQ4MTIxLC0xMDQ5NjQzNTU1LC0zNjI1ODk0
-NzRdfQ==
+eyJoaXN0b3J5IjpbLTQ3MDEyNDE1Nyw3MjY2NTE0OTEsLTE2ND
+M5NjIxMjYsMzU4MzUzMSwtMzI1NTMxNzg3LC0xNzk5NjgzNTI0
+LDg1MDcwOTE4MywtOTI2ODIxNDQwLDI3NzM4NDgzLDQzODcyMj
+A0NiwtMTQ4MzcxNzE4NywzMzE0Njc3NzUsLTQzMjA0ODk2Miwt
+MTgwNDUwMjY4NiwxODk1MzYyMDg0LDIwMzkzMDc1MzEsLTY3NT
+k1OTAyMCwxNzk2NzgwNTI2LC0yNzg0NDgxMjEsLTEwNDk2NDM1
+NTVdfQ==
 -->
