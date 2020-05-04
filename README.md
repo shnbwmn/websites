@@ -240,6 +240,7 @@ List of awesome websites and tools, particularly for design.
 * [https://css-tricks.com/examples/ButtonMaker/#](https://css-tricks.com/examples/ButtonMaker/#) - CSS button maker
 * [https://grapesjs.com/](https://grapesjs.com/) - FOSS website builder framework / use homepage demos
 * [https://getuikit.com/](https://getuikit.com/) - UI framework
+* [http://michaelsboost.com/kodeWeave/](http://michaelsboost.com/kodeWeave/) - web code playground
 
 ### Typography
 
@@ -814,11 +815,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY4MjgxNTIsLTQ3MDEyNDE1Nyw3Mj
-Y2NTE0OTEsLTE2NDM5NjIxMjYsMzU4MzUzMSwtMzI1NTMxNzg3
-LC0xNzk5NjgzNTI0LDg1MDcwOTE4MywtOTI2ODIxNDQwLDI3Nz
-M4NDgzLDQzODcyMjA0NiwtMTQ4MzcxNzE4NywzMzE0Njc3NzUs
-LTQzMjA0ODk2MiwtMTgwNDUwMjY4NiwxODk1MzYyMDg0LDIwMz
-kzMDc1MzEsLTY3NTk1OTAyMCwxNzk2NzgwNTI2LC0yNzg0NDgx
-MjFdfQ==
+eyJoaXN0b3J5IjpbMTQyMTc3NjM3NiwtNDcwMTI0MTU3LDcyNj
+Y1MTQ5MSwtMTY0Mzk2MjEyNiwzNTgzNTMxLC0zMjU1MzE3ODcs
+LTE3OTk2ODM1MjQsODUwNzA5MTgzLC05MjY4MjE0NDAsMjc3Mz
+g0ODMsNDM4NzIyMDQ2LC0xNDgzNzE3MTg3LDMzMTQ2Nzc3NSwt
+NDMyMDQ4OTYyLC0xODA0NTAyNjg2LDE4OTUzNjIwODQsMjAzOT
+MwNzUzMSwtNjc1OTU5MDIwLDE3OTY3ODA1MjYsLTI3ODQ0ODEy
+MV19
 -->
