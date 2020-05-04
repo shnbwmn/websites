@@ -185,6 +185,7 @@ List of awesome websites and tools, particularly for design.
 * https://webdesigner.withgoogle.com/
 * https://www.invisionapp.com/studio
 * https://www.draw.io/
+* [https://inkscape.org/](https://inkscape.org/)
 
 ### Enlargement
 
@@ -816,11 +817,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzYwMjMxMSwxNDIxNzc2Mzc2LC00Nz
-AxMjQxNTcsNzI2NjUxNDkxLC0xNjQzOTYyMTI2LDM1ODM1MzEs
-LTMyNTUzMTc4NywtMTc5OTY4MzUyNCw4NTA3MDkxODMsLTkyNj
-gyMTQ0MCwyNzczODQ4Myw0Mzg3MjIwNDYsLTE0ODM3MTcxODcs
-MzMxNDY3Nzc1LC00MzIwNDg5NjIsLTE4MDQ1MDI2ODYsMTg5NT
-M2MjA4NCwyMDM5MzA3NTMxLC02NzU5NTkwMjAsMTc5Njc4MDUy
-Nl19
+eyJoaXN0b3J5IjpbLTE1OTE5MzY5MzQsMTQyMTc3NjM3NiwtND
+cwMTI0MTU3LDcyNjY1MTQ5MSwtMTY0Mzk2MjEyNiwzNTgzNTMx
+LC0zMjU1MzE3ODcsLTE3OTk2ODM1MjQsODUwNzA5MTgzLC05Mj
+Y4MjE0NDAsMjc3Mzg0ODMsNDM4NzIyMDQ2LC0xNDgzNzE3MTg3
+LDMzMTQ2Nzc3NSwtNDMyMDQ4OTYyLC0xODA0NTAyNjg2LDE4OT
+UzNjIwODQsMjAzOTMwNzUzMSwtNjc1OTU5MDIwLDE3OTY3ODA1
+MjZdfQ==
 -->
