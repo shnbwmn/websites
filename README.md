@@ -586,6 +586,7 @@ List of awesome websites and tools, particularly for design.
 ## Resources
 
 * https://creativecommons.org/
+* [https://designtaxi.com/category/Freebies](https://designtaxi.com/category/Freebies)
 
 ### Images
 
@@ -822,11 +823,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDE2NzU4MiwtMTU5MTkzNjkzNCwxND
-IxNzc2Mzc2LC00NzAxMjQxNTcsNzI2NjUxNDkxLC0xNjQzOTYy
-MTI2LDM1ODM1MzEsLTMyNTUzMTc4NywtMTc5OTY4MzUyNCw4NT
-A3MDkxODMsLTkyNjgyMTQ0MCwyNzczODQ4Myw0Mzg3MjIwNDYs
-LTE0ODM3MTcxODcsMzMxNDY3Nzc1LC00MzIwNDg5NjIsLTE4MD
-Q1MDI2ODYsMTg5NTM2MjA4NCwyMDM5MzA3NTMxLC02NzU5NTkw
-MjBdfQ==
+eyJoaXN0b3J5IjpbMzM2MTk1NjY5LDE0ODQxNjc1ODIsLTE1OT
+E5MzY5MzQsMTQyMTc3NjM3NiwtNDcwMTI0MTU3LDcyNjY1MTQ5
+MSwtMTY0Mzk2MjEyNiwzNTgzNTMxLC0zMjU1MzE3ODcsLTE3OT
+k2ODM1MjQsODUwNzA5MTgzLC05MjY4MjE0NDAsMjc3Mzg0ODMs
+NDM4NzIyMDQ2LC0xNDgzNzE3MTg3LDMzMTQ2Nzc3NSwtNDMyMD
+Q4OTYyLC0xODA0NTAyNjg2LDE4OTUzNjIwODQsMjAzOTMwNzUz
+MV19
 -->
