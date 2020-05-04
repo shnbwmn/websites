@@ -238,6 +238,7 @@ List of awesome websites and tools, particularly for design.
 * [https://wame.chat/en/](https://wame.chat/en/) - Create Whatsapp link to number
 * [https://caniuse.com/#home](https://caniuse.com/#home)
 * [https://css-tricks.com/examples/ButtonMaker/#](https://css-tricks.com/examples/ButtonMaker/#) - CSS button maker
+* [https://grapesjs.com/](https://grapesjs.com/) - FOSS website builder framework / use homepage demos
 
 ### Typography
 
@@ -812,11 +813,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDEyNDE1Nyw3MjY2NTE0OTEsLTE2ND
-M5NjIxMjYsMzU4MzUzMSwtMzI1NTMxNzg3LC0xNzk5NjgzNTI0
-LDg1MDcwOTE4MywtOTI2ODIxNDQwLDI3NzM4NDgzLDQzODcyMj
-A0NiwtMTQ4MzcxNzE4NywzMzE0Njc3NzUsLTQzMjA0ODk2Miwt
-MTgwNDUwMjY4NiwxODk1MzYyMDg0LDIwMzkzMDc1MzEsLTY3NT
-k1OTAyMCwxNzk2NzgwNTI2LC0yNzg0NDgxMjEsLTEwNDk2NDM1
-NTVdfQ==
+eyJoaXN0b3J5IjpbLTk2Nzc2OTg5MiwtNDcwMTI0MTU3LDcyNj
+Y1MTQ5MSwtMTY0Mzk2MjEyNiwzNTgzNTMxLC0zMjU1MzE3ODcs
+LTE3OTk2ODM1MjQsODUwNzA5MTgzLC05MjY4MjE0NDAsMjc3Mz
+g0ODMsNDM4NzIyMDQ2LC0xNDgzNzE3MTg3LDMzMTQ2Nzc3NSwt
+NDMyMDQ4OTYyLC0xODA0NTAyNjg2LDE4OTUzNjIwODQsMjAzOT
+MwNzUzMSwtNjc1OTU5MDIwLDE3OTY3ODA1MjYsLTI3ODQ0ODEy
+MV19
 -->
