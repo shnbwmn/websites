@@ -219,6 +219,10 @@ List of awesome websites and tools, particularly for design.
 * [https://www.davechaffey.com/](https://www.davechaffey.com/)
 * [https://themediaonline.co.za/](https://themediaonline.co.za/)
 
+### Memes
+
+* [https://imgflip.com/](https://imgflip.com/)
+
 ### Web
 
 * https://uxplanet.org/
@@ -817,11 +821,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE5MzY5MzQsMTQyMTc3NjM3NiwtND
-cwMTI0MTU3LDcyNjY1MTQ5MSwtMTY0Mzk2MjEyNiwzNTgzNTMx
-LC0zMjU1MzE3ODcsLTE3OTk2ODM1MjQsODUwNzA5MTgzLC05Mj
-Y4MjE0NDAsMjc3Mzg0ODMsNDM4NzIyMDQ2LC0xNDgzNzE3MTg3
-LDMzMTQ2Nzc3NSwtNDMyMDQ4OTYyLC0xODA0NTAyNjg2LDE4OT
-UzNjIwODQsMjAzOTMwNzUzMSwtNjc1OTU5MDIwLDE3OTY3ODA1
-MjZdfQ==
+eyJoaXN0b3J5IjpbMTM2MTE2NDczMSwtMTU5MTkzNjkzNCwxND
+IxNzc2Mzc2LC00NzAxMjQxNTcsNzI2NjUxNDkxLC0xNjQzOTYy
+MTI2LDM1ODM1MzEsLTMyNTUzMTc4NywtMTc5OTY4MzUyNCw4NT
+A3MDkxODMsLTkyNjgyMTQ0MCwyNzczODQ4Myw0Mzg3MjIwNDYs
+LTE0ODM3MTcxODcsMzMxNDY3Nzc1LC00MzIwNDg5NjIsLTE4MD
+Q1MDI2ODYsMTg5NTM2MjA4NCwyMDM5MzA3NTMxLC02NzU5NTkw
+MjBdfQ==
 -->
