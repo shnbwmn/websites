@@ -17,13 +17,11 @@ List of awesome websites and tools, particularly for design.
     + [Podcasts & Video](#podcasts---video)
     + [Events](#events)
     + [Marketing](#marketing)
+    + [Memes](#memes)
     + [Web](#web)
     + [Web Tools](#web-tools)
     + [Typography](#typography)
-    + [Articles](#articles)
-    + [Agencies & Studios](#agencies---studios)
-    + [Nice brands](#nice-brands)
-    + [Museums](#museums)
+    + [Design Systems](#design-systems)
     + [Art](#art)
   * [3D & Animation](#3d---animation)
     + [Tools](#tools-1)
@@ -67,10 +65,13 @@ List of awesome websites and tools, particularly for design.
     + [Product Manuals](#product-manuals)
     + [Browsers](#browsers)
     + [Software](#software)
+    + [Subtitles](#subtitles)
   * [Shopping](#shopping)
   * [Learning](#learning)
   * [Jobs](#jobs)
   * [Interesting](#interesting)
+    + [Art therapy for adults](#art-therapy-for-adults)
+    + [History](#history)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -821,7 +822,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTE2NDczMSwtMTU5MTkzNjkzNCwxND
+eyJoaXN0b3J5IjpbMTQ4NDE2NzU4MiwtMTU5MTkzNjkzNCwxND
 IxNzc2Mzc2LC00NzAxMjQxNTcsNzI2NjUxNDkxLC0xNjQzOTYy
 MTI2LDM1ODM1MzEsLTMyNTUzMTc4NywtMTc5OTY4MzUyNCw4NT
 A3MDkxODMsLTkyNjgyMTQ0MCwyNzczODQ4Myw0Mzg3MjIwNDYs
