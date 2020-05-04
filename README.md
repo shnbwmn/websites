@@ -232,6 +232,7 @@ List of awesome websites and tools, particularly for design.
 * [https://css-tricks.com/](https://css-tricks.com/)
 * [CodePen](https://codepen.io/)
 * [https://www.smashingmagazine.com/](https://www.smashingmagazine.com/)
+* [https://www.webdesignerdepot.com/](https://www.webdesignerdepot.com/)
 
 ### Web Tools
 
@@ -823,11 +824,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2MTk1NjY5LDE0ODQxNjc1ODIsLTE1OT
-E5MzY5MzQsMTQyMTc3NjM3NiwtNDcwMTI0MTU3LDcyNjY1MTQ5
-MSwtMTY0Mzk2MjEyNiwzNTgzNTMxLC0zMjU1MzE3ODcsLTE3OT
-k2ODM1MjQsODUwNzA5MTgzLC05MjY4MjE0NDAsMjc3Mzg0ODMs
-NDM4NzIyMDQ2LC0xNDgzNzE3MTg3LDMzMTQ2Nzc3NSwtNDMyMD
-Q4OTYyLC0xODA0NTAyNjg2LDE4OTUzNjIwODQsMjAzOTMwNzUz
-MV19
+eyJoaXN0b3J5IjpbMTA1MTYxMjI3NiwzMzYxOTU2NjksMTQ4ND
+E2NzU4MiwtMTU5MTkzNjkzNCwxNDIxNzc2Mzc2LC00NzAxMjQx
+NTcsNzI2NjUxNDkxLC0xNjQzOTYyMTI2LDM1ODM1MzEsLTMyNT
+UzMTc4NywtMTc5OTY4MzUyNCw4NTA3MDkxODMsLTkyNjgyMTQ0
+MCwyNzczODQ4Myw0Mzg3MjIwNDYsLTE0ODM3MTcxODcsMzMxND
+Y3Nzc1LC00MzIwNDg5NjIsLTE4MDQ1MDI2ODYsMTg5NTM2MjA4
+NF19
 -->
