@@ -588,6 +588,7 @@ List of awesome websites and tools, particularly for design.
 
 * https://creativecommons.org/
 * [https://designtaxi.com/category/Freebies](https://designtaxi.com/category/Freebies)
+* [https://www.webdesignerdepot.com/category/freebies/](https://www.webdesignerdepot.com/category/freebies/)
 
 ### Images
 
@@ -824,7 +825,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTYxMjI3NiwzMzYxOTU2NjksMTQ4ND
+eyJoaXN0b3J5IjpbLTM0MjQxNDAyOSwzMzYxOTU2NjksMTQ4ND
 E2NzU4MiwtMTU5MTkzNjkzNCwxNDIxNzc2Mzc2LC00NzAxMjQx
 NTcsNzI2NjUxNDkxLC0xNjQzOTYyMTI2LDM1ODM1MzEsLTMyNT
 UzMTc4NywtMTc5OTY4MzUyNCw4NTA3MDkxODMsLTkyNjgyMTQ0
