@@ -558,7 +558,7 @@ List of awesome websites and tools, particularly for design.
 * https://handbrake.fr/
 * [http://www.selur.de/](http://www.selur.de/) - Hybrid
 * [https://sourceforge.net/projects/megui/](https://sourceforge.net/projects/megui/)
-* [https://corz.org/windows/software/ffe/](https://corz.org/windows/software/ffe/) - looks like last update in 2015
+* [https://corz.org/windows/software/ffe/](https://corz.org/windows/software/ffe/) - last update 2015
 * * [http://www.avanti.arrozcru.org/](http://www.avanti.arrozcru.org/) - last update 2015
 
 ### Packaging
@@ -843,11 +843,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxOTAxOTk3LDQ1MzgzNzQzMywyMDM1ND
-c1MjMwLDEwNjA0NDMyMzUsLTExODg2OTk0NTIsLTM0MjQxNDAy
-OSwzMzYxOTU2NjksMTQ4NDE2NzU4MiwtMTU5MTkzNjkzNCwxND
-IxNzc2Mzc2LC00NzAxMjQxNTcsNzI2NjUxNDkxLC0xNjQzOTYy
-MTI2LDM1ODM1MzEsLTMyNTUzMTc4NywtMTc5OTY4MzUyNCw4NT
-A3MDkxODMsLTkyNjgyMTQ0MCwyNzczODQ4Myw0Mzg3MjIwNDZd
-fQ==
+eyJoaXN0b3J5IjpbMTE3OTUwMDMyOSw0NTM4Mzc0MzMsMjAzNT
+Q3NTIzMCwxMDYwNDQzMjM1LC0xMTg4Njk5NDUyLC0zNDI0MTQw
+MjksMzM2MTk1NjY5LDE0ODQxNjc1ODIsLTE1OTE5MzY5MzQsMT
+QyMTc3NjM3NiwtNDcwMTI0MTU3LDcyNjY1MTQ5MSwtMTY0Mzk2
+MjEyNiwzNTgzNTMxLC0zMjU1MzE3ODcsLTE3OTk2ODM1MjQsOD
+UwNzA5MTgzLC05MjY4MjE0NDAsMjc3Mzg0ODMsNDM4NzIyMDQ2
+XX0=
 -->
