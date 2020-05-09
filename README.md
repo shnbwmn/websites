@@ -549,6 +549,10 @@ List of awesome websites and tools, particularly for design.
 ### Conversion
 
 * [https://github.com/staxrip/staxrip](https://github.com/staxrip/staxrip)
+* [https://www.xmedia-recode.de/en/](https://www.xmedia-recode.de/en/)
+* [https://www.erightsoft.com/SUPER.html](https://www.erightsoft.com/SUPER.html)
+* [https://ffqueue.bruchhaus.dk/](https://ffqueue.bruchhaus.dk/)
+* [https://vidcoder.net/](https://vidcoder.net/)
 * 
 
 ### Packaging
@@ -834,11 +838,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjY0NDg3MjMsMTA2MDQ0MzIzNSwtMT
-E4ODY5OTQ1MiwtMzQyNDE0MDI5LDMzNjE5NTY2OSwxNDg0MTY3
-NTgyLC0xNTkxOTM2OTM0LDE0MjE3NzYzNzYsLTQ3MDEyNDE1Ny
-w3MjY2NTE0OTEsLTE2NDM5NjIxMjYsMzU4MzUzMSwtMzI1NTMx
-Nzg3LC0xNzk5NjgzNTI0LDg1MDcwOTE4MywtOTI2ODIxNDQwLD
-I3NzM4NDgzLDQzODcyMjA0NiwtMTQ4MzcxNzE4NywzMzE0Njc3
-NzVdfQ==
+eyJoaXN0b3J5IjpbMTY2NTY1Nzk4OSwxMDYwNDQzMjM1LC0xMT
+g4Njk5NDUyLC0zNDI0MTQwMjksMzM2MTk1NjY5LDE0ODQxNjc1
+ODIsLTE1OTE5MzY5MzQsMTQyMTc3NjM3NiwtNDcwMTI0MTU3LD
+cyNjY1MTQ5MSwtMTY0Mzk2MjEyNiwzNTgzNTMxLC0zMjU1MzE3
+ODcsLTE3OTk2ODM1MjQsODUwNzA5MTgzLC05MjY4MjE0NDAsMj
+c3Mzg0ODMsNDM4NzIyMDQ2LC0xNDgzNzE3MTg3LDMzMTQ2Nzc3
+NV19
 -->
