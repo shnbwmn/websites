@@ -710,6 +710,7 @@ List of awesome websites and tools, particularly for design.
 * https://thefontsmaster.com/
 * http://rostype.com/en/home_/
 * [https://v-fonts.com/](https://v-fonts.com/) - variable fonts
+* [https://www.axis-praxis.org/](https://www.axis-praxis.org/) - variable
 * [https://www.typeroom.eu/](https://www.typeroom.eu/)
 
 ### After Effects & Premiere
@@ -844,11 +845,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjE1OTA3Niw0NTM4Mzc0MzMsMjAzNT
-Q3NTIzMCwxMDYwNDQzMjM1LC0xMTg4Njk5NDUyLC0zNDI0MTQw
-MjksMzM2MTk1NjY5LDE0ODQxNjc1ODIsLTE1OTE5MzY5MzQsMT
-QyMTc3NjM3NiwtNDcwMTI0MTU3LDcyNjY1MTQ5MSwtMTY0Mzk2
-MjEyNiwzNTgzNTMxLC0zMjU1MzE3ODcsLTE3OTk2ODM1MjQsOD
-UwNzA5MTgzLC05MjY4MjE0NDAsMjc3Mzg0ODMsNDM4NzIyMDQ2
-XX0=
+eyJoaXN0b3J5IjpbLTE3MjIyMjQwMTgsNDUzODM3NDMzLDIwMz
+U0NzUyMzAsMTA2MDQ0MzIzNSwtMTE4ODY5OTQ1MiwtMzQyNDE0
+MDI5LDMzNjE5NTY2OSwxNDg0MTY3NTgyLC0xNTkxOTM2OTM0LD
+E0MjE3NzYzNzYsLTQ3MDEyNDE1Nyw3MjY2NTE0OTEsLTE2NDM5
+NjIxMjYsMzU4MzUzMSwtMzI1NTMxNzg3LC0xNzk5NjgzNTI0LD
+g1MDcwOTE4MywtOTI2ODIxNDQwLDI3NzM4NDgzLDQzODcyMjA0
+Nl19
 -->
