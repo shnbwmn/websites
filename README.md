@@ -809,6 +809,10 @@ List of awesome websites and tools, particularly for design.
 * https://www.javascript.com/
 * https://www.edx.org/
 
+## Travel
+
+* [https://wanderlog.com/](https://wanderlog.com/)
+
 ## Jobs
 
 * https://www.indeed.co.za/
@@ -846,7 +850,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzM3NzEwOSw0NTM4Mzc0MzMsMjAzNT
+eyJoaXN0b3J5IjpbLTkxODI1ODI3OCw0NTM4Mzc0MzMsMjAzNT
 Q3NTIzMCwxMDYwNDQzMjM1LC0xMTg4Njk5NDUyLC0zNDI0MTQw
 MjksMzM2MTk1NjY5LDE0ODQxNjc1ODIsLTE1OTE5MzY5MzQsMT
 QyMTc3NjM3NiwtNDcwMTI0MTU3LDcyNjY1MTQ5MSwtMTY0Mzk2
