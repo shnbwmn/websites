@@ -424,6 +424,9 @@ List of awesome websites and tools, particularly for design.
 * https://cavalry.scenegroup.co/
 * https://www.fnordware.com/ProEXR/
 * https://www.fnordware.com/WebM/
+	* [https://community.adobe.com/t5/adobe-media-encoder/exporting-webm-files-vp9-in-media-encoder-2020/td-p/10845738?page=1](https://community.adobe.com/t5/adobe-media-encoder/exporting-webm-files-vp9-in-media-encoder-2020/td-p/10845738?page=1)
+	* [https://exchange.adobe.com/creativecloud.details.11631.webm.html](https://exchange.adobe.com/creativecloud.details.11631.webm.html)
+	* [https://github.com/fnordware/AdobeWebM](https://github.com/fnordware/AdobeWebM)
 
 ### Video Copilot
 
@@ -826,11 +829,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg2OTk0NTIsLTM0MjQxNDAyOSwzMz
-YxOTU2NjksMTQ4NDE2NzU4MiwtMTU5MTkzNjkzNCwxNDIxNzc2
-Mzc2LC00NzAxMjQxNTcsNzI2NjUxNDkxLC0xNjQzOTYyMTI2LD
-M1ODM1MzEsLTMyNTUzMTc4NywtMTc5OTY4MzUyNCw4NTA3MDkx
-ODMsLTkyNjgyMTQ0MCwyNzczODQ4Myw0Mzg3MjIwNDYsLTE0OD
-M3MTcxODcsMzMxNDY3Nzc1LC00MzIwNDg5NjIsLTE4MDQ1MDI2
-ODZdfQ==
+eyJoaXN0b3J5IjpbMTA2MDQ0MzIzNSwtMTE4ODY5OTQ1MiwtMz
+QyNDE0MDI5LDMzNjE5NTY2OSwxNDg0MTY3NTgyLC0xNTkxOTM2
+OTM0LDE0MjE3NzYzNzYsLTQ3MDEyNDE1Nyw3MjY2NTE0OTEsLT
+E2NDM5NjIxMjYsMzU4MzUzMSwtMzI1NTMxNzg3LC0xNzk5Njgz
+NTI0LDg1MDcwOTE4MywtOTI2ODIxNDQwLDI3NzM4NDgzLDQzOD
+cyMjA0NiwtMTQ4MzcxNzE4NywzMzE0Njc3NzUsLTQzMjA0ODk2
+Ml19
 -->
