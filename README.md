@@ -546,6 +546,11 @@ List of awesome websites and tools, particularly for design.
 * https://www.xdlab.ru/en/ - TagScanner
 * https://www.vb-audio.com/Voicemeeter/index.htm
 
+### Conversion
+
+* [https://github.com/staxrip/staxrip](https://github.com/staxrip/staxrip)
+* 
+
 ### Packaging
 
 * [https://www.pack.ly/en](https://www.pack.ly/en)
@@ -829,11 +834,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDQ0MzIzNSwtMTE4ODY5OTQ1MiwtMz
-QyNDE0MDI5LDMzNjE5NTY2OSwxNDg0MTY3NTgyLC0xNTkxOTM2
-OTM0LDE0MjE3NzYzNzYsLTQ3MDEyNDE1Nyw3MjY2NTE0OTEsLT
-E2NDM5NjIxMjYsMzU4MzUzMSwtMzI1NTMxNzg3LC0xNzk5Njgz
-NTI0LDg1MDcwOTE4MywtOTI2ODIxNDQwLDI3NzM4NDgzLDQzOD
-cyMjA0NiwtMTQ4MzcxNzE4NywzMzE0Njc3NzUsLTQzMjA0ODk2
-Ml19
+eyJoaXN0b3J5IjpbLTEwMjY0NDg3MjMsMTA2MDQ0MzIzNSwtMT
+E4ODY5OTQ1MiwtMzQyNDE0MDI5LDMzNjE5NTY2OSwxNDg0MTY3
+NTgyLC0xNTkxOTM2OTM0LDE0MjE3NzYzNzYsLTQ3MDEyNDE1Ny
+w3MjY2NTE0OTEsLTE2NDM5NjIxMjYsMzU4MzUzMSwtMzI1NTMx
+Nzg3LC0xNzk5NjgzNTI0LDg1MDcwOTE4MywtOTI2ODIxNDQwLD
+I3NzM4NDgzLDQzODcyMjA0NiwtMTQ4MzcxNzE4NywzMzE0Njc3
+NzVdfQ==
 -->
