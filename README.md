@@ -553,7 +553,10 @@ List of awesome websites and tools, particularly for design.
 * [https://www.erightsoft.com/SUPER.html](https://www.erightsoft.com/SUPER.html)
 * [https://ffqueue.bruchhaus.dk/](https://ffqueue.bruchhaus.dk/)
 * [https://vidcoder.net/](https://vidcoder.net/)
-* [https://forum.doom9.org/showthread.php?t=127611](https://forum.doom9.org/showthread.php?t=127611) - RipBot26
+* [https://forum.doom9.org/showthread.php?t=127611](https://forum.doom9.org/showthread.php?t=127611) - RipBot264
+* https://handbrake.fr/
+* [http://www.selur.de/](http://www.selur.de/) - Hybrid
+* [https://sourceforge.net/projects/megui/](https://sourceforge.net/projects/megui/)
 
 ### Packaging
 
@@ -587,7 +590,6 @@ List of awesome websites and tools, particularly for design.
 
 ### Utilities
 
-* https://handbrake.fr/
 * https://www.xnview.com/en/xnretro/
 * https://lockhunter.com/
 * https://www.bulkrenameutility.co.uk/
@@ -838,11 +840,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4NTQ5MTc3LDEwNjA0NDMyMzUsLTExOD
-g2OTk0NTIsLTM0MjQxNDAyOSwzMzYxOTU2NjksMTQ4NDE2NzU4
-MiwtMTU5MTkzNjkzNCwxNDIxNzc2Mzc2LC00NzAxMjQxNTcsNz
-I2NjUxNDkxLC0xNjQzOTYyMTI2LDM1ODM1MzEsLTMyNTUzMTc4
-NywtMTc5OTY4MzUyNCw4NTA3MDkxODMsLTkyNjgyMTQ0MCwyNz
-czODQ4Myw0Mzg3MjIwNDYsLTE0ODM3MTcxODcsMzMxNDY3Nzc1
-XX0=
+eyJoaXN0b3J5IjpbMjAzNTQ3NTIzMCwxMDYwNDQzMjM1LC0xMT
+g4Njk5NDUyLC0zNDI0MTQwMjksMzM2MTk1NjY5LDE0ODQxNjc1
+ODIsLTE1OTE5MzY5MzQsMTQyMTc3NjM3NiwtNDcwMTI0MTU3LD
+cyNjY1MTQ5MSwtMTY0Mzk2MjEyNiwzNTgzNTMxLC0zMjU1MzE3
+ODcsLTE3OTk2ODM1MjQsODUwNzA5MTgzLC05MjY4MjE0NDAsMj
+c3Mzg0ODMsNDM4NzIyMDQ2LC0xNDgzNzE3MTg3LDMzMTQ2Nzc3
+NV19
 -->
