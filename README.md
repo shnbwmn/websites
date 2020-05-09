@@ -154,6 +154,7 @@ List of awesome websites and tools, particularly for design.
 ### Blogs
 
 * [Adobe 99U - A resource for the creative career](https://99u.adobe.com/) 
+* [https://cmo.adobe.com/](https://cmo.adobe.com/)
 * [AIGA Eye on Design: Eye on Design](https://eyeondesign.aiga.org/)
 * [Creative Bloq | Art and Design Inspiration](https://www.creativebloq.com/)
 * [Abduzeedo - Design Inspiration and Tutorials](https://abduzeedo.com/)
@@ -845,7 +846,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODE3MDI5NCw0NTM4Mzc0MzMsMjAzNT
+eyJoaXN0b3J5IjpbLTE5NzM3NzEwOSw0NTM4Mzc0MzMsMjAzNT
 Q3NTIzMCwxMDYwNDQzMjM1LC0xMTg4Njk5NDUyLC0zNDI0MTQw
 MjksMzM2MTk1NjY5LDE0ODQxNjc1ODIsLTE1OTE5MzY5MzQsMT
 QyMTc3NjM3NiwtNDcwMTI0MTU3LDcyNjY1MTQ5MSwtMTY0Mzk2
