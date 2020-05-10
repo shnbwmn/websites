@@ -225,17 +225,6 @@ List of awesome websites and tools, particularly for design.
 
 * [https://imgflip.com/](https://imgflip.com/)
 
-### Web
-
-* https://uxplanet.org/
-* https://1stwebdesigner.com/
-* https://uxdesign.cc/
-* [https://css-tricks.com/](https://css-tricks.com/)
-* [CodePen](https://codepen.io/)
-* [https://www.smashingmagazine.com/](https://www.smashingmagazine.com/)
-* [https://www.webdesignerdepot.com/](https://www.webdesignerdepot.com/)
-* [https://bootstrapcreative.com/](https://bootstrapcreative.com/)
-
 ### Web Tools
 
 * https://code.visualstudio.com/
@@ -281,6 +270,21 @@ List of awesome websites and tools, particularly for design.
 
 * https://www.creativebloq.com/art/painting-techniques-artists-31619638
 * https://www.artsy.net/
+
+## Web Design
+
+* [https://getbootstrap.com/](https://getbootstrap.com/)
+* [https://html5boilerplate.com/](https://html5boilerplate.com/)
+* https://uxplanet.org/
+* https://1stwebdesigner.com/
+* https://uxdesign.cc/
+* [https://css-tricks.com/](https://css-tricks.com/)
+* [CodePen](https://codepen.io/)
+* [https://www.smashingmagazine.com/](https://www.smashingmagazine.com/)
+* [https://www.webdesignerdepot.com/](https://www.webdesignerdepot.com/)
+* [https://bootstrapcreative.com/](https://bootstrapcreative.com/)
+
+### Frame
 
 ## 3D & Animation
 
@@ -851,11 +855,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTcwMTI0Myw0NTM4Mzc0MzMsMjAzNT
-Q3NTIzMCwxMDYwNDQzMjM1LC0xMTg4Njk5NDUyLC0zNDI0MTQw
-MjksMzM2MTk1NjY5LDE0ODQxNjc1ODIsLTE1OTE5MzY5MzQsMT
-QyMTc3NjM3NiwtNDcwMTI0MTU3LDcyNjY1MTQ5MSwtMTY0Mzk2
-MjEyNiwzNTgzNTMxLC0zMjU1MzE3ODcsLTE3OTk2ODM1MjQsOD
-UwNzA5MTgzLC05MjY4MjE0NDAsMjc3Mzg0ODMsNDM4NzIyMDQ2
-XX0=
+eyJoaXN0b3J5IjpbLTk5OTMyMzA4MiwyMDYxNzAxMjQzLDQ1Mz
+gzNzQzMywyMDM1NDc1MjMwLDEwNjA0NDMyMzUsLTExODg2OTk0
+NTIsLTM0MjQxNDAyOSwzMzYxOTU2NjksMTQ4NDE2NzU4MiwtMT
+U5MTkzNjkzNCwxNDIxNzc2Mzc2LC00NzAxMjQxNTcsNzI2NjUx
+NDkxLC0xNjQzOTYyMTI2LDM1ODM1MzEsLTMyNTUzMTc4NywtMT
+c5OTY4MzUyNCw4NTA3MDkxODMsLTkyNjgyMTQ0MCwyNzczODQ4
+M119
 -->
