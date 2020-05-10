@@ -225,22 +225,6 @@ List of awesome websites and tools, particularly for design.
 
 * [https://imgflip.com/](https://imgflip.com/)
 
-### Web Tools
-
-* https://code.visualstudio.com/
-* https://desktop.github.com/
-* [https://bootstrapstudio.io/](https://bootstrapstudio.io/)
-* [https://www.adobe.com/africa/products/dreamweaver.html](https://www.adobe.com/africa/products/dreamweaver.html)
-* [https://www.layoutit.com/](https://www.layoutit.com/)
-* [https://mobirise.com/bootstrap-builder/](https://mobirise.com/bootstrap-builder/)
-* [https://www.uxpin.com/](https://www.uxpin.com/)
-* [https://wame.chat/en/](https://wame.chat/en/) - Create Whatsapp link to number
-* [https://caniuse.com/#home](https://caniuse.com/#home)
-* [https://css-tricks.com/examples/ButtonMaker/#](https://css-tricks.com/examples/ButtonMaker/#) - CSS button maker
-* [https://grapesjs.com/](https://grapesjs.com/) - FOSS website builder framework / use homepage demos
-* [https://getuikit.com/](https://getuikit.com/) - UI framework
-* [http://michaelsboost.com/kodeWeave/](http://michaelsboost.com/kodeWeave/) - web code playground
-
 ### Typography
 
 * https://fontforge.org/en-US/
@@ -273,8 +257,6 @@ List of awesome websites and tools, particularly for design.
 
 ## Web Design
 
-* [https://getbootstrap.com/](https://getbootstrap.com/)
-* [https://html5boilerplate.com/](https://html5boilerplate.com/)
 * https://uxplanet.org/
 * https://1stwebdesigner.com/
 * https://uxdesign.cc/
@@ -284,7 +266,26 @@ List of awesome websites and tools, particularly for design.
 * [https://www.webdesignerdepot.com/](https://www.webdesignerdepot.com/)
 * [https://bootstrapcreative.com/](https://bootstrapcreative.com/)
 
-### Frame
+### Frameworks
+
+* [https://getbootstrap.com/](https://getbootstrap.com/)
+* [https://html5boilerplate.com/](https://html5boilerplate.com/)
+
+### Tools
+
+* https://code.visualstudio.com/
+* https://desktop.github.com/
+* [https://bootstrapstudio.io/](https://bootstrapstudio.io/)
+* [https://www.adobe.com/africa/products/dreamweaver.html](https://www.adobe.com/africa/products/dreamweaver.html)
+* [https://www.layoutit.com/](https://www.layoutit.com/)
+* [https://mobirise.com/bootstrap-builder/](https://mobirise.com/bootstrap-builder/)
+* [https://www.uxpin.com/](https://www.uxpin.com/)
+* [https://wame.chat/en/](https://wame.chat/en/) - Create Whatsapp link to number
+* [https://caniuse.com/#home](https://caniuse.com/#home)
+* [https://css-tricks.com/examples/ButtonMaker/#](https://css-tricks.com/examples/ButtonMaker/#) - CSS button maker
+* [https://grapesjs.com/](https://grapesjs.com/) - FOSS website builder framework / use homepage demos
+* [https://getuikit.com/](https://getuikit.com/) - UI framework
+* [http://michaelsboost.com/kodeWeave/](http://michaelsboost.com/kodeWeave/) - web code playground
 
 ## 3D & Animation
 
@@ -855,11 +856,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTMyMzA4MiwyMDYxNzAxMjQzLDQ1Mz
-gzNzQzMywyMDM1NDc1MjMwLDEwNjA0NDMyMzUsLTExODg2OTk0
-NTIsLTM0MjQxNDAyOSwzMzYxOTU2NjksMTQ4NDE2NzU4MiwtMT
-U5MTkzNjkzNCwxNDIxNzc2Mzc2LC00NzAxMjQxNTcsNzI2NjUx
-NDkxLC0xNjQzOTYyMTI2LDM1ODM1MzEsLTMyNTUzMTc4NywtMT
-c5OTY4MzUyNCw4NTA3MDkxODMsLTkyNjgyMTQ0MCwyNzczODQ4
-M119
+eyJoaXN0b3J5IjpbLTEwNTQyNjA1NjQsMjA2MTcwMTI0Myw0NT
+M4Mzc0MzMsMjAzNTQ3NTIzMCwxMDYwNDQzMjM1LC0xMTg4Njk5
+NDUyLC0zNDI0MTQwMjksMzM2MTk1NjY5LDE0ODQxNjc1ODIsLT
+E1OTE5MzY5MzQsMTQyMTc3NjM3NiwtNDcwMTI0MTU3LDcyNjY1
+MTQ5MSwtMTY0Mzk2MjEyNiwzNTgzNTMxLC0zMjU1MzE3ODcsLT
+E3OTk2ODM1MjQsODUwNzA5MTgzLC05MjY4MjE0NDAsMjc3Mzg0
+ODNdfQ==
 -->
