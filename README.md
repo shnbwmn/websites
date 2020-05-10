@@ -266,6 +266,10 @@ List of awesome websites and tools, particularly for design.
 * [https://www.webdesignerdepot.com/](https://www.webdesignerdepot.com/)
 * [https://bootstrapcreative.com/](https://bootstrapcreative.com/)
 
+### Learning
+
+[https://www.freecodecamp.org/news/](https://www.freecodecamp.org/news/)
+
 ### Frameworks
 
 * [https://getbootstrap.com/](https://getbootstrap.com/)
@@ -856,11 +860,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQyNjA1NjQsMjA2MTcwMTI0Myw0NT
-M4Mzc0MzMsMjAzNTQ3NTIzMCwxMDYwNDQzMjM1LC0xMTg4Njk5
-NDUyLC0zNDI0MTQwMjksMzM2MTk1NjY5LDE0ODQxNjc1ODIsLT
-E1OTE5MzY5MzQsMTQyMTc3NjM3NiwtNDcwMTI0MTU3LDcyNjY1
-MTQ5MSwtMTY0Mzk2MjEyNiwzNTgzNTMxLC0zMjU1MzE3ODcsLT
-E3OTk2ODM1MjQsODUwNzA5MTgzLC05MjY4MjE0NDAsMjc3Mzg0
-ODNdfQ==
+eyJoaXN0b3J5IjpbLTExMzUyMzUxMjQsLTEwNTQyNjA1NjQsMj
+A2MTcwMTI0Myw0NTM4Mzc0MzMsMjAzNTQ3NTIzMCwxMDYwNDQz
+MjM1LC0xMTg4Njk5NDUyLC0zNDI0MTQwMjksMzM2MTk1NjY5LD
+E0ODQxNjc1ODIsLTE1OTE5MzY5MzQsMTQyMTc3NjM3NiwtNDcw
+MTI0MTU3LDcyNjY1MTQ5MSwtMTY0Mzk2MjEyNiwzNTgzNTMxLC
+0zMjU1MzE3ODcsLTE3OTk2ODM1MjQsODUwNzA5MTgzLC05MjY4
+MjE0NDBdfQ==
 -->
