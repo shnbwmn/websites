@@ -18,13 +18,15 @@ List of awesome websites and tools, particularly for design.
     + [Events](#events)
     + [Marketing](#marketing)
     + [Memes](#memes)
-    + [Web](#web)
-    + [Web Tools](#web-tools)
     + [Typography](#typography)
     + [Design Systems](#design-systems)
     + [Art](#art)
-  * [3D & Animation](#3d---animation)
+  * [Web Design](#web-design)
+    + [Learning](#learning)
+    + [Frameworks](#frameworks)
     + [Tools](#tools-1)
+  * [3D & Animation](#3d---animation)
+    + [Tools](#tools-2)
     + [Blender](#blender)
     + [Rigging](#rigging)
     + [After Effects & Premiere](#after-effects---premiere)
@@ -37,8 +39,9 @@ List of awesome websites and tools, particularly for design.
     + [Markdown](#markdown)
   * [Research](#research)
   * [Photography](#photography)
-  * [Tools](#tools-2)
+  * [Tools](#tools-3)
     + [Audio](#audio)
+    + [Conversion](#conversion)
     + [Packaging](#packaging)
     + [CAD](#cad)
     + [Social Media](#social-media)
@@ -52,7 +55,7 @@ List of awesome websites and tools, particularly for design.
     + [3D Models](#3d-models)
     + [Vectors](#vectors)
     + [Textures](#textures)
-    + [Web](#web-1)
+    + [Web](#web)
     + [Icons](#icons)
     + [Fonts](#fonts)
     + [After Effects & Premiere](#after-effects---premiere-1)
@@ -60,14 +63,15 @@ List of awesome websites and tools, particularly for design.
     + [Mockups](#mockups)
   * [Home & Garden](#home---garden)
   * [Download Sources](#download-sources)
-    + [Tools](#tools-3)
+    + [Tools](#tools-4)
     + [Streaming](#streaming)
     + [Product Manuals](#product-manuals)
     + [Browsers](#browsers)
     + [Software](#software)
     + [Subtitles](#subtitles)
   * [Shopping](#shopping)
-  * [Learning](#learning)
+  * [Learning](#learning-1)
+  * [Travel](#travel)
   * [Jobs](#jobs)
   * [Interesting](#interesting)
     + [Art therapy for adults](#art-therapy-for-adults)
@@ -268,7 +272,7 @@ List of awesome websites and tools, particularly for design.
 
 ### Learning
 
-[https://www.freecodecamp.org/news/](https://www.freecodecamp.org/news/)
+* [https://www.freecodecamp.org/news/](https://www.freecodecamp.org/news/)
 
 ### Frameworks
 
@@ -860,11 +864,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzUyMzUxMjQsLTEwNTQyNjA1NjQsMj
-A2MTcwMTI0Myw0NTM4Mzc0MzMsMjAzNTQ3NTIzMCwxMDYwNDQz
-MjM1LC0xMTg4Njk5NDUyLC0zNDI0MTQwMjksMzM2MTk1NjY5LD
-E0ODQxNjc1ODIsLTE1OTE5MzY5MzQsMTQyMTc3NjM3NiwtNDcw
-MTI0MTU3LDcyNjY1MTQ5MSwtMTY0Mzk2MjEyNiwzNTgzNTMxLC
-0zMjU1MzE3ODcsLTE3OTk2ODM1MjQsODUwNzA5MTgzLC05MjY4
-MjE0NDBdfQ==
+eyJoaXN0b3J5IjpbLTE3OTEyMjkyMjksLTExMzUyMzUxMjQsLT
+EwNTQyNjA1NjQsMjA2MTcwMTI0Myw0NTM4Mzc0MzMsMjAzNTQ3
+NTIzMCwxMDYwNDQzMjM1LC0xMTg4Njk5NDUyLC0zNDI0MTQwMj
+ksMzM2MTk1NjY5LDE0ODQxNjc1ODIsLTE1OTE5MzY5MzQsMTQy
+MTc3NjM3NiwtNDcwMTI0MTU3LDcyNjY1MTQ5MSwtMTY0Mzk2Mj
+EyNiwzNTgzNTMxLC0zMjU1MzE3ODcsLTE3OTk2ODM1MjQsODUw
+NzA5MTgzXX0=
 -->
