@@ -206,6 +206,7 @@ List of awesome websites and tools, particularly for design.
 
 * https://www.fnordware.com/superpng/
 * https://nikcollection.dxo.com/
+* [https://developers.google.com/speed/webp/docs/webpshop](https://developers.google.com/speed/webp/docs/webpshop) - adds WebP support
 
 ### HDRI 
 
@@ -669,6 +670,7 @@ List of awesome websites and tools, particularly for design.
 * https://www.freepik.com/
 * https://seeklogo.com/
 * https://www.brandsoftheworld.com/
+* [https://publicdomainvectors.org/](https://publicdomainvectors.org/)
 
 ### Textures
 
@@ -864,11 +866,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTEyMjkyMjksLTExMzUyMzUxMjQsLT
-EwNTQyNjA1NjQsMjA2MTcwMTI0Myw0NTM4Mzc0MzMsMjAzNTQ3
-NTIzMCwxMDYwNDQzMjM1LC0xMTg4Njk5NDUyLC0zNDI0MTQwMj
-ksMzM2MTk1NjY5LDE0ODQxNjc1ODIsLTE1OTE5MzY5MzQsMTQy
-MTc3NjM3NiwtNDcwMTI0MTU3LDcyNjY1MTQ5MSwtMTY0Mzk2Mj
-EyNiwzNTgzNTMxLC0zMjU1MzE3ODcsLTE3OTk2ODM1MjQsODUw
-NzA5MTgzXX0=
+eyJoaXN0b3J5IjpbNDc2OTM5NDc1LC0xNzkxMjI5MjI5LC0xMT
+M1MjM1MTI0LC0xMDU0MjYwNTY0LDIwNjE3MDEyNDMsNDUzODM3
+NDMzLDIwMzU0NzUyMzAsMTA2MDQ0MzIzNSwtMTE4ODY5OTQ1Mi
+wtMzQyNDE0MDI5LDMzNjE5NTY2OSwxNDg0MTY3NTgyLC0xNTkx
+OTM2OTM0LDE0MjE3NzYzNzYsLTQ3MDEyNDE1Nyw3MjY2NTE0OT
+EsLTE2NDM5NjIxMjYsMzU4MzUzMSwtMzI1NTMxNzg3LC0xNzk5
+NjgzNTI0XX0=
 -->
