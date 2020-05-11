@@ -579,9 +579,17 @@ List of awesome websites and tools, particularly for design.
 * [https://corz.org/windows/software/ffe/](https://corz.org/windows/software/ffe/) - last update 2015
 * * [http://www.avanti.arrozcru.org/](http://www.avanti.arrozcru.org/) - last update 2015
 
+### Emulation
+
+* [https://github.com/Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
+
 ### Packaging
 
 * [https://www.pack.ly/en](https://www.pack.ly/en)
+
+### Project Management
+
+* [http://projects.findnerd.com/](http://projects.findnerd.com/)
 
 ### CAD
 
@@ -867,11 +875,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTgxMzkyNzgsNDc2OTM5NDc1LC0xNz
-kxMjI5MjI5LC0xMTM1MjM1MTI0LC0xMDU0MjYwNTY0LDIwNjE3
-MDEyNDMsNDUzODM3NDMzLDIwMzU0NzUyMzAsMTA2MDQ0MzIzNS
-wtMTE4ODY5OTQ1MiwtMzQyNDE0MDI5LDMzNjE5NTY2OSwxNDg0
-MTY3NTgyLC0xNTkxOTM2OTM0LDE0MjE3NzYzNzYsLTQ3MDEyND
-E1Nyw3MjY2NTE0OTEsLTE2NDM5NjIxMjYsMzU4MzUzMSwtMzI1
-NTMxNzg3XX0=
+eyJoaXN0b3J5IjpbMTU4NzQ4NDY0LC0xODU4MTM5Mjc4LDQ3Nj
+kzOTQ3NSwtMTc5MTIyOTIyOSwtMTEzNTIzNTEyNCwtMTA1NDI2
+MDU2NCwyMDYxNzAxMjQzLDQ1MzgzNzQzMywyMDM1NDc1MjMwLD
+EwNjA0NDMyMzUsLTExODg2OTk0NTIsLTM0MjQxNDAyOSwzMzYx
+OTU2NjksMTQ4NDE2NzU4MiwtMTU5MTkzNjkzNCwxNDIxNzc2Mz
+c2LC00NzAxMjQxNTcsNzI2NjUxNDkxLC0xNjQzOTYyMTI2LDM1
+ODM1MzFdfQ==
 -->
