@@ -220,6 +220,7 @@ List of awesome websites and tools, particularly for design.
 
 * [CreativeMornings | Breakfast lecture series for the creative community](https://creativemornings.com/)
 * [https://www.invisionapp.com/inside-design/category/design-chats/](https://www.invisionapp.com/inside-design/category/design-chats/)
+* [https://www.eventbrite.co.uk/](https://www.eventbrite.co.uk/)
 
 ### Marketing
 
@@ -866,11 +867,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2OTM5NDc1LC0xNzkxMjI5MjI5LC0xMT
-M1MjM1MTI0LC0xMDU0MjYwNTY0LDIwNjE3MDEyNDMsNDUzODM3
-NDMzLDIwMzU0NzUyMzAsMTA2MDQ0MzIzNSwtMTE4ODY5OTQ1Mi
-wtMzQyNDE0MDI5LDMzNjE5NTY2OSwxNDg0MTY3NTgyLC0xNTkx
-OTM2OTM0LDE0MjE3NzYzNzYsLTQ3MDEyNDE1Nyw3MjY2NTE0OT
-EsLTE2NDM5NjIxMjYsMzU4MzUzMSwtMzI1NTMxNzg3LC0xNzk5
-NjgzNTI0XX0=
+eyJoaXN0b3J5IjpbLTE4NTgxMzkyNzgsNDc2OTM5NDc1LC0xNz
+kxMjI5MjI5LC0xMTM1MjM1MTI0LC0xMDU0MjYwNTY0LDIwNjE3
+MDEyNDMsNDUzODM3NDMzLDIwMzU0NzUyMzAsMTA2MDQ0MzIzNS
+wtMTE4ODY5OTQ1MiwtMzQyNDE0MDI5LDMzNjE5NTY2OSwxNDg0
+MTY3NTgyLC0xNTkxOTM2OTM0LDE0MjE3NzYzNzYsLTQ3MDEyND
+E1Nyw3MjY2NTE0OTEsLTE2NDM5NjIxMjYsMzU4MzUzMSwtMzI1
+NTMxNzg3XX0=
 -->
