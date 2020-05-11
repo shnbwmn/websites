@@ -361,6 +361,7 @@ List of awesome websites and tools, particularly for design.
 * [Lesterbanks - An Everyday Resource for the Computer Graphics & 3D Community](https://lesterbanks.com/)
 * [VIDEO COPILOT | After Effects Tutorials, Plug-ins and Stock Footage for Post Production Professionals](https://www.videocopilot.net/)
 * [Creative COW Forums](https://forums.creativecow.net/)
+* [https://www.premiumbeat.com/blog/9-best-places-for-motion-design-inspiration/](https://www.premiumbeat.com/blog/9-best-places-for-motion-design-inspiration/)
 
 ### Tools
 
@@ -875,7 +876,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzQ4NDY0LC0xODU4MTM5Mjc4LDQ3Nj
+eyJoaXN0b3J5IjpbMTkwMjc0NDQ3LC0xODU4MTM5Mjc4LDQ3Nj
 kzOTQ3NSwtMTc5MTIyOTIyOSwtMTEzNTIzNTEyNCwtMTA1NDI2
 MDU2NCwyMDYxNzAxMjQzLDQ1MzgzNzQzMywyMDM1NDc1MjMwLD
 EwNjA0NDMyMzUsLTExODg2OTk0NTIsLTM0MjQxNDAyOSwzMzYx
