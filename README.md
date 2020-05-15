@@ -827,6 +827,7 @@ List of awesome websites and tools, particularly for design.
 * https://www.loot.co.za/welcome
 * https://www.evetech.co.za
 * https://www.checkers.co.za/c-2824/All-Departments/Electronics
+* [https://learningcurve.co.za/](https://learningcurve.co.za/) - discounted creative software
 
 ## Learning
 
@@ -877,11 +878,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxNjIyNDMzLDE5MDI3NDQ0NywtMTg1OD
-EzOTI3OCw0NzY5Mzk0NzUsLTE3OTEyMjkyMjksLTExMzUyMzUx
-MjQsLTEwNTQyNjA1NjQsMjA2MTcwMTI0Myw0NTM4Mzc0MzMsMj
-AzNTQ3NTIzMCwxMDYwNDQzMjM1LC0xMTg4Njk5NDUyLC0zNDI0
-MTQwMjksMzM2MTk1NjY5LDE0ODQxNjc1ODIsLTE1OTE5MzY5Mz
-QsMTQyMTc3NjM3NiwtNDcwMTI0MTU3LDcyNjY1MTQ5MSwtMTY0
-Mzk2MjEyNl19
+eyJoaXN0b3J5IjpbLTgzOTg0Njg0Nyw3MzE2MjI0MzMsMTkwMj
+c0NDQ3LC0xODU4MTM5Mjc4LDQ3NjkzOTQ3NSwtMTc5MTIyOTIy
+OSwtMTEzNTIzNTEyNCwtMTA1NDI2MDU2NCwyMDYxNzAxMjQzLD
+Q1MzgzNzQzMywyMDM1NDc1MjMwLDEwNjA0NDMyMzUsLTExODg2
+OTk0NTIsLTM0MjQxNDAyOSwzMzYxOTU2NjksMTQ4NDE2NzU4Mi
+wtMTU5MTkzNjkzNCwxNDIxNzc2Mzc2LC00NzAxMjQxNTcsNzI2
+NjUxNDkxXX0=
 -->
