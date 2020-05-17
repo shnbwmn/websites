@@ -640,6 +640,10 @@ List of awesome websites and tools, particularly for design.
 * https://rclone.org/
 * https://abstractspoon.com/ - ToDoList
 
+#### Uninstallers
+
+* [https://www.bcuninstaller.com/](https://www.bcuninstaller.com/)
+
 ## Resources
 
 * https://creativecommons.org/
@@ -892,11 +896,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjE3NzcwLC0xNDU4MDI2NjEsLTEwMD
-I2ODA3NDIsMTM2NDE0MTcwOSwxODYwNjA5MjEyLC04Mzk4NDY4
-NDcsNzMxNjIyNDMzLDE5MDI3NDQ0NywtMTg1ODEzOTI3OCw0Nz
-Y5Mzk0NzUsLTE3OTEyMjkyMjksLTExMzUyMzUxMjQsLTEwNTQy
-NjA1NjQsMjA2MTcwMTI0Myw0NTM4Mzc0MzMsMjAzNTQ3NTIzMC
-wxMDYwNDQzMjM1LC0xMTg4Njk5NDUyLC0zNDI0MTQwMjksMzM2
-MTk1NjY5XX0=
+eyJoaXN0b3J5IjpbLTEwMTQ1MzAxOTEsMTEwNjE3NzcwLC0xND
+U4MDI2NjEsLTEwMDI2ODA3NDIsMTM2NDE0MTcwOSwxODYwNjA5
+MjEyLC04Mzk4NDY4NDcsNzMxNjIyNDMzLDE5MDI3NDQ0NywtMT
+g1ODEzOTI3OCw0NzY5Mzk0NzUsLTE3OTEyMjkyMjksLTExMzUy
+MzUxMjQsLTEwNTQyNjA1NjQsMjA2MTcwMTI0Myw0NTM4Mzc0Mz
+MsMjAzNTQ3NTIzMCwxMDYwNDQzMjM1LC0xMTg4Njk5NDUyLC0z
+NDI0MTQwMjldfQ==
 -->
