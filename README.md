@@ -300,7 +300,9 @@ List of awesome websites and tools, particularly for design.
 
 #### Save sites locally
 
-* 
+* [https://www.httrack.com/](https://www.httrack.com/)
+* [https://www.cyotek.com/cyotek-webcopy](https://www.cyotek.com/cyotek-webcopy)
+* [https://archivebox.io/](https://archivebox.io/)
 
 ## 3D & Animation
 
@@ -820,6 +822,10 @@ List of awesome websites and tools, particularly for design.
 * [FOSSHub](https://www.fosshub.com)
 * [Portapps](https://portapps.io/)
 
+#### Collections
+
+* [https://www.cyotek.com/](https://www.cyotek.com/)
+
 ### Subtitles
 
 * [https://subscene.com/](https://subscene.com/)
@@ -882,11 +888,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDYwOTIxMiwtODM5ODQ2ODQ3LDczMT
-YyMjQzMywxOTAyNzQ0NDcsLTE4NTgxMzkyNzgsNDc2OTM5NDc1
-LC0xNzkxMjI5MjI5LC0xMTM1MjM1MTI0LC0xMDU0MjYwNTY0LD
-IwNjE3MDEyNDMsNDUzODM3NDMzLDIwMzU0NzUyMzAsMTA2MDQ0
-MzIzNSwtMTE4ODY5OTQ1MiwtMzQyNDE0MDI5LDMzNjE5NTY2OS
-wxNDg0MTY3NTgyLC0xNTkxOTM2OTM0LDE0MjE3NzYzNzYsLTQ3
-MDEyNDE1N119
+eyJoaXN0b3J5IjpbMTM2NDE0MTcwOSwxODYwNjA5MjEyLC04Mz
+k4NDY4NDcsNzMxNjIyNDMzLDE5MDI3NDQ0NywtMTg1ODEzOTI3
+OCw0NzY5Mzk0NzUsLTE3OTEyMjkyMjksLTExMzUyMzUxMjQsLT
+EwNTQyNjA1NjQsMjA2MTcwMTI0Myw0NTM4Mzc0MzMsMjAzNTQ3
+NTIzMCwxMDYwNDQzMjM1LC0xMTg4Njk5NDUyLC0zNDI0MTQwMj
+ksMzM2MTk1NjY5LDE0ODQxNjc1ODIsLTE1OTE5MzY5MzQsMTQy
+MTc3NjM3Nl19
 -->
