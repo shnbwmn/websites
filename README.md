@@ -305,6 +305,7 @@ List of awesome websites and tools, particularly for design.
 * [https://archivebox.io/](https://archivebox.io/)
 * [https://archive.org/web/](https://archive.org/web/) - Wayback Machine
 * [https://wordpress.org/plugins/all-in-one-wp-migration/](https://wordpress.org/plugins/all-in-one-wp-migration/) - for WordPress sites
+	* [https://wpcrib.com/export-import-wordpress-website/](https://wpcrib.com/export-import-wordpress-website/)
 
 ## 3D & Animation
 
@@ -890,7 +891,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTI0ODg1MiwtMTAwMjY4MDc0MiwxMz
+eyJoaXN0b3J5IjpbLTE0NTgwMjY2MSwtMTAwMjY4MDc0MiwxMz
 Y0MTQxNzA5LDE4NjA2MDkyMTIsLTgzOTg0Njg0Nyw3MzE2MjI0
 MzMsMTkwMjc0NDQ3LC0xODU4MTM5Mjc4LDQ3NjkzOTQ3NSwtMT
 c5MTIyOTIyOSwtMTEzNTIzNTEyNCwtMTA1NDI2MDU2NCwyMDYx
