@@ -303,7 +303,7 @@ List of awesome websites and tools, particularly for design.
 * [https://www.httrack.com/](https://www.httrack.com/)
 * [https://www.cyotek.com/cyotek-webcopy](https://www.cyotek.com/cyotek-webcopy)
 * [https://archivebox.io/](https://archivebox.io/)
-* [https://archive.org/web/](https://archive.org/web/)
+* [https://archive.org/web/](https://archive.org/web/) - Wayback Machine
 
 ## 3D & Animation
 
@@ -889,11 +889,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDY3NTkwMCwxMzY0MTQxNzA5LDE4Nj
-A2MDkyMTIsLTgzOTg0Njg0Nyw3MzE2MjI0MzMsMTkwMjc0NDQ3
-LC0xODU4MTM5Mjc4LDQ3NjkzOTQ3NSwtMTc5MTIyOTIyOSwtMT
-EzNTIzNTEyNCwtMTA1NDI2MDU2NCwyMDYxNzAxMjQzLDQ1Mzgz
-NzQzMywyMDM1NDc1MjMwLDEwNjA0NDMyMzUsLTExODg2OTk0NT
-IsLTM0MjQxNDAyOSwzMzYxOTU2NjksMTQ4NDE2NzU4MiwtMTU5
-MTkzNjkzNF19
+eyJoaXN0b3J5IjpbLTEwMDI2ODA3NDIsMTM2NDE0MTcwOSwxOD
+YwNjA5MjEyLC04Mzk4NDY4NDcsNzMxNjIyNDMzLDE5MDI3NDQ0
+NywtMTg1ODEzOTI3OCw0NzY5Mzk0NzUsLTE3OTEyMjkyMjksLT
+ExMzUyMzUxMjQsLTEwNTQyNjA1NjQsMjA2MTcwMTI0Myw0NTM4
+Mzc0MzMsMjAzNTQ3NTIzMCwxMDYwNDQzMjM1LC0xMTg4Njk5ND
+UyLC0zNDI0MTQwMjksMzM2MTk1NjY5LDE0ODQxNjc1ODIsLTE1
+OTE5MzY5MzRdfQ==
 -->
