@@ -298,6 +298,10 @@ List of awesome websites and tools, particularly for design.
 * [https://getuikit.com/](https://getuikit.com/) - UI framework
 * [http://michaelsboost.com/kodeWeave/](http://michaelsboost.com/kodeWeave/) - web code playground
 
+#### Save sites locally
+
+* 
+
 ## 3D & Animation
 
 * https://www.blendswap.com/
@@ -878,11 +882,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTg0Njg0Nyw3MzE2MjI0MzMsMTkwMj
-c0NDQ3LC0xODU4MTM5Mjc4LDQ3NjkzOTQ3NSwtMTc5MTIyOTIy
-OSwtMTEzNTIzNTEyNCwtMTA1NDI2MDU2NCwyMDYxNzAxMjQzLD
-Q1MzgzNzQzMywyMDM1NDc1MjMwLDEwNjA0NDMyMzUsLTExODg2
-OTk0NTIsLTM0MjQxNDAyOSwzMzYxOTU2NjksMTQ4NDE2NzU4Mi
-wtMTU5MTkzNjkzNCwxNDIxNzc2Mzc2LC00NzAxMjQxNTcsNzI2
-NjUxNDkxXX0=
+eyJoaXN0b3J5IjpbMTg2MDYwOTIxMiwtODM5ODQ2ODQ3LDczMT
+YyMjQzMywxOTAyNzQ0NDcsLTE4NTgxMzkyNzgsNDc2OTM5NDc1
+LC0xNzkxMjI5MjI5LC0xMTM1MjM1MTI0LC0xMDU0MjYwNTY0LD
+IwNjE3MDEyNDMsNDUzODM3NDMzLDIwMzU0NzUyMzAsMTA2MDQ0
+MzIzNSwtMTE4ODY5OTQ1MiwtMzQyNDE0MDI5LDMzNjE5NTY2OS
+wxNDg0MTY3NTgyLC0xNTkxOTM2OTM0LDE0MjE3NzYzNzYsLTQ3
+MDEyNDE1N119
 -->
