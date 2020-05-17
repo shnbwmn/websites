@@ -304,8 +304,9 @@ List of awesome websites and tools, particularly for design.
 * [https://www.cyotek.com/cyotek-webcopy](https://www.cyotek.com/cyotek-webcopy)
 * [https://archivebox.io/](https://archivebox.io/)
 * [https://archive.org/web/](https://archive.org/web/) - Wayback Machine
-* [https://wordpress.org/plugins/all-in-one-wp-migration/](https://wordpress.org/plugins/all-in-one-wp-migration/) - for WordPress sites
-	* [https://wpcrib.com/export-import-wordpress-website/](https://wpcrib.com/export-import-wordpress-website/)
+* [https://wpcrib.com/export-import-wordpress-website/](https://wpcrib.com/export-import-wordpress-website/)
+	* [https://wordpress.org/plugins/all-in-one-wp-migration/](https://wordpress.org/plugins/all-in-one-wp-migration/) - exports to .wpress file
+	* [https://snapcreek.com/duplicator/duplicator-free/](https://snapcreek.com/duplicator/duplicator-free/)
 
 ## 3D & Animation
 
@@ -891,11 +892,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTgwMjY2MSwtMTAwMjY4MDc0MiwxMz
-Y0MTQxNzA5LDE4NjA2MDkyMTIsLTgzOTg0Njg0Nyw3MzE2MjI0
-MzMsMTkwMjc0NDQ3LC0xODU4MTM5Mjc4LDQ3NjkzOTQ3NSwtMT
-c5MTIyOTIyOSwtMTEzNTIzNTEyNCwtMTA1NDI2MDU2NCwyMDYx
-NzAxMjQzLDQ1MzgzNzQzMywyMDM1NDc1MjMwLDEwNjA0NDMyMz
-UsLTExODg2OTk0NTIsLTM0MjQxNDAyOSwzMzYxOTU2NjksMTQ4
-NDE2NzU4Ml19
+eyJoaXN0b3J5IjpbMTEwNjE3NzcwLC0xNDU4MDI2NjEsLTEwMD
+I2ODA3NDIsMTM2NDE0MTcwOSwxODYwNjA5MjEyLC04Mzk4NDY4
+NDcsNzMxNjIyNDMzLDE5MDI3NDQ0NywtMTg1ODEzOTI3OCw0Nz
+Y5Mzk0NzUsLTE3OTEyMjkyMjksLTExMzUyMzUxMjQsLTEwNTQy
+NjA1NjQsMjA2MTcwMTI0Myw0NTM4Mzc0MzMsMjAzNTQ3NTIzMC
+wxMDYwNDQzMjM1LC0xMTg4Njk5NDUyLC0zNDI0MTQwMjksMzM2
+MTk1NjY5XX0=
 -->
