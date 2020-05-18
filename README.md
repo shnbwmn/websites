@@ -579,7 +579,7 @@ List of awesome websites and tools, particularly for design.
 
 ### Chrome extensions
 
-* [https://tweetdeck.twitter.com/](https://tweetdeck.twitter.com/)
+* [https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb) - TabCopy
 
 ### Conversion
 
@@ -905,7 +905,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA1ODcxNzMsLTEwNTYyOTAwMjcsMT
+eyJoaXN0b3J5IjpbLTE2MTk0Mjc4MjQsLTEwNTYyOTAwMjcsMT
 M4MTI5NTcwMCwtMTAxNDUzMDE5MSwxMTA2MTc3NzAsLTE0NTgw
 MjY2MSwtMTAwMjY4MDc0MiwxMzY0MTQxNzA5LDE4NjA2MDkyMT
 IsLTgzOTg0Njg0Nyw3MzE2MjI0MzMsMTkwMjc0NDQ3LC0xODU4
