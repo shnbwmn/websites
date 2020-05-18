@@ -577,6 +577,10 @@ List of awesome websites and tools, particularly for design.
 * https://www.xdlab.ru/en/ - TagScanner
 * https://www.vb-audio.com/Voicemeeter/index.htm
 
+### Chrome extensions
+
+* [https://tweetdeck.twitter.com/](https://tweetdeck.twitter.com/)
+
 ### Conversion
 
 * [http://www.pazera-software.com/](http://www.pazera-software.com/)
@@ -901,11 +905,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTYyOTAwMjcsMTM4MTI5NTcwMCwtMT
-AxNDUzMDE5MSwxMTA2MTc3NzAsLTE0NTgwMjY2MSwtMTAwMjY4
-MDc0MiwxMzY0MTQxNzA5LDE4NjA2MDkyMTIsLTgzOTg0Njg0Ny
-w3MzE2MjI0MzMsMTkwMjc0NDQ3LC0xODU4MTM5Mjc4LDQ3Njkz
-OTQ3NSwtMTc5MTIyOTIyOSwtMTEzNTIzNTEyNCwtMTA1NDI2MD
-U2NCwyMDYxNzAxMjQzLDQ1MzgzNzQzMywyMDM1NDc1MjMwLDEw
-NjA0NDMyMzVdfQ==
+eyJoaXN0b3J5IjpbLTExMzA1ODcxNzMsLTEwNTYyOTAwMjcsMT
+M4MTI5NTcwMCwtMTAxNDUzMDE5MSwxMTA2MTc3NzAsLTE0NTgw
+MjY2MSwtMTAwMjY4MDc0MiwxMzY0MTQxNzA5LDE4NjA2MDkyMT
+IsLTgzOTg0Njg0Nyw3MzE2MjI0MzMsMTkwMjc0NDQ3LC0xODU4
+MTM5Mjc4LDQ3NjkzOTQ3NSwtMTc5MTIyOTIyOSwtMTEzNTIzNT
+EyNCwtMTA1NDI2MDU2NCwyMDYxNzAxMjQzLDQ1MzgzNzQzMywy
+MDM1NDc1MjMwXX0=
 -->
