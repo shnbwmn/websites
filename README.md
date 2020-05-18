@@ -893,12 +893,14 @@ List of awesome websites and tools, particularly for design.
 
 * [https://www.sahistory.org.za/](https://www.sahistory.org.za/)
 
-### Machine Learning
+### Machine learning
+
+* [https://distill.pub/](https://distill.pub/)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTA3NDY5NSwtMTAxNDUzMDE5MSwxMT
+eyJoaXN0b3J5IjpbMTM4MTI5NTcwMCwtMTAxNDUzMDE5MSwxMT
 A2MTc3NzAsLTE0NTgwMjY2MSwtMTAwMjY4MDc0MiwxMzY0MTQx
 NzA5LDE4NjA2MDkyMTIsLTgzOTg0Njg0Nyw3MzE2MjI0MzMsMT
 kwMjc0NDQ3LC0xODU4MTM5Mjc4LDQ3NjkzOTQ3NSwtMTc5MTIy
