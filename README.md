@@ -140,6 +140,7 @@ List of awesome websites and tools, particularly for design.
 * [https://designtaxi.com/](https://designtaxi.com/)
 * [https://www.pinterest.se/fromupnorth/](https://www.pinterest.se/fromupnorth/)
 	* [https://www.instagram.com/fromupnorth/?hl=en](https://www.instagram.com/fromupnorth/?hl=en)
+* [https://digitalsynopsis.com/](https://digitalsynopsis.com/)
 
 ### Keeping up to date with trends
 
@@ -910,11 +911,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTgwNTc5MSw2MTI1NTQ3MDQsLTEyND
-Q3NzU4NjMsLTIwMDQ3OTEzNjgsNTI4NjY2NTY3LC0xNjE5NDI3
-ODI0LC0xMDU2MjkwMDI3LDEzODEyOTU3MDAsLTEwMTQ1MzAxOT
-EsMTEwNjE3NzcwLC0xNDU4MDI2NjEsLTEwMDI2ODA3NDIsMTM2
-NDE0MTcwOSwxODYwNjA5MjEyLC04Mzk4NDY4NDcsNzMxNjIyND
-MzLDE5MDI3NDQ0NywtMTg1ODEzOTI3OCw0NzY5Mzk0NzUsLTE3
-OTEyMjkyMjldfQ==
+eyJoaXN0b3J5IjpbLTQ0MDM5MjM3MiwyMDgxODA1NzkxLDYxMj
+U1NDcwNCwtMTI0NDc3NTg2MywtMjAwNDc5MTM2OCw1Mjg2NjY1
+NjcsLTE2MTk0Mjc4MjQsLTEwNTYyOTAwMjcsMTM4MTI5NTcwMC
+wtMTAxNDUzMDE5MSwxMTA2MTc3NzAsLTE0NTgwMjY2MSwtMTAw
+MjY4MDc0MiwxMzY0MTQxNzA5LDE4NjA2MDkyMTIsLTgzOTg0Nj
+g0Nyw3MzE2MjI0MzMsMTkwMjc0NDQ3LC0xODU4MTM5Mjc4LDQ3
+NjkzOTQ3NV19
 -->
