@@ -87,7 +87,6 @@ List of awesome websites and tools, particularly for design.
 * [Dribbble - Discover the World's Top Designers & Creative Professionals](https://dribbble.com/)
 * [Inspiration Grid: Daily design inspiration for creatives](https://theinspirationgrid.com/)
 * [Designspiration - Design Inspiration](https://www.designspiration.com/)
-* [siteInspire - Web Design Inspiration](https://www.siteinspire.com/)
 * [What's Trending in Type · Typewolf](https://www.typewolf.com/)
 * [Issuu - Categories and Collections](https://issuu.com/categories)
 * [Design Clever](https://www.designclever.co.uk/)
@@ -139,6 +138,8 @@ List of awesome websites and tools, particularly for design.
 * https://visi.co.za/
 * [https://www.underconsideration.com/brandnew/](https://www.underconsideration.com/brandnew/)
 * [https://designtaxi.com/](https://designtaxi.com/)
+* [https://www.pinterest.se/fromupnorth/](https://www.pinterest.se/fromupnorth/)
+	* [https://www.instagram.com/fromupnorth/?hl=en](https://www.instagram.com/fromupnorth/?hl=en)
 
 ### Keeping up to date with trends
 
@@ -262,6 +263,7 @@ List of awesome websites and tools, particularly for design.
 * [https://artreview.com/](https://artreview.com/)
 * https://www.creativebloq.com/art/painting-techniques-artists-31619638
 * https://www.artsy.net/
+* [siteInspire - Web Design Inspiration](https://www.siteinspire.com/)
 
 ## Web Design
 
@@ -907,11 +909,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQ3OTEzNjgsNTI4NjY2NTY3LC0xNj
-E5NDI3ODI0LC0xMDU2MjkwMDI3LDEzODEyOTU3MDAsLTEwMTQ1
-MzAxOTEsMTEwNjE3NzcwLC0xNDU4MDI2NjEsLTEwMDI2ODA3ND
-IsMTM2NDE0MTcwOSwxODYwNjA5MjEyLC04Mzk4NDY4NDcsNzMx
-NjIyNDMzLDE5MDI3NDQ0NywtMTg1ODEzOTI3OCw0NzY5Mzk0Nz
-UsLTE3OTEyMjkyMjksLTExMzUyMzUxMjQsLTEwNTQyNjA1NjQs
-MjA2MTcwMTI0M119
+eyJoaXN0b3J5IjpbLTE1OTIyNzU0NDgsLTIwMDQ3OTEzNjgsNT
+I4NjY2NTY3LC0xNjE5NDI3ODI0LC0xMDU2MjkwMDI3LDEzODEy
+OTU3MDAsLTEwMTQ1MzAxOTEsMTEwNjE3NzcwLC0xNDU4MDI2Nj
+EsLTEwMDI2ODA3NDIsMTM2NDE0MTcwOSwxODYwNjA5MjEyLC04
+Mzk4NDY4NDcsNzMxNjIyNDMzLDE5MDI3NDQ0NywtMTg1ODEzOT
+I3OCw0NzY5Mzk0NzUsLTE3OTEyMjkyMjksLTExMzUyMzUxMjQs
+LTEwNTQyNjA1NjRdfQ==
 -->
