@@ -598,6 +598,7 @@ List of awesome websites and tools, particularly for design.
 ### Chrome extensions
 
 * [https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb) - TabCopy
+* [https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=en](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=en) - Page Ruler Redux
 * 
 
 ### Conversion
@@ -928,11 +929,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2MTc2MDEsNDYxOTk3NzUwLC00NDAzOT
-IzNzIsMjA4MTgwNTc5MSw2MTI1NTQ3MDQsLTEyNDQ3NzU4NjMs
-LTIwMDQ3OTEzNjgsNTI4NjY2NTY3LC0xNjE5NDI3ODI0LC0xMD
-U2MjkwMDI3LDEzODEyOTU3MDAsLTEwMTQ1MzAxOTEsMTEwNjE3
-NzcwLC0xNDU4MDI2NjEsLTEwMDI2ODA3NDIsMTM2NDE0MTcwOS
-wxODYwNjA5MjEyLC04Mzk4NDY4NDcsNzMxNjIyNDMzLDE5MDI3
-NDQ0N119
+eyJoaXN0b3J5IjpbLTMwMzc3NjU5Niw2ODYxNzYwMSw0NjE5OT
+c3NTAsLTQ0MDM5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwt
+MTI0NDc3NTg2MywtMjAwNDc5MTM2OCw1Mjg2NjY1NjcsLTE2MT
+k0Mjc4MjQsLTEwNTYyOTAwMjcsMTM4MTI5NTcwMCwtMTAxNDUz
+MDE5MSwxMTA2MTc3NzAsLTE0NTgwMjY2MSwtMTAwMjY4MDc0Mi
+wxMzY0MTQxNzA5LDE4NjA2MDkyMTIsLTgzOTg0Njg0Nyw3MzE2
+MjI0MzNdfQ==
 -->
