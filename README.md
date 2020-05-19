@@ -383,6 +383,7 @@ List of awesome websites and tools, particularly for design.
 * [https://motionographer.com/](https://motionographer.com/)
 * [https://www.voxelmade.com/](https://www.voxelmade.com/)
 * [http://www.aendom.com/en/](http://www.aendom.com/en/)
+* [https://motionarray.com/](https://motionarray.com/)
 
 ### Tools
 
@@ -915,11 +916,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxOTk3NzUwLC00NDAzOTIzNzIsMjA4MT
-gwNTc5MSw2MTI1NTQ3MDQsLTEyNDQ3NzU4NjMsLTIwMDQ3OTEz
-NjgsNTI4NjY2NTY3LC0xNjE5NDI3ODI0LC0xMDU2MjkwMDI3LD
-EzODEyOTU3MDAsLTEwMTQ1MzAxOTEsMTEwNjE3NzcwLC0xNDU4
-MDI2NjEsLTEwMDI2ODA3NDIsMTM2NDE0MTcwOSwxODYwNjA5Mj
-EyLC04Mzk4NDY4NDcsNzMxNjIyNDMzLDE5MDI3NDQ0NywtMTg1
-ODEzOTI3OF19
+eyJoaXN0b3J5IjpbLTExMzI4MjQ2MjMsNDYxOTk3NzUwLC00ND
+AzOTIzNzIsMjA4MTgwNTc5MSw2MTI1NTQ3MDQsLTEyNDQ3NzU4
+NjMsLTIwMDQ3OTEzNjgsNTI4NjY2NTY3LC0xNjE5NDI3ODI0LC
+0xMDU2MjkwMDI3LDEzODEyOTU3MDAsLTEwMTQ1MzAxOTEsMTEw
+NjE3NzcwLC0xNDU4MDI2NjEsLTEwMDI2ODA3NDIsMTM2NDE0MT
+cwOSwxODYwNjA5MjEyLC04Mzk4NDY4NDcsNzMxNjIyNDMzLDE5
+MDI3NDQ0N119
 -->
