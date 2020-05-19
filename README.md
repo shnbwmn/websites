@@ -598,6 +598,7 @@ List of awesome websites and tools, particularly for design.
 ### Chrome extensions
 
 * [https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb) - TabCopy
+* 
 
 ### Conversion
 
@@ -927,11 +928,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODQ1MDM2MSw0NjE5OTc3NTAsLTQ0MD
-M5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwtMTI0NDc3NTg2
-MywtMjAwNDc5MTM2OCw1Mjg2NjY1NjcsLTE2MTk0Mjc4MjQsLT
-EwNTYyOTAwMjcsMTM4MTI5NTcwMCwtMTAxNDUzMDE5MSwxMTA2
-MTc3NzAsLTE0NTgwMjY2MSwtMTAwMjY4MDc0MiwxMzY0MTQxNz
-A5LDE4NjA2MDkyMTIsLTgzOTg0Njg0Nyw3MzE2MjI0MzMsMTkw
-Mjc0NDQ3XX0=
+eyJoaXN0b3J5IjpbNjg2MTc2MDEsNDYxOTk3NzUwLC00NDAzOT
+IzNzIsMjA4MTgwNTc5MSw2MTI1NTQ3MDQsLTEyNDQ3NzU4NjMs
+LTIwMDQ3OTEzNjgsNTI4NjY2NTY3LC0xNjE5NDI3ODI0LC0xMD
+U2MjkwMDI3LDEzODEyOTU3MDAsLTEwMTQ1MzAxOTEsMTEwNjE3
+NzcwLC0xNDU4MDI2NjEsLTEwMDI2ODA3NDIsMTM2NDE0MTcwOS
+wxODYwNjA5MjEyLC04Mzk4NDY4NDcsNzMxNjIyNDMzLDE5MDI3
+NDQ0N119
 -->
