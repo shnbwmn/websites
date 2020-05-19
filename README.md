@@ -279,6 +279,10 @@ List of awesome websites and tools, particularly for design.
 * [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
 * [http://designbeep.com/](http://designbeep.com/)
 
+### SEO
+
+* 
+
 ### Learning
 
 * [https://www.freecodecamp.org/news/](https://www.freecodecamp.org/news/)
@@ -916,7 +920,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzI4MjQ2MjMsNDYxOTk3NzUwLC00ND
+eyJoaXN0b3J5IjpbLTIwNDE3MjAyMjcsNDYxOTk3NzUwLC00ND
 AzOTIzNzIsMjA4MTgwNTc5MSw2MTI1NTQ3MDQsLTEyNDQ3NzU4
 NjMsLTIwMDQ3OTEzNjgsNTI4NjY2NTY3LC0xNjE5NDI3ODI0LC
 0xMDU2MjkwMDI3LDEzODEyOTU3MDAsLTEwMTQ1MzAxOTEsMTEw
