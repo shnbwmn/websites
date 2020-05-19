@@ -152,7 +152,6 @@ List of awesome websites and tools, particularly for design.
 
 * [Design Inspiration](https://designinspiration.com/)
 * [WE LOVE AD | World Creative Advertising Database and Network](http://www.welovead.com/en/)
-* [Pentagram — The world's largest independent design consultancy](https://www.pentagram.com/)
 * [African Digital Art (@africandigitalart)](https://www.instagram.com/africandigitalart/?hl=en)
 
 ### Blogs
@@ -911,11 +910,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyNTU0NzA0LC0xMjQ0Nzc1ODYzLC0yMD
-A0NzkxMzY4LDUyODY2NjU2NywtMTYxOTQyNzgyNCwtMTA1NjI5
-MDAyNywxMzgxMjk1NzAwLC0xMDE0NTMwMTkxLDExMDYxNzc3MC
-wtMTQ1ODAyNjYxLC0xMDAyNjgwNzQyLDEzNjQxNDE3MDksMTg2
-MDYwOTIxMiwtODM5ODQ2ODQ3LDczMTYyMjQzMywxOTAyNzQ0ND
-csLTE4NTgxMzkyNzgsNDc2OTM5NDc1LC0xNzkxMjI5MjI5LC0x
-MTM1MjM1MTI0XX0=
+eyJoaXN0b3J5IjpbMjA4MTgwNTc5MSw2MTI1NTQ3MDQsLTEyND
+Q3NzU4NjMsLTIwMDQ3OTEzNjgsNTI4NjY2NTY3LC0xNjE5NDI3
+ODI0LC0xMDU2MjkwMDI3LDEzODEyOTU3MDAsLTEwMTQ1MzAxOT
+EsMTEwNjE3NzcwLC0xNDU4MDI2NjEsLTEwMDI2ODA3NDIsMTM2
+NDE0MTcwOSwxODYwNjA5MjEyLC04Mzk4NDY4NDcsNzMxNjIyND
+MzLDE5MDI3NDQ0NywtMTg1ODEzOTI3OCw0NzY5Mzk0NzUsLTE3
+OTEyMjkyMjldfQ==
 -->
