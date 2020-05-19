@@ -141,6 +141,7 @@ List of awesome websites and tools, particularly for design.
 * [https://www.pinterest.se/fromupnorth/](https://www.pinterest.se/fromupnorth/)
 	* [https://www.instagram.com/fromupnorth/?hl=en](https://www.instagram.com/fromupnorth/?hl=en)
 * [https://digitalsynopsis.com/](https://digitalsynopsis.com/)
+* [https://beautifulopen.com/](https://beautifulopen.com/)
 
 ### Keeping up to date with trends
 
@@ -912,7 +913,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI4MTMzMSwtNDQwMzkyMzcyLDIwOD
+eyJoaXN0b3J5IjpbLTQyNDU5OTU5MiwtNDQwMzkyMzcyLDIwOD
 E4MDU3OTEsNjEyNTU0NzA0LC0xMjQ0Nzc1ODYzLC0yMDA0Nzkx
 MzY4LDUyODY2NjU2NywtMTYxOTQyNzgyNCwtMTA1NjI5MDAyNy
 wxMzgxMjk1NzAwLC0xMDE0NTMwMTkxLDExMDYxNzc3MCwtMTQ1
