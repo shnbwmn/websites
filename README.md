@@ -140,6 +140,7 @@ List of awesome websites and tools, particularly for design.
 * https://visi.co.za/
 * [https://www.underconsideration.com/brandnew/](https://www.underconsideration.com/brandnew/)
 * [https://designtaxi.com/](https://designtaxi.com/)
+* [https://artreview.com/](https://artreview.com/)
 
 ### Keeping up to date with trends
 
@@ -905,11 +906,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTk0Mjc4MjQsLTEwNTYyOTAwMjcsMT
-M4MTI5NTcwMCwtMTAxNDUzMDE5MSwxMTA2MTc3NzAsLTE0NTgw
-MjY2MSwtMTAwMjY4MDc0MiwxMzY0MTQxNzA5LDE4NjA2MDkyMT
-IsLTgzOTg0Njg0Nyw3MzE2MjI0MzMsMTkwMjc0NDQ3LC0xODU4
-MTM5Mjc4LDQ3NjkzOTQ3NSwtMTc5MTIyOTIyOSwtMTEzNTIzNT
-EyNCwtMTA1NDI2MDU2NCwyMDYxNzAxMjQzLDQ1MzgzNzQzMywy
-MDM1NDc1MjMwXX0=
+eyJoaXN0b3J5IjpbNjEyOTM2ODY5LC0xNjE5NDI3ODI0LC0xMD
+U2MjkwMDI3LDEzODEyOTU3MDAsLTEwMTQ1MzAxOTEsMTEwNjE3
+NzcwLC0xNDU4MDI2NjEsLTEwMDI2ODA3NDIsMTM2NDE0MTcwOS
+wxODYwNjA5MjEyLC04Mzk4NDY4NDcsNzMxNjIyNDMzLDE5MDI3
+NDQ0NywtMTg1ODEzOTI3OCw0NzY5Mzk0NzUsLTE3OTEyMjkyMj
+ksLTExMzUyMzUxMjQsLTEwNTQyNjA1NjQsMjA2MTcwMTI0Myw0
+NTM4Mzc0MzNdfQ==
 -->
