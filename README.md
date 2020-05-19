@@ -274,6 +274,7 @@ List of awesome websites and tools, particularly for design.
 * [https://www.webdesignerdepot.com/](https://www.webdesignerdepot.com/)
 * [https://bootstrapcreative.com/](https://bootstrapcreative.com/)
 * [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
+* [http://designbeep.com/](http://designbeep.com/)
 
 ### Learning
 
@@ -906,11 +907,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4NjY2NTY3LC0xNjE5NDI3ODI0LC0xMD
-U2MjkwMDI3LDEzODEyOTU3MDAsLTEwMTQ1MzAxOTEsMTEwNjE3
-NzcwLC0xNDU4MDI2NjEsLTEwMDI2ODA3NDIsMTM2NDE0MTcwOS
-wxODYwNjA5MjEyLC04Mzk4NDY4NDcsNzMxNjIyNDMzLDE5MDI3
-NDQ0NywtMTg1ODEzOTI3OCw0NzY5Mzk0NzUsLTE3OTEyMjkyMj
-ksLTExMzUyMzUxMjQsLTEwNTQyNjA1NjQsMjA2MTcwMTI0Myw0
-NTM4Mzc0MzNdfQ==
+eyJoaXN0b3J5IjpbLTIwMDQ3OTEzNjgsNTI4NjY2NTY3LC0xNj
+E5NDI3ODI0LC0xMDU2MjkwMDI3LDEzODEyOTU3MDAsLTEwMTQ1
+MzAxOTEsMTEwNjE3NzcwLC0xNDU4MDI2NjEsLTEwMDI2ODA3ND
+IsMTM2NDE0MTcwOSwxODYwNjA5MjEyLC04Mzk4NDY4NDcsNzMx
+NjIyNDMzLDE5MDI3NDQ0NywtMTg1ODEzOTI3OCw0NzY5Mzk0Nz
+UsLTE3OTEyMjkyMjksLTExMzUyMzUxMjQsLTEwNTQyNjA1NjQs
+MjA2MTcwMTI0M119
 -->
