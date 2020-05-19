@@ -194,6 +194,7 @@ List of awesome websites and tools, particularly for design.
 * https://www.draw.io/
 * [https://inkscape.org/](https://inkscape.org/)
 * [https://ephtracy.github.io/index.html?page=aerialod](https://ephtracy.github.io/index.html?page=aerialod) - height map renderer
+* [https://photomosh.com/](https://photomosh.com/)
 
 ### Enlargement
 
@@ -446,6 +447,7 @@ List of awesome websites and tools, particularly for design.
 * [FreeCAD: Your own 3D parametric modeler](https://www.freecadweb.org/)
 * [3D Youtube Downloader - 3D Youtube Downloader](https://yd.3dyd.com/home/)
 * [https://www.invisionapp.com/inside-design/design-resources/](https://www.invisionapp.com/inside-design/design-resources/)
+* [https://ezgif.com/](https://ezgif.com/)
 
 ### Blender
 
@@ -929,7 +931,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjExNDUwMSw2ODYxNzYwMSw0NjE5OT
+eyJoaXN0b3J5IjpbLTI1NTI3OTgyMyw2ODYxNzYwMSw0NjE5OT
 c3NTAsLTQ0MDM5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwt
 MTI0NDc3NTg2MywtMjAwNDc5MTM2OCw1Mjg2NjY1NjcsLTE2MT
 k0Mjc4MjQsLTEwNTYyOTAwMjcsMTM4MTI5NTcwMCwtMTAxNDUz
