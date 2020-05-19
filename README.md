@@ -378,6 +378,7 @@ List of awesome websites and tools, particularly for design.
 * [VIDEO COPILOT | After Effects Tutorials, Plug-ins and Stock Footage for Post Production Professionals](https://www.videocopilot.net/)
 * [Creative COW Forums](https://forums.creativecow.net/)
 * [https://www.premiumbeat.com/blog/9-best-places-for-motion-design-inspiration/](https://www.premiumbeat.com/blog/9-best-places-for-motion-design-inspiration/)
+* [https://www.cartoonbrew.com/](https://www.cartoonbrew.com/)
 
 ### Tools
 
@@ -910,11 +911,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQ3NzU4NjMsLTIwMDQ3OTEzNjgsNT
-I4NjY2NTY3LC0xNjE5NDI3ODI0LC0xMDU2MjkwMDI3LDEzODEy
-OTU3MDAsLTEwMTQ1MzAxOTEsMTEwNjE3NzcwLC0xNDU4MDI2Nj
-EsLTEwMDI2ODA3NDIsMTM2NDE0MTcwOSwxODYwNjA5MjEyLC04
-Mzk4NDY4NDcsNzMxNjIyNDMzLDE5MDI3NDQ0NywtMTg1ODEzOT
-I3OCw0NzY5Mzk0NzUsLTE3OTEyMjkyMjksLTExMzUyMzUxMjQs
-LTEwNTQyNjA1NjRdfQ==
+eyJoaXN0b3J5IjpbNjEyNTU0NzA0LC0xMjQ0Nzc1ODYzLC0yMD
+A0NzkxMzY4LDUyODY2NjU2NywtMTYxOTQyNzgyNCwtMTA1NjI5
+MDAyNywxMzgxMjk1NzAwLC0xMDE0NTMwMTkxLDExMDYxNzc3MC
+wtMTQ1ODAyNjYxLC0xMDAyNjgwNzQyLDEzNjQxNDE3MDksMTg2
+MDYwOTIxMiwtODM5ODQ2ODQ3LDczMTYyMjQzMywxOTAyNzQ0ND
+csLTE4NTgxMzkyNzgsNDc2OTM5NDc1LC0xNzkxMjI5MjI5LC0x
+MTM1MjM1MTI0XX0=
 -->
