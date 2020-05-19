@@ -719,6 +719,9 @@ List of awesome websites and tools, particularly for design.
 * https://seeklogo.com/
 * https://www.brandsoftheworld.com/
 * [https://publicdomainvectors.org/](https://publicdomainvectors.org/)
+* [https://www.vecteezy.com/](https://www.vecteezy.com/)
+* [https://www.vectorstock.com/](https://www.vectorstock.com/)
+* [https://www.vexels.com/](https://www.vexels.com/)
 
 ### Textures
 
@@ -924,11 +927,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg4OTE3MzQsNDYxOTk3NzUwLC00ND
-AzOTIzNzIsMjA4MTgwNTc5MSw2MTI1NTQ3MDQsLTEyNDQ3NzU4
-NjMsLTIwMDQ3OTEzNjgsNTI4NjY2NTY3LC0xNjE5NDI3ODI0LC
-0xMDU2MjkwMDI3LDEzODEyOTU3MDAsLTEwMTQ1MzAxOTEsMTEw
-NjE3NzcwLC0xNDU4MDI2NjEsLTEwMDI2ODA3NDIsMTM2NDE0MT
-cwOSwxODYwNjA5MjEyLC04Mzk4NDY4NDcsNzMxNjIyNDMzLDE5
-MDI3NDQ0N119
+eyJoaXN0b3J5IjpbMjA0ODQ1MDM2MSw0NjE5OTc3NTAsLTQ0MD
+M5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwtMTI0NDc3NTg2
+MywtMjAwNDc5MTM2OCw1Mjg2NjY1NjcsLTE2MTk0Mjc4MjQsLT
+EwNTYyOTAwMjcsMTM4MTI5NTcwMCwtMTAxNDUzMDE5MSwxMTA2
+MTc3NzAsLTE0NTgwMjY2MSwtMTAwMjY4MDc0MiwxMzY0MTQxNz
+A5LDE4NjA2MDkyMTIsLTgzOTg0Njg0Nyw3MzE2MjI0MzMsMTkw
+Mjc0NDQ3XX0=
 -->
