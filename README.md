@@ -88,7 +88,6 @@ List of awesome websites and tools, particularly for design.
 * [Inspiration Grid: Daily design inspiration for creatives](https://theinspirationgrid.com/)
 * [Designspiration - Design Inspiration](https://www.designspiration.com/)
 * [siteInspire - Web Design Inspiration](https://www.siteinspire.com/)
-* [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
 * [What's Trending in Type · Typewolf](https://www.typewolf.com/)
 * [Issuu - Categories and Collections](https://issuu.com/categories)
 * [Design Clever](https://www.designclever.co.uk/)
@@ -140,7 +139,6 @@ List of awesome websites and tools, particularly for design.
 * https://visi.co.za/
 * [https://www.underconsideration.com/brandnew/](https://www.underconsideration.com/brandnew/)
 * [https://designtaxi.com/](https://designtaxi.com/)
-* [https://artreview.com/](https://artreview.com/)
 
 ### Keeping up to date with trends
 
@@ -261,6 +259,7 @@ List of awesome websites and tools, particularly for design.
 
 ### Art
 
+* [https://artreview.com/](https://artreview.com/)
 * https://www.creativebloq.com/art/painting-techniques-artists-31619638
 * https://www.artsy.net/
 
@@ -274,6 +273,7 @@ List of awesome websites and tools, particularly for design.
 * [https://www.smashingmagazine.com/](https://www.smashingmagazine.com/)
 * [https://www.webdesignerdepot.com/](https://www.webdesignerdepot.com/)
 * [https://bootstrapcreative.com/](https://bootstrapcreative.com/)
+* [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
 
 ### Learning
 
@@ -906,7 +906,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyOTM2ODY5LC0xNjE5NDI3ODI0LC0xMD
+eyJoaXN0b3J5IjpbNTI4NjY2NTY3LC0xNjE5NDI3ODI0LC0xMD
 U2MjkwMDI3LDEzODEyOTU3MDAsLTEwMTQ1MzAxOTEsMTEwNjE3
 NzcwLC0xNDU4MDI2NjEsLTEwMDI2ODA3NDIsMTM2NDE0MTcwOS
 wxODYwNjA5MjEyLC04Mzk4NDY4NDcsNzMxNjIyNDMzLDE5MDI3
