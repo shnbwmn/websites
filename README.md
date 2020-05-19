@@ -379,6 +379,7 @@ List of awesome websites and tools, particularly for design.
 * [Creative COW Forums](https://forums.creativecow.net/)
 * [https://www.premiumbeat.com/blog/9-best-places-for-motion-design-inspiration/](https://www.premiumbeat.com/blog/9-best-places-for-motion-design-inspiration/)
 * [https://www.cartoonbrew.com/](https://www.cartoonbrew.com/)
+* [https://motionographer.com/](https://motionographer.com/)
 
 ### Tools
 
@@ -911,11 +912,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDM5MjM3MiwyMDgxODA1NzkxLDYxMj
-U1NDcwNCwtMTI0NDc3NTg2MywtMjAwNDc5MTM2OCw1Mjg2NjY1
-NjcsLTE2MTk0Mjc4MjQsLTEwNTYyOTAwMjcsMTM4MTI5NTcwMC
-wtMTAxNDUzMDE5MSwxMTA2MTc3NzAsLTE0NTgwMjY2MSwtMTAw
-MjY4MDc0MiwxMzY0MTQxNzA5LDE4NjA2MDkyMTIsLTgzOTg0Nj
-g0Nyw3MzE2MjI0MzMsMTkwMjc0NDQ3LC0xODU4MTM5Mjc4LDQ3
-NjkzOTQ3NV19
+eyJoaXN0b3J5IjpbLTE4NTI4MTMzMSwtNDQwMzkyMzcyLDIwOD
+E4MDU3OTEsNjEyNTU0NzA0LC0xMjQ0Nzc1ODYzLC0yMDA0Nzkx
+MzY4LDUyODY2NjU2NywtMTYxOTQyNzgyNCwtMTA1NjI5MDAyNy
+wxMzgxMjk1NzAwLC0xMDE0NTMwMTkxLDExMDYxNzc3MCwtMTQ1
+ODAyNjYxLC0xMDAyNjgwNzQyLDEzNjQxNDE3MDksMTg2MDYwOT
+IxMiwtODM5ODQ2ODQ3LDczMTYyMjQzMywxOTAyNzQ0NDcsLTE4
+NTgxMzkyNzhdfQ==
 -->
