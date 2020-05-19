@@ -893,6 +893,7 @@ List of awesome websites and tools, particularly for design.
 * https://hypebeast.com/
 * https://www.theverge.com/
 * [PROTOCHIC](https://www.protochic.com/)
+* [https://tvtropes.org/](https://tvtropes.org/)
 
 ### Art therapy for adults
 
@@ -909,7 +910,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTIyNzU0NDgsLTIwMDQ3OTEzNjgsNT
+eyJoaXN0b3J5IjpbLTEyNDQ3NzU4NjMsLTIwMDQ3OTEzNjgsNT
 I4NjY2NTY3LC0xNjE5NDI3ODI0LC0xMDU2MjkwMDI3LDEzODEy
 OTU3MDAsLTEwMTQ1MzAxOTEsMTEwNjE3NzcwLC0xNDU4MDI2Nj
 EsLTEwMDI2ODA3NDIsMTM2NDE0MTcwOSwxODYwNjA5MjEyLC04
