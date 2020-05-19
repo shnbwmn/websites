@@ -211,6 +211,9 @@ List of awesome websites and tools, particularly for design.
 * https://www.fnordware.com/superpng/
 * https://nikcollection.dxo.com/
 * [https://developers.google.com/speed/webp/docs/webpshop](https://developers.google.com/speed/webp/docs/webpshop) - adds WebP support
+* [https://www.creativebloq.com/photoshop/free-photoshop-brushes-11121140](https://www.creativebloq.com/photoshop/free-photoshop-brushes-11121140)
+* [https://www.exr-io.com/](https://www.exr-io.com/)
+* [https://wonderunit.com/storyboarder/](https://wonderunit.com/storyboarder/)
 
 ### HDRI 
 
@@ -943,11 +946,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDY5MTc0OCwtNzAyODQ4MzYwLDY4Nj
-E3NjAxLDQ2MTk5Nzc1MCwtNDQwMzkyMzcyLDIwODE4MDU3OTEs
-NjEyNTU0NzA0LC0xMjQ0Nzc1ODYzLC0yMDA0NzkxMzY4LDUyOD
-Y2NjU2NywtMTYxOTQyNzgyNCwtMTA1NjI5MDAyNywxMzgxMjk1
-NzAwLC0xMDE0NTMwMTkxLDExMDYxNzc3MCwtMTQ1ODAyNjYxLC
-0xMDAyNjgwNzQyLDEzNjQxNDE3MDksMTg2MDYwOTIxMiwtODM5
-ODQ2ODQ3XX0=
+eyJoaXN0b3J5IjpbODY4MTI3MTc3LC03MDI4NDgzNjAsNjg2MT
+c2MDEsNDYxOTk3NzUwLC00NDAzOTIzNzIsMjA4MTgwNTc5MSw2
+MTI1NTQ3MDQsLTEyNDQ3NzU4NjMsLTIwMDQ3OTEzNjgsNTI4Nj
+Y2NTY3LC0xNjE5NDI3ODI0LC0xMDU2MjkwMDI3LDEzODEyOTU3
+MDAsLTEwMTQ1MzAxOTEsMTEwNjE3NzcwLC0xNDU4MDI2NjEsLT
+EwMDI2ODA3NDIsMTM2NDE0MTcwOSwxODYwNjA5MjEyLC04Mzk4
+NDY4NDddfQ==
 -->
