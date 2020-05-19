@@ -599,7 +599,7 @@ List of awesome websites and tools, particularly for design.
 
 * [https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb) - TabCopy
 * [https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=en](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=en) - Page Ruler Redux
-* 
+* [https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en](https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en) - Pinterest Save Button
 
 ### Conversion
 
@@ -929,7 +929,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzc3NjU5Niw2ODYxNzYwMSw0NjE5OT
+eyJoaXN0b3J5IjpbMTkzMjExNDUwMSw2ODYxNzYwMSw0NjE5OT
 c3NTAsLTQ0MDM5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwt
 MTI0NDc3NTg2MywtMjAwNDc5MTM2OCw1Mjg2NjY1NjcsLTE2MT
 k0Mjc4MjQsLTEwNTYyOTAwMjcsMTM4MTI5NTcwMCwtMTAxNDUz
