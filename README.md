@@ -195,6 +195,7 @@ List of awesome websites and tools, particularly for design.
 * [https://inkscape.org/](https://inkscape.org/)
 * [https://ephtracy.github.io/index.html?page=aerialod](https://ephtracy.github.io/index.html?page=aerialod) - height map renderer
 * [https://photomosh.com/](https://photomosh.com/)
+* [https://vectr.com/](https://vectr.com/)
 
 ### Enlargement
 
@@ -931,7 +932,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTI3OTgyMyw2ODYxNzYwMSw0NjE5OT
+eyJoaXN0b3J5IjpbLTcwMjg0ODM2MCw2ODYxNzYwMSw0NjE5OT
 c3NTAsLTQ0MDM5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwt
 MTI0NDc3NTg2MywtMjAwNDc5MTM2OCw1Mjg2NjY1NjcsLTE2MT
 k0Mjc4MjQsLTEwNTYyOTAwMjcsMTM4MTI5NTcwMCwtMTAxNDUz
