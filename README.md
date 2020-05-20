@@ -9,6 +9,8 @@ List of awesome websites and tools, particularly for design.
     + [Designers specific](#designers-specific)
     + [Blogs](#blogs)
     + [Agencies](#agencies)
+    + [Email](#email)
+    + [Colour](#colour)
     + [Tools](#tools)
     + [Enlargement](#enlargement)
     + [Viewers](#viewers)
@@ -19,12 +21,17 @@ List of awesome websites and tools, particularly for design.
     + [Marketing](#marketing)
     + [Memes](#memes)
     + [Typography](#typography)
-    + [Design Systems](#design-systems)
+    + [Visualisation](#visualisation)
     + [Art](#art)
   * [Web Design](#web-design)
+    + [SEO](#seo)
     + [Learning](#learning)
     + [Frameworks](#frameworks)
+    + [Resources](#resources)
     + [Tools](#tools-1)
+      - [Adobe XD](#adobe-xd)
+      - [Wireframing](#wireframing)
+      - [Save sites locally](#save-sites-locally)
   * [3D & Animation](#3d---animation)
     + [Tools](#tools-2)
     + [Blender](#blender)
@@ -41,14 +48,22 @@ List of awesome websites and tools, particularly for design.
   * [Photography](#photography)
   * [Tools](#tools-3)
     + [Audio](#audio)
+    + [Chrome extensions](#chrome-extensions)
     + [Conversion](#conversion)
+    + [Emulation](#emulation)
+    + [File Sharing](#file-sharing)
     + [Packaging](#packaging)
+    + [Project Management](#project-management)
     + [CAD](#cad)
+    + [Screen Capture](#screen-capture)
     + [Social Media](#social-media)
     + [Storage](#storage)
+    + [Text Editors](#text-editors)
     + [Vector](#vector)
+    + [Video Players](#video-players)
     + [Utilities](#utilities)
-  * [Resources](#resources)
+      - [Uninstallers](#uninstallers)
+  * [Resources](#resources-1)
     + [Images](#images)
     + [Video](#video)
     + [Audio](#audio-1)
@@ -61,6 +76,7 @@ List of awesome websites and tools, particularly for design.
     + [After Effects & Premiere](#after-effects---premiere-1)
     + [Illustrator & Indesign](#illustrator---indesign)
     + [Mockups](#mockups)
+    + [Templates](#templates)
   * [Home & Garden](#home---garden)
   * [Download Sources](#download-sources)
     + [Tools](#tools-4)
@@ -68,14 +84,17 @@ List of awesome websites and tools, particularly for design.
     + [Product Manuals](#product-manuals)
     + [Browsers](#browsers)
     + [Software](#software)
+      - [Collections](#collections)
     + [Subtitles](#subtitles)
   * [Shopping](#shopping)
+      - [Art supplies](#art-supplies)
   * [Learning](#learning-1)
   * [Travel](#travel)
   * [Jobs](#jobs)
   * [Interesting](#interesting)
     + [Art therapy for adults](#art-therapy-for-adults)
     + [History](#history)
+    + [Machine learning](#machine-learning)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -1025,11 +1044,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDM0NTI4MDEsMjgzOTczMzE1LDgyMD
-Y0NzYyNiwxNTUwOTA4MDA5LDI3ODY2MDIzNCwtMTc2MDc3OTQz
-OCwxOTY3NzI3MTg5LC0xMzA2MjUwOTk1LDg2ODEyNzE3NywtNz
-AyODQ4MzYwLDY4NjE3NjAxLDQ2MTk5Nzc1MCwtNDQwMzkyMzcy
-LDIwODE4MDU3OTEsNjEyNTU0NzA0LC0xMjQ0Nzc1ODYzLC0yMD
-A0NzkxMzY4LDUyODY2NjU2NywtMTYxOTQyNzgyNCwtMTA1NjI5
-MDAyN119
+eyJoaXN0b3J5IjpbNjk0MjM5Njc0LC0xNDQzNDUyODAxLDI4Mz
+k3MzMxNSw4MjA2NDc2MjYsMTU1MDkwODAwOSwyNzg2NjAyMzQs
+LTE3NjA3Nzk0MzgsMTk2NzcyNzE4OSwtMTMwNjI1MDk5NSw4Nj
+gxMjcxNzcsLTcwMjg0ODM2MCw2ODYxNzYwMSw0NjE5OTc3NTAs
+LTQ0MDM5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwtMTI0ND
+c3NTg2MywtMjAwNDc5MTM2OCw1Mjg2NjY1NjcsLTE2MTk0Mjc4
+MjRdfQ==
 -->
