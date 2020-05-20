@@ -286,11 +286,17 @@ List of awesome websites and tools, particularly for design.
 
 ### SEO
 
+* [https://optimize.google.com/](https://optimize.google.com/)
 * https://www.checkbot.io/
 * https://www.screamingfrog.co.uk/seo-spider/
 * https://moz.com/
 * http://www.seobook.com/
 * https://www.seoquake.com/index.html
+* [https://vwo.com/](https://vwo.com/)
+* [https://www.kissmetricshq.com/](https://www.kissmetricshq.com/)
+* [https://www.hubspot.com/products/marketing/free](https://www.hubspot.com/products/marketing/free)
+* [https://www.hotjar.com/](https://www.hotjar.com/)
+* 
 
 ### Learning
 
@@ -953,11 +959,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDYyNTA5OTUsODY4MTI3MTc3LC03MD
-I4NDgzNjAsNjg2MTc2MDEsNDYxOTk3NzUwLC00NDAzOTIzNzIs
-MjA4MTgwNTc5MSw2MTI1NTQ3MDQsLTEyNDQ3NzU4NjMsLTIwMD
-Q3OTEzNjgsNTI4NjY2NTY3LC0xNjE5NDI3ODI0LC0xMDU2Mjkw
-MDI3LDEzODEyOTU3MDAsLTEwMTQ1MzAxOTEsMTEwNjE3NzcwLC
-0xNDU4MDI2NjEsLTEwMDI2ODA3NDIsMTM2NDE0MTcwOSwxODYw
-NjA5MjEyXX0=
+eyJoaXN0b3J5IjpbNjk3OTU4NzQsLTEzMDYyNTA5OTUsODY4MT
+I3MTc3LC03MDI4NDgzNjAsNjg2MTc2MDEsNDYxOTk3NzUwLC00
+NDAzOTIzNzIsMjA4MTgwNTc5MSw2MTI1NTQ3MDQsLTEyNDQ3Nz
+U4NjMsLTIwMDQ3OTEzNjgsNTI4NjY2NTY3LC0xNjE5NDI3ODI0
+LC0xMDU2MjkwMDI3LDEzODEyOTU3MDAsLTEwMTQ1MzAxOTEsMT
+EwNjE3NzcwLC0xNDU4MDI2NjEsLTEwMDI2ODA3NDIsMTM2NDE0
+MTcwOV19
 -->
