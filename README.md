@@ -446,6 +446,7 @@ List of awesome websites and tools, particularly for design.
 * https://softology.com.au/voc.htm
 * https://docs.egret.com/dragonbones
 * https://darbyjohnston.github.io/DJV/
+* [https://sourceforge.net/projects/mrviewer/](https://sourceforge.net/projects/mrviewer/)
 * http://ivy-generator.com/
 * [Microsoft 3D Builder](https://www.microsoft.com/en-za/p/3d-builder/9wzdncrfj3t6) - Windows Store
 * https://store.speedtree.com/ - commercial
@@ -693,6 +694,10 @@ List of awesome websites and tools, particularly for design.
 * https://librecad.org/
 * [DoubleCAD XT v5](https://www.turbocad.com/content/doublecad-xt-v5)
 
+### Screen Capture
+
+* [https://getsharex.com/](https://getsharex.com/)
+
 ### Social Media
 
 * [SocialBlade](https://socialblade.com/)
@@ -708,9 +713,16 @@ List of awesome websites and tools, particularly for design.
 
 * https://mega.nz
 
+### Text Edi
+
 ### Vector
 
 * [Vectr](https://vectr.com/#)
+
+### Video Players
+
+* [http://hammultiplayer.org/](http://hammultiplayer.org/)
+* [https://mpv.io/](https://mpv.io/)
 
 ### Utilities
 
@@ -1008,7 +1020,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTU5MDI2MCwyODM5NzMzMTUsODIwNj
+eyJoaXN0b3J5IjpbMTkzMzU5OTI5OSwyODM5NzMzMTUsODIwNj
 Q3NjI2LDE1NTA5MDgwMDksMjc4NjYwMjM0LC0xNzYwNzc5NDM4
 LDE5Njc3MjcxODksLTEzMDYyNTA5OTUsODY4MTI3MTc3LC03MD
 I4NDgzNjAsNjg2MTc2MDEsNDYxOTk3NzUwLC00NDAzOTIzNzIs
