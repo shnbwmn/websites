@@ -187,6 +187,12 @@ List of awesome websites and tools, particularly for design.
 ### Colour
 
 * [https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg/related?hl=en](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg/related?hl=en) - ColorPick Eyedropper
+* [https://color.adobe.com/create](https://color.adobe.com/create)
+* [https://colorhunt.co/](https://colorhunt.co/)
+* [https://colorizr.herokuapp.com/](https://colorizr.herokuapp.com/)
+* [https://www.colorzilla.com/](https://www.colorzilla.com/)
+* [https://www.grabient.com/](https://www.grabient.com/)
+* [https://uigradients.com/#Mini](https://uigradients.com/#Mini)
 
 ### Tools
 
@@ -640,7 +646,7 @@ List of awesome websites and tools, particularly for design.
 * [https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb) - TabCopy
 * [https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=en](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=en) - Page Ruler Redux
 * [https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en](https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en) - Pinterest Save Button
-* [https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg/related?hl=en](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg/related?hl=en) - Color
+* [https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg/related?hl=en](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg/related?hl=en) - ColorPick Eyedropper
 
 ### Conversion
 
@@ -935,6 +941,10 @@ List of awesome websites and tools, particularly for design.
 * https://www.checkers.co.za/c-2824/All-Departments/Electronics
 * [https://learningcurve.co.za/](https://learningcurve.co.za/) - discounted creative software
 
+#### Art supplies
+
+* 
+
 ## Learning
 
 * https://freecourseweb.com/tutorials1/
@@ -989,11 +999,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjM1NDYzNSwyNzg2NjAyMzQsLTE3Nj
-A3Nzk0MzgsMTk2NzcyNzE4OSwtMTMwNjI1MDk5NSw4NjgxMjcx
-NzcsLTcwMjg0ODM2MCw2ODYxNzYwMSw0NjE5OTc3NTAsLTQ0MD
-M5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwtMTI0NDc3NTg2
-MywtMjAwNDc5MTM2OCw1Mjg2NjY1NjcsLTE2MTk0Mjc4MjQsLT
-EwNTYyOTAwMjcsMTM4MTI5NTcwMCwtMTAxNDUzMDE5MSwxMTA2
-MTc3NzBdfQ==
+eyJoaXN0b3J5IjpbLTE1OTEzNTc2MjUsMjc4NjYwMjM0LC0xNz
+YwNzc5NDM4LDE5Njc3MjcxODksLTEzMDYyNTA5OTUsODY4MTI3
+MTc3LC03MDI4NDgzNjAsNjg2MTc2MDEsNDYxOTk3NzUwLC00ND
+AzOTIzNzIsMjA4MTgwNTc5MSw2MTI1NTQ3MDQsLTEyNDQ3NzU4
+NjMsLTIwMDQ3OTEzNjgsNTI4NjY2NTY3LC0xNjE5NDI3ODI0LC
+0xMDU2MjkwMDI3LDEzODEyOTU3MDAsLTEwMTQ1MzAxOTEsMTEw
+NjE3NzcwXX0=
 -->
