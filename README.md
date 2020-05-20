@@ -332,6 +332,10 @@ List of awesome websites and tools, particularly for design.
 * [https://letsxd.com/](https://letsxd.com/)
 * [https://www.xdguru.com/](https://www.xdguru.com/)
 
+#### Wireframing
+
+* [https://github.com/akiraux/Akira](https://github.com/akiraux/Akira) - Linux
+
 #### Save sites locally
 
 * [https://www.httrack.com/](https://www.httrack.com/)
@@ -975,11 +979,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTUwNDUzNiwyNzg2NjAyMzQsLTE3Nj
-A3Nzk0MzgsMTk2NzcyNzE4OSwtMTMwNjI1MDk5NSw4NjgxMjcx
-NzcsLTcwMjg0ODM2MCw2ODYxNzYwMSw0NjE5OTc3NTAsLTQ0MD
-M5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwtMTI0NDc3NTg2
-MywtMjAwNDc5MTM2OCw1Mjg2NjY1NjcsLTE2MTk0Mjc4MjQsLT
-EwNTYyOTAwMjcsMTM4MTI5NTcwMCwtMTAxNDUzMDE5MSwxMTA2
-MTc3NzBdfQ==
+eyJoaXN0b3J5IjpbLTE3NjQ2MjAzODcsMjc4NjYwMjM0LC0xNz
+YwNzc5NDM4LDE5Njc3MjcxODksLTEzMDYyNTA5OTUsODY4MTI3
+MTc3LC03MDI4NDgzNjAsNjg2MTc2MDEsNDYxOTk3NzUwLC00ND
+AzOTIzNzIsMjA4MTgwNTc5MSw2MTI1NTQ3MDQsLTEyNDQ3NzU4
+NjMsLTIwMDQ3OTEzNjgsNTI4NjY2NTY3LC0xNjE5NDI3ODI0LC
+0xMDU2MjkwMDI3LDEzODEyOTU3MDAsLTEwMTQ1MzAxOTEsMTEw
+NjE3NzcwXX0=
 -->
