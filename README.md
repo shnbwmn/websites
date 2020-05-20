@@ -364,6 +364,10 @@ List of awesome websites and tools, particularly for design.
 * [https://letsxd.com/](https://letsxd.com/)
 * [https://www.xdguru.com/](https://www.xdguru.com/)
 
+#### FTP
+
+* [https://winscp.net/eng/download.php](https://winscp.net/eng/download.php)
+
 #### Local webserver
 
 * [https://www.easyphp.org/](https://www.easyphp.org/)
@@ -1057,11 +1061,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzE1ODUyNDEsLTY1NzY2OTU5OCwxOT
-kwNTc2NzM5LC0yNTMzMTMyNTQsNjk0MjM5Njc0LC0xNDQzNDUy
-ODAxLDI4Mzk3MzMxNSw4MjA2NDc2MjYsMTU1MDkwODAwOSwyNz
-g2NjAyMzQsLTE3NjA3Nzk0MzgsMTk2NzcyNzE4OSwtMTMwNjI1
-MDk5NSw4NjgxMjcxNzcsLTcwMjg0ODM2MCw2ODYxNzYwMSw0Nj
-E5OTc3NTAsLTQ0MDM5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcw
-NF19
+eyJoaXN0b3J5IjpbODI5NDYzMDA4LC02NTc2Njk1OTgsMTk5MD
+U3NjczOSwtMjUzMzEzMjU0LDY5NDIzOTY3NCwtMTQ0MzQ1Mjgw
+MSwyODM5NzMzMTUsODIwNjQ3NjI2LDE1NTA5MDgwMDksMjc4Nj
+YwMjM0LC0xNzYwNzc5NDM4LDE5Njc3MjcxODksLTEzMDYyNTA5
+OTUsODY4MTI3MTc3LC03MDI4NDgzNjAsNjg2MTc2MDEsNDYxOT
+k3NzUwLC00NDAzOTIzNzIsMjA4MTgwNTc5MSw2MTI1NTQ3MDRd
+fQ==
 -->
