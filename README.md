@@ -494,6 +494,7 @@ List of awesome websites and tools, particularly for design.
 * [https://www.darktable.org/](https://www.darktable.org/)
 * [https://jarlpenguin.github.io/BeCyIconGrabberPortable/](https://jarlpenguin.github.io/BeCyIconGrabberPortable/)
 * [https://speedypainter.altervista.org/](https://speedypainter.altervista.org/)
+* [http://sweethome3d.com/](http://sweethome3d.com/)
 
 ### Blender
 
@@ -556,11 +557,13 @@ List of awesome websites and tools, particularly for design.
 * https://www.libreoffice.org/
 * [https://writing.stackexchange.com/](https://writing.stackexchange.com/)
 * [https://sourceforge.net/projects/xournal/](https://sourceforge.net/projects/xournal/)
+* [https://www.theologeek.ch/manuskript/](https://www.theologeek.ch/manuskript/)
 
 ### Screenwriting
 
 * https://kitscenarist.ru/en/index.html
 * https://fountain.io/
+* [https://www.theologeek.ch/manuskript/](https://www.theologeek.ch/manuskript/)
 
 ### Markdown
 
@@ -713,7 +716,9 @@ List of awesome websites and tools, particularly for design.
 
 * https://mega.nz
 
-### Text Edi
+### Text Editors
+
+* [https://xhmikosr.github.io/notepad2-mod/](https://xhmikosr.github.io/notepad2-mod/)
 
 ### Vector
 
@@ -1020,11 +1025,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzU5OTI5OSwyODM5NzMzMTUsODIwNj
-Q3NjI2LDE1NTA5MDgwMDksMjc4NjYwMjM0LC0xNzYwNzc5NDM4
-LDE5Njc3MjcxODksLTEzMDYyNTA5OTUsODY4MTI3MTc3LC03MD
-I4NDgzNjAsNjg2MTc2MDEsNDYxOTk3NzUwLC00NDAzOTIzNzIs
-MjA4MTgwNTc5MSw2MTI1NTQ3MDQsLTEyNDQ3NzU4NjMsLTIwMD
-Q3OTEzNjgsNTI4NjY2NTY3LC0xNjE5NDI3ODI0LC0xMDU2Mjkw
-MDI3XX0=
+eyJoaXN0b3J5IjpbLTE0NDM0NTI4MDEsMjgzOTczMzE1LDgyMD
+Y0NzYyNiwxNTUwOTA4MDA5LDI3ODY2MDIzNCwtMTc2MDc3OTQz
+OCwxOTY3NzI3MTg5LC0xMzA2MjUwOTk1LDg2ODEyNzE3NywtNz
+AyODQ4MzYwLDY4NjE3NjAxLDQ2MTk5Nzc1MCwtNDQwMzkyMzcy
+LDIwODE4MDU3OTEsNjEyNTU0NzA0LC0xMjQ0Nzc1ODYzLC0yMD
+A0NzkxMzY4LDUyODY2NjU2NywtMTYxOTQyNzgyNCwtMTA1NjI5
+MDAyN119
 -->
