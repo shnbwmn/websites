@@ -639,6 +639,7 @@ List of awesome websites and tools, particularly for design.
 ### Packaging
 
 * [https://www.pack.ly/en](https://www.pack.ly/en)
+* [https://www.templatemaker.nl/en/](https://www.templatemaker.nl/en/)
 
 ### Project Management
 
@@ -956,7 +957,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzMwNDI4NiwtMTMwNjI1MDk5NSw4Nj
+eyJoaXN0b3J5IjpbMTk2NzcyNzE4OSwtMTMwNjI1MDk5NSw4Nj
 gxMjcxNzcsLTcwMjg0ODM2MCw2ODYxNzYwMSw0NjE5OTc3NTAs
 LTQ0MDM5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwtMTI0ND
 c3NTg2MywtMjAwNDc5MTM2OCw1Mjg2NjY1NjcsLTE2MTk0Mjc4
