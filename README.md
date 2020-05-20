@@ -479,7 +479,8 @@ List of awesome websites and tools, particularly for design.
 * https://github.com/appleseedhq/blenderseed
 * [http://blendermada.com/](http://blendermada.com/)
 * [https://www.blendswap.com/](https://www.blendswap.com/)
-* 
+* [https://fspy.io/](https://fspy.io/)
+	* [https://stuffmatic.com/projects/fspy/](https://stuffmatic.com/projects/fspy/)
 
 ### Rigging
 
@@ -690,6 +691,7 @@ List of awesome websites and tools, particularly for design.
 * https://www.fcoder.com/directions/batch-printing-software
 * https://rclone.org/
 * https://abstractspoon.com/ - ToDoList
+* 
 
 #### Uninstallers
 
@@ -967,11 +969,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4NjYwMjM0LC0xNzYwNzc5NDM4LDE5Nj
-c3MjcxODksLTEzMDYyNTA5OTUsODY4MTI3MTc3LC03MDI4NDgz
-NjAsNjg2MTc2MDEsNDYxOTk3NzUwLC00NDAzOTIzNzIsMjA4MT
-gwNTc5MSw2MTI1NTQ3MDQsLTEyNDQ3NzU4NjMsLTIwMDQ3OTEz
-NjgsNTI4NjY2NTY3LC0xNjE5NDI3ODI0LC0xMDU2MjkwMDI3LD
-EzODEyOTU3MDAsLTEwMTQ1MzAxOTEsMTEwNjE3NzcwLC0xNDU4
-MDI2NjFdfQ==
+eyJoaXN0b3J5IjpbMjEzOTM4NDY1NCwyNzg2NjAyMzQsLTE3Nj
+A3Nzk0MzgsMTk2NzcyNzE4OSwtMTMwNjI1MDk5NSw4NjgxMjcx
+NzcsLTcwMjg0ODM2MCw2ODYxNzYwMSw0NjE5OTc3NTAsLTQ0MD
+M5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwtMTI0NDc3NTg2
+MywtMjAwNDc5MTM2OCw1Mjg2NjY1NjcsLTE2MTk0Mjc4MjQsLT
+EwNTYyOTAwMjcsMTM4MTI5NTcwMCwtMTAxNDUzMDE5MSwxMTA2
+MTc3NzBdfQ==
 -->
