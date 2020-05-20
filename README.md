@@ -142,6 +142,7 @@ List of awesome websites and tools, particularly for design.
 	* [https://www.instagram.com/fromupnorth/?hl=en](https://www.instagram.com/fromupnorth/?hl=en)
 * [https://digitalsynopsis.com/](https://digitalsynopsis.com/)
 * [https://beautifulopen.com/](https://beautifulopen.com/)
+* [http://libregraphicsworld.org/](http://libregraphicsworld.org/)
 
 ### Keeping up to date with trends
 
@@ -178,6 +179,10 @@ List of awesome websites and tools, particularly for design.
 * [mimosa agency - digital marketing agency](https://mimosaagency.com/)
 * [K&i Creative Design Agency Cape Town | Branding | Graphic Design | Web](https://kandi.co.za/)
 * [hero | Full Service Strategic Marketing Agency](https://hero.co.za/)
+
+### Email
+
+* [https://reallygoodemails.com/](https://reallygoodemails.com/)
 
 ### Tools
 
@@ -462,6 +467,7 @@ List of awesome websites and tools, particularly for design.
 * [3D Youtube Downloader - 3D Youtube Downloader](https://yd.3dyd.com/home/)
 * [https://www.invisionapp.com/inside-design/design-resources/](https://www.invisionapp.com/inside-design/design-resources/)
 * [https://ezgif.com/](https://ezgif.com/)
+* [https://www.bricklink.com/v2/build/studio.page](https://www.bricklink.com/v2/build/studio.page) - Lego
 
 ### Blender
 
@@ -957,11 +963,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzcyNzE4OSwtMTMwNjI1MDk5NSw4Nj
-gxMjcxNzcsLTcwMjg0ODM2MCw2ODYxNzYwMSw0NjE5OTc3NTAs
-LTQ0MDM5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwtMTI0ND
-c3NTg2MywtMjAwNDc5MTM2OCw1Mjg2NjY1NjcsLTE2MTk0Mjc4
-MjQsLTEwNTYyOTAwMjcsMTM4MTI5NTcwMCwtMTAxNDUzMDE5MS
-wxMTA2MTc3NzAsLTE0NTgwMjY2MSwtMTAwMjY4MDc0MiwxMzY0
-MTQxNzA5XX0=
+eyJoaXN0b3J5IjpbLTc1MjkyMzUwMSwxOTY3NzI3MTg5LC0xMz
+A2MjUwOTk1LDg2ODEyNzE3NywtNzAyODQ4MzYwLDY4NjE3NjAx
+LDQ2MTk5Nzc1MCwtNDQwMzkyMzcyLDIwODE4MDU3OTEsNjEyNT
+U0NzA0LC0xMjQ0Nzc1ODYzLC0yMDA0NzkxMzY4LDUyODY2NjU2
+NywtMTYxOTQyNzgyNCwtMTA1NjI5MDAyNywxMzgxMjk1NzAwLC
+0xMDE0NTMwMTkxLDExMDYxNzc3MCwtMTQ1ODAyNjYxLC0xMDAy
+NjgwNzQyXX0=
 -->
