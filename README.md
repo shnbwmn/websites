@@ -759,6 +759,7 @@ List of awesome websites and tools, particularly for design.
 * https://www.toptal.com/designers/subtlepatterns/
 * https://www.transparenttextures.com/
 * https://github.com/atlemo/SubtlePatterns
+* [https://www.shutterstock.com/blog/50-free-distressed-textures](https://www.shutterstock.com/blog/50-free-distressed-textures)
 
 ### Web
 
@@ -963,11 +964,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjkyMzUwMSwxOTY3NzI3MTg5LC0xMz
-A2MjUwOTk1LDg2ODEyNzE3NywtNzAyODQ4MzYwLDY4NjE3NjAx
-LDQ2MTk5Nzc1MCwtNDQwMzkyMzcyLDIwODE4MDU3OTEsNjEyNT
-U0NzA0LC0xMjQ0Nzc1ODYzLC0yMDA0NzkxMzY4LDUyODY2NjU2
-NywtMTYxOTQyNzgyNCwtMTA1NjI5MDAyNywxMzgxMjk1NzAwLC
-0xMDE0NTMwMTkxLDExMDYxNzc3MCwtMTQ1ODAyNjYxLC0xMDAy
-NjgwNzQyXX0=
+eyJoaXN0b3J5IjpbLTE3NjA3Nzk0MzgsMTk2NzcyNzE4OSwtMT
+MwNjI1MDk5NSw4NjgxMjcxNzcsLTcwMjg0ODM2MCw2ODYxNzYw
+MSw0NjE5OTc3NTAsLTQ0MDM5MjM3MiwyMDgxODA1NzkxLDYxMj
+U1NDcwNCwtMTI0NDc3NTg2MywtMjAwNDc5MTM2OCw1Mjg2NjY1
+NjcsLTE2MTk0Mjc4MjQsLTEwNTYyOTAwMjcsMTM4MTI5NTcwMC
+wtMTAxNDUzMDE5MSwxMTA2MTc3NzAsLTE0NTgwMjY2MSwtMTAw
+MjY4MDc0Ml19
 -->
