@@ -477,6 +477,8 @@ List of awesome websites and tools, particularly for design.
 * https://www.reddit.com/r/blenderhelp/comments/eljxj8/short_guide_on_getting_retopoflow_30_to_work_from/
 * https://www.amd.com/en/technologies/radeon-prorender
 * https://github.com/appleseedhq/blenderseed
+* [http://blendermada.com/](http://blendermada.com/)
+* [https://www.blendswap.com/](https://www.blendswap.com/)
 * 
 
 ### Rigging
@@ -965,11 +967,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjE2MzQ4MiwtMTc2MDc3OTQzOCwxOT
-Y3NzI3MTg5LC0xMzA2MjUwOTk1LDg2ODEyNzE3NywtNzAyODQ4
-MzYwLDY4NjE3NjAxLDQ2MTk5Nzc1MCwtNDQwMzkyMzcyLDIwOD
-E4MDU3OTEsNjEyNTU0NzA0LC0xMjQ0Nzc1ODYzLC0yMDA0Nzkx
-MzY4LDUyODY2NjU2NywtMTYxOTQyNzgyNCwtMTA1NjI5MDAyNy
-wxMzgxMjk1NzAwLC0xMDE0NTMwMTkxLDExMDYxNzc3MCwtMTQ1
-ODAyNjYxXX0=
+eyJoaXN0b3J5IjpbMjc4NjYwMjM0LC0xNzYwNzc5NDM4LDE5Nj
+c3MjcxODksLTEzMDYyNTA5OTUsODY4MTI3MTc3LC03MDI4NDgz
+NjAsNjg2MTc2MDEsNDYxOTk3NzUwLC00NDAzOTIzNzIsMjA4MT
+gwNTc5MSw2MTI1NTQ3MDQsLTEyNDQ3NzU4NjMsLTIwMDQ3OTEz
+NjgsNTI4NjY2NTY3LC0xNjE5NDI3ODI0LC0xMDU2MjkwMDI3LD
+EzODEyOTU3MDAsLTEwMTQ1MzAxOTEsMTEwNjE3NzcwLC0xNDU4
+MDI2NjFdfQ==
 -->
