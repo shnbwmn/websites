@@ -213,6 +213,7 @@ List of awesome websites and tools, particularly for design.
 * [https://vectr.com/](https://vectr.com/)
 * [https://github.com/akiraux/Akira](https://github.com/akiraux/Akira) - Linux
 * [https://icons8.com/lunacy](https://icons8.com/lunacy)
+* [https://getsharex.com/](https://getsharex.com/)
 
 ### Enlargement
 
@@ -488,6 +489,10 @@ List of awesome websites and tools, particularly for design.
 * [https://www.invisionapp.com/inside-design/design-resources/](https://www.invisionapp.com/inside-design/design-resources/)
 * [https://ezgif.com/](https://ezgif.com/)
 * [https://www.bricklink.com/v2/build/studio.page](https://www.bricklink.com/v2/build/studio.page) - Lego
+* [https://sketchbook.com/](https://sketchbook.com/)
+* [https://www.darktable.org/](https://www.darktable.org/)
+* [https://jarlpenguin.github.io/BeCyIconGrabberPortable/](https://jarlpenguin.github.io/BeCyIconGrabberPortable/)
+* [https://speedypainter.altervista.org/](https://speedypainter.altervista.org/)
 
 ### Blender
 
@@ -717,7 +722,6 @@ List of awesome websites and tools, particularly for design.
 * https://www.fcoder.com/directions/batch-printing-software
 * https://rclone.org/
 * https://abstractspoon.com/ - ToDoList
-* 
 
 #### Uninstallers
 
@@ -1004,11 +1008,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzOTczMzE1LDgyMDY0NzYyNiwxNTUwOT
-A4MDA5LDI3ODY2MDIzNCwtMTc2MDc3OTQzOCwxOTY3NzI3MTg5
-LC0xMzA2MjUwOTk1LDg2ODEyNzE3NywtNzAyODQ4MzYwLDY4Nj
-E3NjAxLDQ2MTk5Nzc1MCwtNDQwMzkyMzcyLDIwODE4MDU3OTEs
-NjEyNTU0NzA0LC0xMjQ0Nzc1ODYzLC0yMDA0NzkxMzY4LDUyOD
-Y2NjU2NywtMTYxOTQyNzgyNCwtMTA1NjI5MDAyNywxMzgxMjk1
-NzAwXX0=
+eyJoaXN0b3J5IjpbMTYwNTU5MDI2MCwyODM5NzMzMTUsODIwNj
+Q3NjI2LDE1NTA5MDgwMDksMjc4NjYwMjM0LC0xNzYwNzc5NDM4
+LDE5Njc3MjcxODksLTEzMDYyNTA5OTUsODY4MTI3MTc3LC03MD
+I4NDgzNjAsNjg2MTc2MDEsNDYxOTk3NzUwLC00NDAzOTIzNzIs
+MjA4MTgwNTc5MSw2MTI1NTQ3MDQsLTEyNDQ3NzU4NjMsLTIwMD
+Q3OTEzNjgsNTI4NjY2NTY3LC0xNjE5NDI3ODI0LC0xMDU2Mjkw
+MDI3XX0=
 -->
