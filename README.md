@@ -1049,20 +1049,19 @@ List of awesome websites and tools, particularly for design.
 ### Genealogy
 
 * [https://www.geni.com/people/Arthur-Bowman/6000000009666452986](https://www.geni.com/people/Arthur-Bowman/6000000009666452986)
-* [https://www.ancestris.org/index.html](https://www.ancestris.org/index.html)
+* [https://www.ancestris.org/index.html](https://www.ancestris.org/index.html) - Java-based
 * [https://gramps-project.org/blog/](https://gramps-project.org/blog/)
 	* [https://github.com/gramps-project/gramps](https://github.com/gramps-project/gramps)
-* [https://webtrees.net/](https://webtrees.net/)
-* 
+* [https://webtrees.net/](https://webtrees.net/) - runs on local webserver
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzY2OTU5OCwxOTkwNTc2NzM5LC0yNT
-MzMTMyNTQsNjk0MjM5Njc0LC0xNDQzNDUyODAxLDI4Mzk3MzMx
-NSw4MjA2NDc2MjYsMTU1MDkwODAwOSwyNzg2NjAyMzQsLTE3Nj
-A3Nzk0MzgsMTk2NzcyNzE4OSwtMTMwNjI1MDk5NSw4NjgxMjcx
-NzcsLTcwMjg0ODM2MCw2ODYxNzYwMSw0NjE5OTc3NTAsLTQ0MD
-M5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwtMTI0NDc3NTg2
-M119
+eyJoaXN0b3J5IjpbLTE4NzE1ODUyNDEsLTY1NzY2OTU5OCwxOT
+kwNTc2NzM5LC0yNTMzMTMyNTQsNjk0MjM5Njc0LC0xNDQzNDUy
+ODAxLDI4Mzk3MzMxNSw4MjA2NDc2MjYsMTU1MDkwODAwOSwyNz
+g2NjAyMzQsLTE3NjA3Nzk0MzgsMTk2NzcyNzE4OSwtMTMwNjI1
+MDk5NSw4NjgxMjcxNzcsLTcwMjg0ODM2MCw2ODYxNzYwMSw0Nj
+E5OTc3NTAsLTQ0MDM5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcw
+NF19
 -->
