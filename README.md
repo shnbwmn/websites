@@ -1048,6 +1048,7 @@ List of awesome websites and tools, particularly for design.
 
 ### Genealogy
 
+* [https://www.geni.com/people/Arthur-Bowman/6000000009666452986](https://www.geni.com/people/Arthur-Bowman/6000000009666452986)
 * [https://www.ancestris.org/index.html](https://www.ancestris.org/index.html)
 * [https://gramps-project.org/blog/](https://gramps-project.org/blog/)
 	* [https://github.com/gramps-project/gramps](https://github.com/gramps-project/gramps)
@@ -1057,11 +1058,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDU3NjczOSwtMjUzMzEzMjU0LDY5ND
-IzOTY3NCwtMTQ0MzQ1MjgwMSwyODM5NzMzMTUsODIwNjQ3NjI2
-LDE1NTA5MDgwMDksMjc4NjYwMjM0LC0xNzYwNzc5NDM4LDE5Nj
-c3MjcxODksLTEzMDYyNTA5OTUsODY4MTI3MTc3LC03MDI4NDgz
-NjAsNjg2MTc2MDEsNDYxOTk3NzUwLC00NDAzOTIzNzIsMjA4MT
-gwNTc5MSw2MTI1NTQ3MDQsLTEyNDQ3NzU4NjMsLTIwMDQ3OTEz
-NjhdfQ==
+eyJoaXN0b3J5IjpbLTY1NzY2OTU5OCwxOTkwNTc2NzM5LC0yNT
+MzMTMyNTQsNjk0MjM5Njc0LC0xNDQzNDUyODAxLDI4Mzk3MzMx
+NSw4MjA2NDc2MjYsMTU1MDkwODAwOSwyNzg2NjAyMzQsLTE3Nj
+A3Nzk0MzgsMTk2NzcyNzE4OSwtMTMwNjI1MDk5NSw4NjgxMjcx
+NzcsLTcwMjg0ODM2MCw2ODYxNzYwMSw0NjE5OTc3NTAsLTQ0MD
+M5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwtMTI0NDc3NTg2
+M119
 -->
