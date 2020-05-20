@@ -364,6 +364,10 @@ List of awesome websites and tools, particularly for design.
 * [https://letsxd.com/](https://letsxd.com/)
 * [https://www.xdguru.com/](https://www.xdguru.com/)
 
+#### Local webserver
+
+* [https://www.easyphp.org/](https://www.easyphp.org/)
+
 #### Wireframing
 
 * [https://balsamiq.com/](https://balsamiq.com/)
@@ -1051,11 +1055,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzMxMzI1NCw2OTQyMzk2NzQsLTE0ND
-M0NTI4MDEsMjgzOTczMzE1LDgyMDY0NzYyNiwxNTUwOTA4MDA5
-LDI3ODY2MDIzNCwtMTc2MDc3OTQzOCwxOTY3NzI3MTg5LC0xMz
-A2MjUwOTk1LDg2ODEyNzE3NywtNzAyODQ4MzYwLDY4NjE3NjAx
-LDQ2MTk5Nzc1MCwtNDQwMzkyMzcyLDIwODE4MDU3OTEsNjEyNT
-U0NzA0LC0xMjQ0Nzc1ODYzLC0yMDA0NzkxMzY4LDUyODY2NjU2
-N119
+eyJoaXN0b3J5IjpbMzM5NTIzNzIxLC0yNTMzMTMyNTQsNjk0Mj
+M5Njc0LC0xNDQzNDUyODAxLDI4Mzk3MzMxNSw4MjA2NDc2MjYs
+MTU1MDkwODAwOSwyNzg2NjAyMzQsLTE3NjA3Nzk0MzgsMTk2Nz
+cyNzE4OSwtMTMwNjI1MDk5NSw4NjgxMjcxNzcsLTcwMjg0ODM2
+MCw2ODYxNzYwMSw0NjE5OTc3NTAsLTQ0MDM5MjM3MiwyMDgxOD
+A1NzkxLDYxMjU1NDcwNCwtMTI0NDc3NTg2MywtMjAwNDc5MTM2
+OF19
 -->
