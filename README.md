@@ -334,7 +334,8 @@ List of awesome websites and tools, particularly for design.
 
 #### Adobe XD
 
-* 
+* [https://letsxd.com/](https://letsxd.com/)
+* [https://www.xdguru.com/](https://www.xdguru.com/)
 
 #### Save sites locally
 
@@ -965,11 +966,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4MTI0MTg4LC0xMzA2MjUwOTk1LDg2OD
-EyNzE3NywtNzAyODQ4MzYwLDY4NjE3NjAxLDQ2MTk5Nzc1MCwt
-NDQwMzkyMzcyLDIwODE4MDU3OTEsNjEyNTU0NzA0LC0xMjQ0Nz
-c1ODYzLC0yMDA0NzkxMzY4LDUyODY2NjU2NywtMTYxOTQyNzgy
-NCwtMTA1NjI5MDAyNywxMzgxMjk1NzAwLC0xMDE0NTMwMTkxLD
-ExMDYxNzc3MCwtMTQ1ODAyNjYxLC0xMDAyNjgwNzQyLDEzNjQx
-NDE3MDldfQ==
+eyJoaXN0b3J5IjpbLTUxNzMxMjg3NCwtMTMwNjI1MDk5NSw4Nj
+gxMjcxNzcsLTcwMjg0ODM2MCw2ODYxNzYwMSw0NjE5OTc3NTAs
+LTQ0MDM5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwtMTI0ND
+c3NTg2MywtMjAwNDc5MTM2OCw1Mjg2NjY1NjcsLTE2MTk0Mjc4
+MjQsLTEwNTYyOTAwMjcsMTM4MTI5NTcwMCwtMTAxNDUzMDE5MS
+wxMTA2MTc3NzAsLTE0NTgwMjY2MSwtMTAwMjY4MDc0MiwxMzY0
+MTQxNzA5XX0=
 -->
