@@ -439,7 +439,7 @@ List of awesome websites and tools, particularly for design.
 * https://morevnaproject.org/opentoonz/
 * https://morevnaproject.org/
 * https://www.synfig.org/
-* 
+* [https://mandelbulber.com/](https://mandelbulber.com/)
 	* https://sourceforge.net/projects/mandelbulber/
 * https://www.pencil2d.org/
 * https://softology.com.au/voc.htm
@@ -1004,11 +1004,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTM5Njc4OTQsODIwNjQ3NjI2LDE1NT
-A5MDgwMDksMjc4NjYwMjM0LC0xNzYwNzc5NDM4LDE5Njc3Mjcx
-ODksLTEzMDYyNTA5OTUsODY4MTI3MTc3LC03MDI4NDgzNjAsNj
-g2MTc2MDEsNDYxOTk3NzUwLC00NDAzOTIzNzIsMjA4MTgwNTc5
-MSw2MTI1NTQ3MDQsLTEyNDQ3NzU4NjMsLTIwMDQ3OTEzNjgsNT
-I4NjY2NTY3LC0xNjE5NDI3ODI0LC0xMDU2MjkwMDI3LDEzODEy
-OTU3MDBdfQ==
+eyJoaXN0b3J5IjpbMjgzOTczMzE1LDgyMDY0NzYyNiwxNTUwOT
+A4MDA5LDI3ODY2MDIzNCwtMTc2MDc3OTQzOCwxOTY3NzI3MTg5
+LC0xMzA2MjUwOTk1LDg2ODEyNzE3NywtNzAyODQ4MzYwLDY4Nj
+E3NjAxLDQ2MTk5Nzc1MCwtNDQwMzkyMzcyLDIwODE4MDU3OTEs
+NjEyNTU0NzA0LC0xMjQ0Nzc1ODYzLC0yMDA0NzkxMzY4LDUyOD
+Y2NjU2NywtMTYxOTQyNzgyNCwtMTA1NjI5MDAyNywxMzgxMjk1
+NzAwXX0=
 -->
