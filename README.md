@@ -252,21 +252,7 @@ List of awesome websites and tools, particularly for design.
 
 ### Visualisation
 
-
-
-### Design Systems
-
-* [https://medium.muz.li/what-is-a-design-system-1e43d19e7696](https://medium.muz.li/what-is-a-design-system-1e43d19e7696)
-* [https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
-* [https://www.invisionapp.com/inside-design/guide-to-design-systems/](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
-* [https://designsystemsrepo.com/](https://designsystemsrepo.com/)
-* [https://designsystemsrepo.com/design-systems/](https://designsystemsrepo.com/design-systems/)
-* [Design Systems](https://www.designsystems.com/)
-* [Design Better](https://www.designbetter.co/)
-* [https://www.designbetter.co/design-systems-handbook](https://www.designbetter.co/design-systems-handbook)
-* [https://www.designbetter.co/design-systems-handbook](https://www.designbetter.co/design-systems-handbook)
-* [https://www.uxpin.com/create-design-system-guide](https://www.uxpin.com/create-design-system-guide)
-* [https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/](https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/)
+* [https://datavizcatalogue.com/](https://datavizcatalogue.com/)
 
 ### Art
 
@@ -970,7 +956,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NjMxNjc2MiwtMTMwNjI1MDk5NSw4Nj
+eyJoaXN0b3J5IjpbLTIwNzMwNDI4NiwtMTMwNjI1MDk5NSw4Nj
 gxMjcxNzcsLTcwMjg0ODM2MCw2ODYxNzYwMSw0NjE5OTc3NTAs
 LTQ0MDM5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwtMTI0ND
 c3NTg2MywtMjAwNDc5MTM2OCw1Mjg2NjY1NjcsLTE2MTk0Mjc4
