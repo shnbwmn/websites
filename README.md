@@ -646,6 +646,10 @@ List of awesome websites and tools, particularly for design.
 
 * [https://github.com/Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
 
+### File Sharing
+
+* [https://wetransfer.com/](https://wetransfer.com/)
+
 ### Packaging
 
 * [https://www.pack.ly/en](https://www.pack.ly/en)
@@ -969,11 +973,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTM4NDY1NCwyNzg2NjAyMzQsLTE3Nj
-A3Nzk0MzgsMTk2NzcyNzE4OSwtMTMwNjI1MDk5NSw4NjgxMjcx
-NzcsLTcwMjg0ODM2MCw2ODYxNzYwMSw0NjE5OTc3NTAsLTQ0MD
-M5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwtMTI0NDc3NTg2
-MywtMjAwNDc5MTM2OCw1Mjg2NjY1NjcsLTE2MTk0Mjc4MjQsLT
-EwNTYyOTAwMjcsMTM4MTI5NTcwMCwtMTAxNDUzMDE5MSwxMTA2
-MTc3NzBdfQ==
+eyJoaXN0b3J5IjpbODgwMzI3MjU4LDI3ODY2MDIzNCwtMTc2MD
+c3OTQzOCwxOTY3NzI3MTg5LC0xMzA2MjUwOTk1LDg2ODEyNzE3
+NywtNzAyODQ4MzYwLDY4NjE3NjAxLDQ2MTk5Nzc1MCwtNDQwMz
+kyMzcyLDIwODE4MDU3OTEsNjEyNTU0NzA0LC0xMjQ0Nzc1ODYz
+LC0yMDA0NzkxMzY4LDUyODY2NjU2NywtMTYxOTQyNzgyNCwtMT
+A1NjI5MDAyNywxMzgxMjk1NzAwLC0xMDE0NTMwMTkxLDExMDYx
+Nzc3MF19
 -->
