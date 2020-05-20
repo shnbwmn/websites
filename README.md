@@ -923,6 +923,7 @@ List of awesome websites and tools, particularly for design.
 * [Sourceforge](https://sourceforge.net)
 * [FOSSHub](https://www.fosshub.com)
 * [Portapps](https://portapps.io/)
+* [https://portableapps.com/](https://portableapps.com/)
 
 #### Collections
 
@@ -1002,11 +1003,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDkwODAwOSwyNzg2NjAyMzQsLTE3Nj
-A3Nzk0MzgsMTk2NzcyNzE4OSwtMTMwNjI1MDk5NSw4NjgxMjcx
-NzcsLTcwMjg0ODM2MCw2ODYxNzYwMSw0NjE5OTc3NTAsLTQ0MD
-M5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwtMTI0NDc3NTg2
-MywtMjAwNDc5MTM2OCw1Mjg2NjY1NjcsLTE2MTk0Mjc4MjQsLT
-EwNTYyOTAwMjcsMTM4MTI5NTcwMCwtMTAxNDUzMDE5MSwxMTA2
-MTc3NzBdfQ==
+eyJoaXN0b3J5IjpbODIwNjQ3NjI2LDE1NTA5MDgwMDksMjc4Nj
+YwMjM0LC0xNzYwNzc5NDM4LDE5Njc3MjcxODksLTEzMDYyNTA5
+OTUsODY4MTI3MTc3LC03MDI4NDgzNjAsNjg2MTc2MDEsNDYxOT
+k3NzUwLC00NDAzOTIzNzIsMjA4MTgwNTc5MSw2MTI1NTQ3MDQs
+LTEyNDQ3NzU4NjMsLTIwMDQ3OTEzNjgsNTI4NjY2NTY3LC0xNj
+E5NDI3ODI0LC0xMDU2MjkwMDI3LDEzODEyOTU3MDAsLTEwMTQ1
+MzAxOTFdfQ==
 -->
