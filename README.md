@@ -296,7 +296,9 @@ List of awesome websites and tools, particularly for design.
 * [https://www.kissmetricshq.com/](https://www.kissmetricshq.com/)
 * [https://www.hubspot.com/products/marketing/free](https://www.hubspot.com/products/marketing/free)
 * [https://www.hotjar.com/](https://www.hotjar.com/)
-* 
+* [https://drpete.co/archive](https://drpete.co/archive)
+* [https://www.crazyegg.com/](https://www.crazyegg.com/)
+* [https://www.clicktale.com/](https://www.clicktale.com/)
 
 ### Learning
 
@@ -329,6 +331,10 @@ List of awesome websites and tools, particularly for design.
 * [http://michaelsboost.com/kodeWeave/](http://michaelsboost.com/kodeWeave/) - web code playground
 * [http://www.aptana.com/](http://www.aptana.com/)
 * [https://buildbootstrap.com/](https://buildbootstrap.com/)
+
+#### Adobe XD
+
+* 
 
 #### Save sites locally
 
@@ -959,11 +965,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3OTU4NzQsLTEzMDYyNTA5OTUsODY4MT
-I3MTc3LC03MDI4NDgzNjAsNjg2MTc2MDEsNDYxOTk3NzUwLC00
-NDAzOTIzNzIsMjA4MTgwNTc5MSw2MTI1NTQ3MDQsLTEyNDQ3Nz
-U4NjMsLTIwMDQ3OTEzNjgsNTI4NjY2NTY3LC0xNjE5NDI3ODI0
-LC0xMDU2MjkwMDI3LDEzODEyOTU3MDAsLTEwMTQ1MzAxOTEsMT
-EwNjE3NzcwLC0xNDU4MDI2NjEsLTEwMDI2ODA3NDIsMTM2NDE0
-MTcwOV19
+eyJoaXN0b3J5IjpbOTY4MTI0MTg4LC0xMzA2MjUwOTk1LDg2OD
+EyNzE3NywtNzAyODQ4MzYwLDY4NjE3NjAxLDQ2MTk5Nzc1MCwt
+NDQwMzkyMzcyLDIwODE4MDU3OTEsNjEyNTU0NzA0LC0xMjQ0Nz
+c1ODYzLC0yMDA0NzkxMzY4LDUyODY2NjU2NywtMTYxOTQyNzgy
+NCwtMTA1NjI5MDAyNywxMzgxMjk1NzAwLC0xMDE0NTMwMTkxLD
+ExMDYxNzc3MCwtMTQ1ODAyNjYxLC0xMDAyNjgwNzQyLDEzNjQx
+NDE3MDldfQ==
 -->
