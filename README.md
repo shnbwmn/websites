@@ -1061,16 +1061,18 @@ List of awesome websites and tools, particularly for design.
 * [https://webtrees.net/](https://webtrees.net/) - runs on local webserver
 * [https://www.wikitree.com/](https://www.wikitree.com/)
 * [https://www.familysearch.org/en/](https://www.familysearch.org/en/)
-* 
+* [https://humogen.com/](https://humogen.com/) - hosted on local server
+* [https://chronoplexsoftware.com/myfamilytree/](https://chronoplexsoftware.com/myfamilytree/)
+* [https://www.myheritage.com/](https://www.myheritage.com/)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTc1NzMzNjYsMTY4MDMyMTE4NCwtNj
-U3NjY5NTk4LDE5OTA1NzY3MzksLTI1MzMxMzI1NCw2OTQyMzk2
-NzQsLTE0NDM0NTI4MDEsMjgzOTczMzE1LDgyMDY0NzYyNiwxNT
-UwOTA4MDA5LDI3ODY2MDIzNCwtMTc2MDc3OTQzOCwxOTY3NzI3
-MTg5LC0xMzA2MjUwOTk1LDg2ODEyNzE3NywtNzAyODQ4MzYwLD
-Y4NjE3NjAxLDQ2MTk5Nzc1MCwtNDQwMzkyMzcyLDIwODE4MDU3
-OTFdfQ==
+eyJoaXN0b3J5IjpbMTQzOTg3ODY5NiwxNjgwMzIxMTg0LC02NT
+c2Njk1OTgsMTk5MDU3NjczOSwtMjUzMzEzMjU0LDY5NDIzOTY3
+NCwtMTQ0MzQ1MjgwMSwyODM5NzMzMTUsODIwNjQ3NjI2LDE1NT
+A5MDgwMDksMjc4NjYwMjM0LC0xNzYwNzc5NDM4LDE5Njc3Mjcx
+ODksLTEzMDYyNTA5OTUsODY4MTI3MTc3LC03MDI4NDgzNjAsNj
+g2MTc2MDEsNDYxOTk3NzUwLC00NDAzOTIzNzIsMjA4MTgwNTc5
+MV19
 -->
