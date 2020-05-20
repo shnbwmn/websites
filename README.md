@@ -367,6 +367,8 @@ List of awesome websites and tools, particularly for design.
 #### FTP
 
 * [https://winscp.net/eng/download.php](https://winscp.net/eng/download.php)
+* [https://cyberduck.io/](https://cyberduck.io/)
+* [https://filezilla-project.org/](https://filezilla-project.org/)
 
 #### Local webserver
 
@@ -1061,11 +1063,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5NDYzMDA4LC02NTc2Njk1OTgsMTk5MD
-U3NjczOSwtMjUzMzEzMjU0LDY5NDIzOTY3NCwtMTQ0MzQ1Mjgw
-MSwyODM5NzMzMTUsODIwNjQ3NjI2LDE1NTA5MDgwMDksMjc4Nj
-YwMjM0LC0xNzYwNzc5NDM4LDE5Njc3MjcxODksLTEzMDYyNTA5
-OTUsODY4MTI3MTc3LC03MDI4NDgzNjAsNjg2MTc2MDEsNDYxOT
-k3NzUwLC00NDAzOTIzNzIsMjA4MTgwNTc5MSw2MTI1NTQ3MDRd
-fQ==
+eyJoaXN0b3J5IjpbMTY4MDMyMTE4NCwtNjU3NjY5NTk4LDE5OT
+A1NzY3MzksLTI1MzMxMzI1NCw2OTQyMzk2NzQsLTE0NDM0NTI4
+MDEsMjgzOTczMzE1LDgyMDY0NzYyNiwxNTUwOTA4MDA5LDI3OD
+Y2MDIzNCwtMTc2MDc3OTQzOCwxOTY3NzI3MTg5LC0xMzA2MjUw
+OTk1LDg2ODEyNzE3NywtNzAyODQ4MzYwLDY4NjE3NjAxLDQ2MT
+k5Nzc1MCwtNDQwMzkyMzcyLDIwODE4MDU3OTEsNjEyNTU0NzA0
+XX0=
 -->
