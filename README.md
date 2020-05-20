@@ -250,6 +250,10 @@ List of awesome websites and tools, particularly for design.
 * [https://www.google.com/get/noto/](https://www.google.com/get/noto/) - Google font system designed for all languages
 * [https://www.typeby.com/](https://www.typeby.com/)
 
+### Visualisation
+
+
+
 ### Design Systems
 
 * [https://medium.muz.li/what-is-a-design-system-1e43d19e7696](https://medium.muz.li/what-is-a-design-system-1e43d19e7696)
@@ -269,7 +273,6 @@ List of awesome websites and tools, particularly for design.
 * [https://artreview.com/](https://artreview.com/)
 * https://www.creativebloq.com/art/painting-techniques-artists-31619638
 * https://www.artsy.net/
-* [siteInspire - Web Design Inspiration](https://www.siteinspire.com/)
 
 ## Web Design
 
@@ -283,6 +286,7 @@ List of awesome websites and tools, particularly for design.
 * [https://bootstrapcreative.com/](https://bootstrapcreative.com/)
 * [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
 * [http://designbeep.com/](http://designbeep.com/)
+* [siteInspire - Web Design Inspiration](https://www.siteinspire.com/)
 
 ### SEO
 
@@ -966,7 +970,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzMxMjg3NCwtMTMwNjI1MDk5NSw4Nj
+eyJoaXN0b3J5IjpbLTc0NjMxNjc2MiwtMTMwNjI1MDk5NSw4Nj
 gxMjcxNzcsLTcwMjg0ODM2MCw2ODYxNzYwMSw0NjE5OTc3NTAs
 LTQ0MDM5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwtMTI0ND
 c3NTg2MywtMjAwNDc5MTM2OCw1Mjg2NjY1NjcsLTE2MTk0Mjc4
