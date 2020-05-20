@@ -301,6 +301,10 @@ List of awesome websites and tools, particularly for design.
 * [https://getbootstrap.com/](https://getbootstrap.com/)
 * [https://html5boilerplate.com/](https://html5boilerplate.com/)
 
+### Resources
+
+* [https://designhooks.com/](https://designhooks.com/)
+
 ### Tools
 
 * https://code.visualstudio.com/
@@ -316,6 +320,8 @@ List of awesome websites and tools, particularly for design.
 * [https://grapesjs.com/](https://grapesjs.com/) - FOSS website builder framework / use homepage demos
 * [https://getuikit.com/](https://getuikit.com/) - UI framework
 * [http://michaelsboost.com/kodeWeave/](http://michaelsboost.com/kodeWeave/) - web code playground
+* [http://www.aptana.com/](http://www.aptana.com/)
+* [https://buildbootstrap.com/](https://buildbootstrap.com/)
 
 #### Save sites locally
 
@@ -946,11 +952,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MTI3MTc3LC03MDI4NDgzNjAsNjg2MT
-c2MDEsNDYxOTk3NzUwLC00NDAzOTIzNzIsMjA4MTgwNTc5MSw2
-MTI1NTQ3MDQsLTEyNDQ3NzU4NjMsLTIwMDQ3OTEzNjgsNTI4Nj
-Y2NTY3LC0xNjE5NDI3ODI0LC0xMDU2MjkwMDI3LDEzODEyOTU3
-MDAsLTEwMTQ1MzAxOTEsMTEwNjE3NzcwLC0xNDU4MDI2NjEsLT
-EwMDI2ODA3NDIsMTM2NDE0MTcwOSwxODYwNjA5MjEyLC04Mzk4
-NDY4NDddfQ==
+eyJoaXN0b3J5IjpbMjA2MTQ5NTk3Miw4NjgxMjcxNzcsLTcwMj
+g0ODM2MCw2ODYxNzYwMSw0NjE5OTc3NTAsLTQ0MDM5MjM3Miwy
+MDgxODA1NzkxLDYxMjU1NDcwNCwtMTI0NDc3NTg2MywtMjAwND
+c5MTM2OCw1Mjg2NjY1NjcsLTE2MTk0Mjc4MjQsLTEwNTYyOTAw
+MjcsMTM4MTI5NTcwMCwtMTAxNDUzMDE5MSwxMTA2MTc3NzAsLT
+E0NTgwMjY2MSwtMTAwMjY4MDc0MiwxMzY0MTQxNzA5LDE4NjA2
+MDkyMTJdfQ==
 -->
