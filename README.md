@@ -186,7 +186,7 @@ List of awesome websites and tools, particularly for design.
 
 ### Colour
 
-
+* [https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg/related?hl=en](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg/related?hl=en) - ColorPick Eyedropper
 
 ### Tools
 
@@ -640,6 +640,7 @@ List of awesome websites and tools, particularly for design.
 * [https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb) - TabCopy
 * [https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=en](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=en) - Page Ruler Redux
 * [https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en](https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en) - Pinterest Save Button
+* [https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg/related?hl=en](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg/related?hl=en) - Color
 
 ### Conversion
 
@@ -988,11 +989,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzNTE1Mjk3LDI3ODY2MDIzNCwtMTc2MD
-c3OTQzOCwxOTY3NzI3MTg5LC0xMzA2MjUwOTk1LDg2ODEyNzE3
-NywtNzAyODQ4MzYwLDY4NjE3NjAxLDQ2MTk5Nzc1MCwtNDQwMz
-kyMzcyLDIwODE4MDU3OTEsNjEyNTU0NzA0LC0xMjQ0Nzc1ODYz
-LC0yMDA0NzkxMzY4LDUyODY2NjU2NywtMTYxOTQyNzgyNCwtMT
-A1NjI5MDAyNywxMzgxMjk1NzAwLC0xMDE0NTMwMTkxLDExMDYx
-Nzc3MF19
+eyJoaXN0b3J5IjpbMTIwNjM1NDYzNSwyNzg2NjAyMzQsLTE3Nj
+A3Nzk0MzgsMTk2NzcyNzE4OSwtMTMwNjI1MDk5NSw4NjgxMjcx
+NzcsLTcwMjg0ODM2MCw2ODYxNzYwMSw0NjE5OTc3NTAsLTQ0MD
+M5MjM3MiwyMDgxODA1NzkxLDYxMjU1NDcwNCwtMTI0NDc3NTg2
+MywtMjAwNDc5MTM2OCw1Mjg2NjY1NjcsLTE2MTk0Mjc4MjQsLT
+EwNTYyOTAwMjcsMTM4MTI5NTcwMCwtMTAxNDUzMDE5MSwxMTA2
+MTc3NzBdfQ==
 -->
