@@ -243,6 +243,10 @@ List of awesome websites and tools, particularly for design.
 
 * [https://arturkovacs.github.io/emulsion-website/](https://arturkovacs.github.io/emulsion-website/)
 
+### Maps
+
+* [http://maperitive.net/](http://maperitive.net/)
+
 ### Photoshop & Lightroom
 
 * https://www.fnordware.com/superpng/
@@ -1068,11 +1072,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTg3ODY5NiwxNjgwMzIxMTg0LC02NT
-c2Njk1OTgsMTk5MDU3NjczOSwtMjUzMzEzMjU0LDY5NDIzOTY3
-NCwtMTQ0MzQ1MjgwMSwyODM5NzMzMTUsODIwNjQ3NjI2LDE1NT
-A5MDgwMDksMjc4NjYwMjM0LC0xNzYwNzc5NDM4LDE5Njc3Mjcx
-ODksLTEzMDYyNTA5OTUsODY4MTI3MTc3LC03MDI4NDgzNjAsNj
-g2MTc2MDEsNDYxOTk3NzUwLC00NDAzOTIzNzIsMjA4MTgwNTc5
-MV19
+eyJoaXN0b3J5IjpbMTEzMzM4ODQ4NywxNDM5ODc4Njk2LDE2OD
+AzMjExODQsLTY1NzY2OTU5OCwxOTkwNTc2NzM5LC0yNTMzMTMy
+NTQsNjk0MjM5Njc0LC0xNDQzNDUyODAxLDI4Mzk3MzMxNSw4Mj
+A2NDc2MjYsMTU1MDkwODAwOSwyNzg2NjAyMzQsLTE3NjA3Nzk0
+MzgsMTk2NzcyNzE4OSwtMTMwNjI1MDk5NSw4NjgxMjcxNzcsLT
+cwMjg0ODM2MCw2ODYxNzYwMSw0NjE5OTc3NTAsLTQ0MDM5MjM3
+Ml19
 -->
