@@ -213,6 +213,10 @@ List of awesome websites and tools, particularly for design.
 * [https://www.grabient.com/](https://www.grabient.com/)
 * [https://uigradients.com/#Mini](https://uigradients.com/#Mini)
 
+### Style Guides
+
+* [https://brandingstyleguides.com/](https://brandingstyleguides.com/)
+
 ### Tools
 
 * https://krita.org/en/
@@ -1072,11 +1076,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzM4ODQ4NywxNDM5ODc4Njk2LDE2OD
-AzMjExODQsLTY1NzY2OTU5OCwxOTkwNTc2NzM5LC0yNTMzMTMy
-NTQsNjk0MjM5Njc0LC0xNDQzNDUyODAxLDI4Mzk3MzMxNSw4Mj
-A2NDc2MjYsMTU1MDkwODAwOSwyNzg2NjAyMzQsLTE3NjA3Nzk0
-MzgsMTk2NzcyNzE4OSwtMTMwNjI1MDk5NSw4NjgxMjcxNzcsLT
-cwMjg0ODM2MCw2ODYxNzYwMSw0NjE5OTc3NTAsLTQ0MDM5MjM3
-Ml19
+eyJoaXN0b3J5IjpbLTI4ODU4MDU2MSwxMTMzMzg4NDg3LDE0Mz
+k4Nzg2OTYsMTY4MDMyMTE4NCwtNjU3NjY5NTk4LDE5OTA1NzY3
+MzksLTI1MzMxMzI1NCw2OTQyMzk2NzQsLTE0NDM0NTI4MDEsMj
+gzOTczMzE1LDgyMDY0NzYyNiwxNTUwOTA4MDA5LDI3ODY2MDIz
+NCwtMTc2MDc3OTQzOCwxOTY3NzI3MTg5LC0xMzA2MjUwOTk1LD
+g2ODEyNzE3NywtNzAyODQ4MzYwLDY4NjE3NjAxLDQ2MTk5Nzc1
+MF19
 -->
