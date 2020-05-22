@@ -749,6 +749,7 @@ List of awesome websites and tools, particularly for design.
 * https://fbdown.net/
 * [Facebook Text Overlay Tool](https://www.facebook.com/ads/tools/text_overlay) - find out if FB/insta images adhere to text rule
 * [About Text in Ad Images](https://www.facebook.com/business/help/980593475366490?id=1240182842783684)
+* [https://www.instadownloader.org/](https://www.instadownloader.org/)
 
 ### Storage
 
@@ -1076,11 +1077,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODU4MDU2MSwxMTMzMzg4NDg3LDE0Mz
-k4Nzg2OTYsMTY4MDMyMTE4NCwtNjU3NjY5NTk4LDE5OTA1NzY3
-MzksLTI1MzMxMzI1NCw2OTQyMzk2NzQsLTE0NDM0NTI4MDEsMj
-gzOTczMzE1LDgyMDY0NzYyNiwxNTUwOTA4MDA5LDI3ODY2MDIz
-NCwtMTc2MDc3OTQzOCwxOTY3NzI3MTg5LC0xMzA2MjUwOTk1LD
-g2ODEyNzE3NywtNzAyODQ4MzYwLDY4NjE3NjAxLDQ2MTk5Nzc1
-MF19
+eyJoaXN0b3J5IjpbNzg2OTYzMTMyLC0yODg1ODA1NjEsMTEzMz
+M4ODQ4NywxNDM5ODc4Njk2LDE2ODAzMjExODQsLTY1NzY2OTU5
+OCwxOTkwNTc2NzM5LC0yNTMzMTMyNTQsNjk0MjM5Njc0LC0xND
+QzNDUyODAxLDI4Mzk3MzMxNSw4MjA2NDc2MjYsMTU1MDkwODAw
+OSwyNzg2NjAyMzQsLTE3NjA3Nzk0MzgsMTk2NzcyNzE4OSwtMT
+MwNjI1MDk5NSw4NjgxMjcxNzcsLTcwMjg0ODM2MCw2ODYxNzYw
+MV19
 -->
