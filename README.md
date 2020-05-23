@@ -709,7 +709,15 @@ List of awesome websites and tools, particularly for design.
 * [http://www.selur.de/](http://www.selur.de/) - Hybrid
 * [https://sourceforge.net/projects/megui/](https://sourceforge.net/projects/megui/)
 * [https://corz.org/windows/software/ffe/](https://corz.org/windows/software/ffe/) - last update 2015
-* * [http://www.avanti.arrozcru.org/](http://www.avanti.arrozcru.org/) - last update 2015
+* [http://www.avanti.arrozcru.org/](http://www.avanti.arrozcru.org/) - last update 2015
+* [https://www.xnview.com/en/xnconvert/](https://www.xnview.com/en/xnconvert/)
+* [https://anyconv.com/](https://anyconv.com/) - images, videos, documents, 3D formats, etc
+
+#### WebP
+
+* [https://www.shareus.com/software/webp-express/](https://www.shareus.com/software/webp-express/)
+* [https://wordpress.org/plugins/webp-express/](https://wordpress.org/plugins/webp-express/)
+* 
 
 ### Emulation
 
@@ -1077,11 +1085,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2OTYzMTMyLC0yODg1ODA1NjEsMTEzMz
-M4ODQ4NywxNDM5ODc4Njk2LDE2ODAzMjExODQsLTY1NzY2OTU5
-OCwxOTkwNTc2NzM5LC0yNTMzMTMyNTQsNjk0MjM5Njc0LC0xND
-QzNDUyODAxLDI4Mzk3MzMxNSw4MjA2NDc2MjYsMTU1MDkwODAw
-OSwyNzg2NjAyMzQsLTE3NjA3Nzk0MzgsMTk2NzcyNzE4OSwtMT
-MwNjI1MDk5NSw4NjgxMjcxNzcsLTcwMjg0ODM2MCw2ODYxNzYw
-MV19
+eyJoaXN0b3J5IjpbNTMzMDYxMjIsNzg2OTYzMTMyLC0yODg1OD
+A1NjEsMTEzMzM4ODQ4NywxNDM5ODc4Njk2LDE2ODAzMjExODQs
+LTY1NzY2OTU5OCwxOTkwNTc2NzM5LC0yNTMzMTMyNTQsNjk0Mj
+M5Njc0LC0xNDQzNDUyODAxLDI4Mzk3MzMxNSw4MjA2NDc2MjYs
+MTU1MDkwODAwOSwyNzg2NjAyMzQsLTE3NjA3Nzk0MzgsMTk2Nz
+cyNzE4OSwtMTMwNjI1MDk5NSw4NjgxMjcxNzcsLTcwMjg0ODM2
+MF19
 -->
