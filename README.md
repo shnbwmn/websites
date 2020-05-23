@@ -717,7 +717,6 @@ List of awesome websites and tools, particularly for design.
 
 * [https://www.shareus.com/software/webp-express/](https://www.shareus.com/software/webp-express/)
 * [https://wordpress.org/plugins/webp-express/](https://wordpress.org/plugins/webp-express/)
-* 
 
 ### Emulation
 
@@ -1085,7 +1084,7 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzMDYxMjIsNzg2OTYzMTMyLC0yODg1OD
+eyJoaXN0b3J5IjpbMTAxMDI1OTQsNzg2OTYzMTMyLC0yODg1OD
 A1NjEsMTEzMzM4ODQ4NywxNDM5ODc4Njk2LDE2ODAzMjExODQs
 LTY1NzY2OTU5OCwxOTkwNTc2NzM5LC0yNTMzMTMyNTQsNjk0Mj
 M5Njc0LC0xNDQzNDUyODAxLDI4Mzk3MzMxNSw4MjA2NDc2MjYs
