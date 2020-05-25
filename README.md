@@ -162,6 +162,8 @@ List of awesome websites and tools, particularly for design.
 * [https://digitalsynopsis.com/](https://digitalsynopsis.com/)
 * [https://beautifulopen.com/](https://beautifulopen.com/)
 * [http://libregraphicsworld.org/](http://libregraphicsworld.org/)
+* [https://alistapart.com/](https://alistapart.com/)
+* [https://justcreative.com/](https://justcreative.com/)
 
 ### Keeping up to date with trends
 
@@ -1088,11 +1090,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzcyODQ4MzQsMTAxMDI1OTQsNzg2OT
-YzMTMyLC0yODg1ODA1NjEsMTEzMzM4ODQ4NywxNDM5ODc4Njk2
-LDE2ODAzMjExODQsLTY1NzY2OTU5OCwxOTkwNTc2NzM5LC0yNT
-MzMTMyNTQsNjk0MjM5Njc0LC0xNDQzNDUyODAxLDI4Mzk3MzMx
-NSw4MjA2NDc2MjYsMTU1MDkwODAwOSwyNzg2NjAyMzQsLTE3Nj
-A3Nzk0MzgsMTk2NzcyNzE4OSwtMTMwNjI1MDk5NSw4NjgxMjcx
-NzddfQ==
+eyJoaXN0b3J5IjpbODQ2MTE2NzAwLC0yMDc3Mjg0ODM0LDEwMT
+AyNTk0LDc4Njk2MzEzMiwtMjg4NTgwNTYxLDExMzMzODg0ODcs
+MTQzOTg3ODY5NiwxNjgwMzIxMTg0LC02NTc2Njk1OTgsMTk5MD
+U3NjczOSwtMjUzMzEzMjU0LDY5NDIzOTY3NCwtMTQ0MzQ1Mjgw
+MSwyODM5NzMzMTUsODIwNjQ3NjI2LDE1NTA5MDgwMDksMjc4Nj
+YwMjM0LC0xNzYwNzc5NDM4LDE5Njc3MjcxODksLTEzMDYyNTA5
+OTVdfQ==
 -->
