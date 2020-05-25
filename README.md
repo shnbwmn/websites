@@ -320,6 +320,7 @@ List of awesome websites and tools, particularly for design.
 * [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
 * [http://designbeep.com/](http://designbeep.com/)
 * [siteInspire - Web Design Inspiration](https://www.siteinspire.com/)
+* [https://uxmag.com/](https://uxmag.com/)
 
 ### SEO
 
@@ -1090,11 +1091,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2MTE2NzAwLC0yMDc3Mjg0ODM0LDEwMT
-AyNTk0LDc4Njk2MzEzMiwtMjg4NTgwNTYxLDExMzMzODg0ODcs
-MTQzOTg3ODY5NiwxNjgwMzIxMTg0LC02NTc2Njk1OTgsMTk5MD
-U3NjczOSwtMjUzMzEzMjU0LDY5NDIzOTY3NCwtMTQ0MzQ1Mjgw
-MSwyODM5NzMzMTUsODIwNjQ3NjI2LDE1NTA5MDgwMDksMjc4Nj
-YwMjM0LC0xNzYwNzc5NDM4LDE5Njc3MjcxODksLTEzMDYyNTA5
-OTVdfQ==
+eyJoaXN0b3J5IjpbLTEwNTMwNzc0MjMsLTIwNzcyODQ4MzQsMT
+AxMDI1OTQsNzg2OTYzMTMyLC0yODg1ODA1NjEsMTEzMzM4ODQ4
+NywxNDM5ODc4Njk2LDE2ODAzMjExODQsLTY1NzY2OTU5OCwxOT
+kwNTc2NzM5LC0yNTMzMTMyNTQsNjk0MjM5Njc0LC0xNDQzNDUy
+ODAxLDI4Mzk3MzMxNSw4MjA2NDc2MjYsMTU1MDkwODAwOSwyNz
+g2NjAyMzQsLTE3NjA3Nzk0MzgsMTk2NzcyNzE4OSwtMTMwNjI1
+MDk5NV19
 -->
