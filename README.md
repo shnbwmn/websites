@@ -164,6 +164,8 @@ List of awesome websites and tools, particularly for design.
 * [http://libregraphicsworld.org/](http://libregraphicsworld.org/)
 * [https://alistapart.com/](https://alistapart.com/)
 * [https://justcreative.com/](https://justcreative.com/)
+* [https://spotify.design/](https://spotify.design/)
+* [https://www.goskills.com/Design/Articles](https://www.goskills.com/Design/Articles)
 
 ### Keeping up to date with trends
 
@@ -1092,11 +1094,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDYxNzQxNSwtMjA3NzI4NDgzNCwxMD
-EwMjU5NCw3ODY5NjMxMzIsLTI4ODU4MDU2MSwxMTMzMzg4NDg3
-LDE0Mzk4Nzg2OTYsMTY4MDMyMTE4NCwtNjU3NjY5NTk4LDE5OT
-A1NzY3MzksLTI1MzMxMzI1NCw2OTQyMzk2NzQsLTE0NDM0NTI4
-MDEsMjgzOTczMzE1LDgyMDY0NzYyNiwxNTUwOTA4MDA5LDI3OD
-Y2MDIzNCwtMTc2MDc3OTQzOCwxOTY3NzI3MTg5LC0xMzA2MjUw
-OTk1XX0=
+eyJoaXN0b3J5IjpbMzI3NzQyNTc3LC0xMzA2MTc0MTUsLTIwNz
+cyODQ4MzQsMTAxMDI1OTQsNzg2OTYzMTMyLC0yODg1ODA1NjEs
+MTEzMzM4ODQ4NywxNDM5ODc4Njk2LDE2ODAzMjExODQsLTY1Nz
+Y2OTU5OCwxOTkwNTc2NzM5LC0yNTMzMTMyNTQsNjk0MjM5Njc0
+LC0xNDQzNDUyODAxLDI4Mzk3MzMxNSw4MjA2NDc2MjYsMTU1MD
+kwODAwOSwyNzg2NjAyMzQsLTE3NjA3Nzk0MzgsMTk2NzcyNzE4
+OV19
 -->
