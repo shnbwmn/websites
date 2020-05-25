@@ -372,6 +372,10 @@ List of awesome websites and tools, particularly for design.
 * [https://letsxd.com/](https://letsxd.com/)
 * [https://www.xdguru.com/](https://www.xdguru.com/)
 
+#### Analytics
+
+* [https://chrome.google.com/webstore/detail/block-yourself-from-analy/fadgflmigmogfionelcpalhohefbnehm/related?hl=en](https://chrome.google.com/webstore/detail/block-yourself-from-analy/fadgflmigmogfionelcpalhohefbnehm/related?hl=en) - Block Yourself From Analytics
+
 #### FTP
 
 * [https://winscp.net/eng/download.php](https://winscp.net/eng/download.php)
@@ -1084,11 +1088,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDI1OTQsNzg2OTYzMTMyLC0yODg1OD
-A1NjEsMTEzMzM4ODQ4NywxNDM5ODc4Njk2LDE2ODAzMjExODQs
-LTY1NzY2OTU5OCwxOTkwNTc2NzM5LC0yNTMzMTMyNTQsNjk0Mj
-M5Njc0LC0xNDQzNDUyODAxLDI4Mzk3MzMxNSw4MjA2NDc2MjYs
-MTU1MDkwODAwOSwyNzg2NjAyMzQsLTE3NjA3Nzk0MzgsMTk2Nz
-cyNzE4OSwtMTMwNjI1MDk5NSw4NjgxMjcxNzcsLTcwMjg0ODM2
-MF19
+eyJoaXN0b3J5IjpbLTIwNzcyODQ4MzQsMTAxMDI1OTQsNzg2OT
+YzMTMyLC0yODg1ODA1NjEsMTEzMzM4ODQ4NywxNDM5ODc4Njk2
+LDE2ODAzMjExODQsLTY1NzY2OTU5OCwxOTkwNTc2NzM5LC0yNT
+MzMTMyNTQsNjk0MjM5Njc0LC0xNDQzNDUyODAxLDI4Mzk3MzMx
+NSw4MjA2NDc2MjYsMTU1MDkwODAwOSwyNzg2NjAyMzQsLTE3Nj
+A3Nzk0MzgsMTk2NzcyNzE4OSwtMTMwNjI1MDk5NSw4NjgxMjcx
+NzddfQ==
 -->
