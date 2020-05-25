@@ -892,6 +892,7 @@ List of awesome websites and tools, particularly for design.
 * https://thenounproject.com/
 * [https://iconstore.co/](https://iconstore.co/) - free for commercial use
 * [https://freeicons.io/](https://freeicons.io/)
+* [https://www.iconfinder.com/](https://www.iconfinder.com/)
 
 ### Fonts
 
@@ -1094,11 +1095,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI3NzQyNTc3LC0xMzA2MTc0MTUsLTIwNz
-cyODQ4MzQsMTAxMDI1OTQsNzg2OTYzMTMyLC0yODg1ODA1NjEs
-MTEzMzM4ODQ4NywxNDM5ODc4Njk2LDE2ODAzMjExODQsLTY1Nz
-Y2OTU5OCwxOTkwNTc2NzM5LC0yNTMzMTMyNTQsNjk0MjM5Njc0
-LC0xNDQzNDUyODAxLDI4Mzk3MzMxNSw4MjA2NDc2MjYsMTU1MD
-kwODAwOSwyNzg2NjAyMzQsLTE3NjA3Nzk0MzgsMTk2NzcyNzE4
-OV19
+eyJoaXN0b3J5IjpbNzg4NjY3NTA2LDMyNzc0MjU3NywtMTMwNj
+E3NDE1LC0yMDc3Mjg0ODM0LDEwMTAyNTk0LDc4Njk2MzEzMiwt
+Mjg4NTgwNTYxLDExMzMzODg0ODcsMTQzOTg3ODY5NiwxNjgwMz
+IxMTg0LC02NTc2Njk1OTgsMTk5MDU3NjczOSwtMjUzMzEzMjU0
+LDY5NDIzOTY3NCwtMTQ0MzQ1MjgwMSwyODM5NzMzMTUsODIwNj
+Q3NjI2LDE1NTA5MDgwMDksMjc4NjYwMjM0LC0xNzYwNzc5NDM4
+XX0=
 -->
