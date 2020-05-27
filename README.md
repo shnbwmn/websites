@@ -918,6 +918,10 @@ List of awesome websites and tools, particularly for design.
 * [https://www.axis-praxis.org/](https://www.axis-praxis.org/) - variable fonts
 * [https://www.typeroom.eu/](https://www.typeroom.eu/)
 
+### Engineering & CAD
+
+* [https://www.the-blueprints.com/](https://www.the-blueprints.com/)
+
 ### After Effects & Premiere
 
 * https://www.shutterstock.com/blog/129-free-cinematic-luts
@@ -1095,11 +1099,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4NjY3NTA2LDMyNzc0MjU3NywtMTMwNj
-E3NDE1LC0yMDc3Mjg0ODM0LDEwMTAyNTk0LDc4Njk2MzEzMiwt
-Mjg4NTgwNTYxLDExMzMzODg0ODcsMTQzOTg3ODY5NiwxNjgwMz
-IxMTg0LC02NTc2Njk1OTgsMTk5MDU3NjczOSwtMjUzMzEzMjU0
-LDY5NDIzOTY3NCwtMTQ0MzQ1MjgwMSwyODM5NzMzMTUsODIwNj
-Q3NjI2LDE1NTA5MDgwMDksMjc4NjYwMjM0LC0xNzYwNzc5NDM4
+eyJoaXN0b3J5IjpbLTE4MjA1NjY5NTEsNzg4NjY3NTA2LDMyNz
+c0MjU3NywtMTMwNjE3NDE1LC0yMDc3Mjg0ODM0LDEwMTAyNTk0
+LDc4Njk2MzEzMiwtMjg4NTgwNTYxLDExMzMzODg0ODcsMTQzOT
+g3ODY5NiwxNjgwMzIxMTg0LC02NTc2Njk1OTgsMTk5MDU3Njcz
+OSwtMjUzMzEzMjU0LDY5NDIzOTY3NCwtMTQ0MzQ1MjgwMSwyOD
+M5NzMzMTUsODIwNjQ3NjI2LDE1NTA5MDgwMDksMjc4NjYwMjM0
 XX0=
 -->
