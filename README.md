@@ -349,6 +349,7 @@ List of awesome websites and tools, particularly for design.
 
 * [https://getbootstrap.com/](https://getbootstrap.com/)
 * [https://html5boilerplate.com/](https://html5boilerplate.com/)
+* [https://unsemantic.com/](https://unsemantic.com/)
 
 ### Resources
 
@@ -1099,11 +1100,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA1NjY5NTEsNzg4NjY3NTA2LDMyNz
-c0MjU3NywtMTMwNjE3NDE1LC0yMDc3Mjg0ODM0LDEwMTAyNTk0
-LDc4Njk2MzEzMiwtMjg4NTgwNTYxLDExMzMzODg0ODcsMTQzOT
-g3ODY5NiwxNjgwMzIxMTg0LC02NTc2Njk1OTgsMTk5MDU3Njcz
-OSwtMjUzMzEzMjU0LDY5NDIzOTY3NCwtMTQ0MzQ1MjgwMSwyOD
-M5NzMzMTUsODIwNjQ3NjI2LDE1NTA5MDgwMDksMjc4NjYwMjM0
-XX0=
+eyJoaXN0b3J5IjpbLTEyOTI1NjA2ODAsLTE4MjA1NjY5NTEsNz
+g4NjY3NTA2LDMyNzc0MjU3NywtMTMwNjE3NDE1LC0yMDc3Mjg0
+ODM0LDEwMTAyNTk0LDc4Njk2MzEzMiwtMjg4NTgwNTYxLDExMz
+MzODg0ODcsMTQzOTg3ODY5NiwxNjgwMzIxMTg0LC02NTc2Njk1
+OTgsMTk5MDU3NjczOSwtMjUzMzEzMjU0LDY5NDIzOTY3NCwtMT
+Q0MzQ1MjgwMSwyODM5NzMzMTUsODIwNjQ3NjI2LDE1NTA5MDgw
+MDldfQ==
 -->
