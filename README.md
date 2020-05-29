@@ -192,6 +192,10 @@ List of awesome websites and tools, particularly for design.
 * [UX Collective](https://uxdesign.cc/)
 * [Inside Design Blog | Thoughts on users, experience, and design](https://www.invisionapp.com/inside-design/)
 
+### Magazines
+
+* [https://inquemag.com/](https://inquemag.com/)
+
 ### Agencies
 
 * [Pentagram — The world's largest independent design consultancy](https://www.pentagram.com/)
@@ -299,9 +303,10 @@ List of awesome websites and tools, particularly for design.
 * [https://www.google.com/get/noto/](https://www.google.com/get/noto/) - Google font system designed for all languages
 * [https://www.typeby.com/](https://www.typeby.com/)
 
-### Visualisation
+### Data & Visualisation
 
 * [https://datavizcatalogue.com/](https://datavizcatalogue.com/)
+* [https://happy-data.co/](https://happy-data.co/)
 
 ### Art
 
@@ -1101,11 +1106,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTY1NTcyMCwtMTI5MjU2MDY4MCwtMT
-gyMDU2Njk1MSw3ODg2Njc1MDYsMzI3NzQyNTc3LC0xMzA2MTc0
-MTUsLTIwNzcyODQ4MzQsMTAxMDI1OTQsNzg2OTYzMTMyLC0yOD
-g1ODA1NjEsMTEzMzM4ODQ4NywxNDM5ODc4Njk2LDE2ODAzMjEx
-ODQsLTY1NzY2OTU5OCwxOTkwNTc2NzM5LC0yNTMzMTMyNTQsNj
-k0MjM5Njc0LC0xNDQzNDUyODAxLDI4Mzk3MzMxNSw4MjA2NDc2
-MjZdfQ==
+eyJoaXN0b3J5IjpbLTExNjMwNTkyNCwxMDA5NjU1NzIwLC0xMj
+kyNTYwNjgwLC0xODIwNTY2OTUxLDc4ODY2NzUwNiwzMjc3NDI1
+NzcsLTEzMDYxNzQxNSwtMjA3NzI4NDgzNCwxMDEwMjU5NCw3OD
+Y5NjMxMzIsLTI4ODU4MDU2MSwxMTMzMzg4NDg3LDE0Mzk4Nzg2
+OTYsMTY4MDMyMTE4NCwtNjU3NjY5NTk4LDE5OTA1NzY3MzksLT
+I1MzMxMzI1NCw2OTQyMzk2NzQsLTE0NDM0NTI4MDEsMjgzOTcz
+MzE1XX0=
 -->
