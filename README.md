@@ -350,6 +350,8 @@ List of awesome websites and tools, particularly for design.
 * [https://grasshopper.app/](https://grasshopper.app/)
 * [https://codepen.io/](https://codepen.io/)
 * [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+* [https://www.codecademy.com/](https://www.codecademy.com/)
+* [https://www.edx.org/](https://www.edx.org/)
 
 ### Frameworks
 
@@ -1107,11 +1109,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDc3NDI3OSwtMjQxOTQ0NTksLTExNj
-MwNTkyNCwxMDA5NjU1NzIwLC0xMjkyNTYwNjgwLC0xODIwNTY2
-OTUxLDc4ODY2NzUwNiwzMjc3NDI1NzcsLTEzMDYxNzQxNSwtMj
-A3NzI4NDgzNCwxMDEwMjU5NCw3ODY5NjMxMzIsLTI4ODU4MDU2
-MSwxMTMzMzg4NDg3LDE0Mzk4Nzg2OTYsMTY4MDMyMTE4NCwtNj
-U3NjY5NTk4LDE5OTA1NzY3MzksLTI1MzMxMzI1NCw2OTQyMzk2
-NzRdfQ==
+eyJoaXN0b3J5IjpbMzk4MjE4ODEsLTI0MTk0NDU5LC0xMTYzMD
+U5MjQsMTAwOTY1NTcyMCwtMTI5MjU2MDY4MCwtMTgyMDU2Njk1
+MSw3ODg2Njc1MDYsMzI3NzQyNTc3LC0xMzA2MTc0MTUsLTIwNz
+cyODQ4MzQsMTAxMDI1OTQsNzg2OTYzMTMyLC0yODg1ODA1NjEs
+MTEzMzM4ODQ4NywxNDM5ODc4Njk2LDE2ODAzMjExODQsLTY1Nz
+Y2OTU5OCwxOTkwNTc2NzM5LC0yNTMzMTMyNTQsNjk0MjM5Njc0
+XX0=
 -->
