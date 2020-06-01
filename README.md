@@ -349,6 +349,8 @@ List of awesome websites and tools, particularly for design.
 
 * [https://www.freecodecamp.org/news/](https://www.freecodecamp.org/news/)
 * [https://grasshopper.app/](https://grasshopper.app/)
+* [https://codepen.io/](https://codepen.io/)
+* 
 
 ### Frameworks
 
@@ -1106,11 +1108,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjMwNTkyNCwxMDA5NjU1NzIwLC0xMj
-kyNTYwNjgwLC0xODIwNTY2OTUxLDc4ODY2NzUwNiwzMjc3NDI1
-NzcsLTEzMDYxNzQxNSwtMjA3NzI4NDgzNCwxMDEwMjU5NCw3OD
-Y5NjMxMzIsLTI4ODU4MDU2MSwxMTMzMzg4NDg3LDE0Mzk4Nzg2
-OTYsMTY4MDMyMTE4NCwtNjU3NjY5NTk4LDE5OTA1NzY3MzksLT
-I1MzMxMzI1NCw2OTQyMzk2NzQsLTE0NDM0NTI4MDEsMjgzOTcz
-MzE1XX0=
+eyJoaXN0b3J5IjpbLTI0MTk0NDU5LC0xMTYzMDU5MjQsMTAwOT
+Y1NTcyMCwtMTI5MjU2MDY4MCwtMTgyMDU2Njk1MSw3ODg2Njc1
+MDYsMzI3NzQyNTc3LC0xMzA2MTc0MTUsLTIwNzcyODQ4MzQsMT
+AxMDI1OTQsNzg2OTYzMTMyLC0yODg1ODA1NjEsMTEzMzM4ODQ4
+NywxNDM5ODc4Njk2LDE2ODAzMjExODQsLTY1NzY2OTU5OCwxOT
+kwNTc2NzM5LC0yNTMzMTMyNTQsNjk0MjM5Njc0LC0xNDQzNDUy
+ODAxXX0=
 -->
