@@ -966,6 +966,7 @@ List of awesome websites and tools, particularly for design.
 * [https://grapbox.net/](https://grapbox.net/)
 * [https://designhooks.com/](https://designhooks.com/)
 * [https://mediamodifier.com/mockups/all](https://mediamodifier.com/mockups/all)
+* [https://psdfreebies.com/](https://psdfreebies.com/)
 
 ### Templates
 
@@ -1112,11 +1113,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQwMjQ5NTAsMzk4MjE4ODEsLTI0MT
-k0NDU5LC0xMTYzMDU5MjQsMTAwOTY1NTcyMCwtMTI5MjU2MDY4
-MCwtMTgyMDU2Njk1MSw3ODg2Njc1MDYsMzI3NzQyNTc3LC0xMz
-A2MTc0MTUsLTIwNzcyODQ4MzQsMTAxMDI1OTQsNzg2OTYzMTMy
-LC0yODg1ODA1NjEsMTEzMzM4ODQ4NywxNDM5ODc4Njk2LDE2OD
-AzMjExODQsLTY1NzY2OTU5OCwxOTkwNTc2NzM5LC0yNTMzMTMy
-NTRdfQ==
+eyJoaXN0b3J5IjpbMzU2ODM1NTU1LDM5ODIxODgxLC0yNDE5ND
+Q1OSwtMTE2MzA1OTI0LDEwMDk2NTU3MjAsLTEyOTI1NjA2ODAs
+LTE4MjA1NjY5NTEsNzg4NjY3NTA2LDMyNzc0MjU3NywtMTMwNj
+E3NDE1LC0yMDc3Mjg0ODM0LDEwMTAyNTk0LDc4Njk2MzEzMiwt
+Mjg4NTgwNTYxLDExMzMzODg0ODcsMTQzOTg3ODY5NiwxNjgwMz
+IxMTg0LC02NTc2Njk1OTgsMTk5MDU3NjczOSwtMjUzMzEzMjU0
+XX0=
 -->
