@@ -815,6 +815,8 @@ List of awesome websites and tools, particularly for design.
 * https://creativecommons.org/
 * [https://designtaxi.com/category/Freebies](https://designtaxi.com/category/Freebies)
 * [https://www.webdesignerdepot.com/category/freebies/](https://www.webdesignerdepot.com/category/freebies/)
+* [https://freebies.fluxes.com/](https://freebies.fluxes.com/)
+* 
 
 ### Images
 
@@ -1109,11 +1111,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4MjE4ODEsLTI0MTk0NDU5LC0xMTYzMD
-U5MjQsMTAwOTY1NTcyMCwtMTI5MjU2MDY4MCwtMTgyMDU2Njk1
-MSw3ODg2Njc1MDYsMzI3NzQyNTc3LC0xMzA2MTc0MTUsLTIwNz
-cyODQ4MzQsMTAxMDI1OTQsNzg2OTYzMTMyLC0yODg1ODA1NjEs
-MTEzMzM4ODQ4NywxNDM5ODc4Njk2LDE2ODAzMjExODQsLTY1Nz
-Y2OTU5OCwxOTkwNTc2NzM5LC0yNTMzMTMyNTQsNjk0MjM5Njc0
-XX0=
+eyJoaXN0b3J5IjpbLTk4NDQxNDY5MCwzOTgyMTg4MSwtMjQxOT
+Q0NTksLTExNjMwNTkyNCwxMDA5NjU1NzIwLC0xMjkyNTYwNjgw
+LC0xODIwNTY2OTUxLDc4ODY2NzUwNiwzMjc3NDI1NzcsLTEzMD
+YxNzQxNSwtMjA3NzI4NDgzNCwxMDEwMjU5NCw3ODY5NjMxMzIs
+LTI4ODU4MDU2MSwxMTMzMzg4NDg3LDE0Mzk4Nzg2OTYsMTY4MD
+MyMTE4NCwtNjU3NjY5NTk4LDE5OTA1NzY3MzksLTI1MzMxMzI1
+NF19
 -->
