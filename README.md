@@ -881,6 +881,9 @@ List of awesome websites and tools, particularly for design.
 * https://www.transparenttextures.com/
 * https://github.com/atlemo/SubtlePatterns
 * [https://www.shutterstock.com/blog/50-free-distressed-textures](https://www.shutterstock.com/blog/50-free-distressed-textures)
+* [https://www.wildtextures.com/category/free-textures/](https://www.wildtextures.com/category/free-textures/)
+* [http://texturify.com/](http://texturify.com/)
+* 
 
 ### Web
 
@@ -1113,11 +1116,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2ODM1NTU1LDM5ODIxODgxLC0yNDE5ND
-Q1OSwtMTE2MzA1OTI0LDEwMDk2NTU3MjAsLTEyOTI1NjA2ODAs
-LTE4MjA1NjY5NTEsNzg4NjY3NTA2LDMyNzc0MjU3NywtMTMwNj
-E3NDE1LC0yMDc3Mjg0ODM0LDEwMTAyNTk0LDc4Njk2MzEzMiwt
-Mjg4NTgwNTYxLDExMzMzODg0ODcsMTQzOTg3ODY5NiwxNjgwMz
-IxMTg0LC02NTc2Njk1OTgsMTk5MDU3NjczOSwtMjUzMzEzMjU0
+eyJoaXN0b3J5IjpbLTk5MzM5MDg5NSwzNTY4MzU1NTUsMzk4Mj
+E4ODEsLTI0MTk0NDU5LC0xMTYzMDU5MjQsMTAwOTY1NTcyMCwt
+MTI5MjU2MDY4MCwtMTgyMDU2Njk1MSw3ODg2Njc1MDYsMzI3Nz
+QyNTc3LC0xMzA2MTc0MTUsLTIwNzcyODQ4MzQsMTAxMDI1OTQs
+Nzg2OTYzMTMyLC0yODg1ODA1NjEsMTEzMzM4ODQ4NywxNDM5OD
+c4Njk2LDE2ODAzMjExODQsLTY1NzY2OTU5OCwxOTkwNTc2NzM5
 XX0=
 -->
