@@ -245,6 +245,7 @@ List of awesome websites and tools, particularly for design.
 * [https://github.com/akiraux/Akira](https://github.com/akiraux/Akira) - Linux
 * [https://icons8.com/lunacy](https://icons8.com/lunacy)
 * [https://getsharex.com/](https://getsharex.com/)
+* [https://calculateaspectratio.com/](https://calculateaspectratio.com/) - aspect ratio calculator
 
 ### Enlargement
 
@@ -1117,11 +1118,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjQzNzYwMSwtMTc4NDEwNDc4MCwtOT
-kzMzkwODk1LDM1NjgzNTU1NSwzOTgyMTg4MSwtMjQxOTQ0NTks
-LTExNjMwNTkyNCwxMDA5NjU1NzIwLC0xMjkyNTYwNjgwLC0xOD
-IwNTY2OTUxLDc4ODY2NzUwNiwzMjc3NDI1NzcsLTEzMDYxNzQx
-NSwtMjA3NzI4NDgzNCwxMDEwMjU5NCw3ODY5NjMxMzIsLTI4OD
-U4MDU2MSwxMTMzMzg4NDg3LDE0Mzk4Nzg2OTYsMTY4MDMyMTE4
-NF19
+eyJoaXN0b3J5IjpbMjAwNDgwMTkwMiwxNDY2NDM3NjAxLC0xNz
+g0MTA0NzgwLC05OTMzOTA4OTUsMzU2ODM1NTU1LDM5ODIxODgx
+LC0yNDE5NDQ1OSwtMTE2MzA1OTI0LDEwMDk2NTU3MjAsLTEyOT
+I1NjA2ODAsLTE4MjA1NjY5NTEsNzg4NjY3NTA2LDMyNzc0MjU3
+NywtMTMwNjE3NDE1LC0yMDc3Mjg0ODM0LDEwMTAyNTk0LDc4Nj
+k2MzEzMiwtMjg4NTgwNTYxLDExMzMzODg0ODcsMTQzOTg3ODY5
+Nl19
 -->
