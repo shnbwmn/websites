@@ -697,7 +697,8 @@ List of awesome websites and tools, particularly for design.
 * https://search.google.com/test/mobile-friendly
 * https://getmetastream.com/
 * https://www.monotype.com/products/skyfonts
-* https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
+* [https://deoldify.ai/](https://deoldify.ai/) - colourise old photo and video with AI
+*https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
 * [http://muldersoft.com/](http://muldersoft.com/) - LameXP, MPlayer, x264 Launcher, etc
 * [https://docs.google.com/forms/u/0/](https://docs.google.com/forms/u/0/) - creating web forms for people to fill out
 
@@ -1118,11 +1119,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDgwMTkwMiwxNDY2NDM3NjAxLC0xNz
-g0MTA0NzgwLC05OTMzOTA4OTUsMzU2ODM1NTU1LDM5ODIxODgx
-LC0yNDE5NDQ1OSwtMTE2MzA1OTI0LDEwMDk2NTU3MjAsLTEyOT
-I1NjA2ODAsLTE4MjA1NjY5NTEsNzg4NjY3NTA2LDMyNzc0MjU3
-NywtMTMwNjE3NDE1LC0yMDc3Mjg0ODM0LDEwMTAyNTk0LDc4Nj
-k2MzEzMiwtMjg4NTgwNTYxLDExMzMzODg0ODcsMTQzOTg3ODY5
-Nl19
+eyJoaXN0b3J5IjpbLTEzNDcyMTU2MjAsMjAwNDgwMTkwMiwxND
+Y2NDM3NjAxLC0xNzg0MTA0NzgwLC05OTMzOTA4OTUsMzU2ODM1
+NTU1LDM5ODIxODgxLC0yNDE5NDQ1OSwtMTE2MzA1OTI0LDEwMD
+k2NTU3MjAsLTEyOTI1NjA2ODAsLTE4MjA1NjY5NTEsNzg4NjY3
+NTA2LDMyNzc0MjU3NywtMTMwNjE3NDE1LC0yMDc3Mjg0ODM0LD
+EwMTAyNTk0LDc4Njk2MzEzMiwtMjg4NTgwNTYxLDExMzMzODg0
+ODddfQ==
 -->
