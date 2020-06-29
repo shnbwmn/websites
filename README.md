@@ -220,6 +220,8 @@ List of awesome websites and tools, particularly for design.
 * [https://www.colorzilla.com/](https://www.colorzilla.com/)
 * [https://www.grabient.com/](https://www.grabient.com/)
 * [https://uigradients.com/#Mini](https://uigradients.com/#Mini)
+* [https://webgradients.com/](https://webgradients.com/) - fking awesome
+* [https://gradienthunt.com/](https://gradienthunt.com/)
 
 ### Style Guides
 
@@ -1119,11 +1121,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDcyMTU2MjAsMjAwNDgwMTkwMiwxND
-Y2NDM3NjAxLC0xNzg0MTA0NzgwLC05OTMzOTA4OTUsMzU2ODM1
-NTU1LDM5ODIxODgxLC0yNDE5NDQ1OSwtMTE2MzA1OTI0LDEwMD
-k2NTU3MjAsLTEyOTI1NjA2ODAsLTE4MjA1NjY5NTEsNzg4NjY3
-NTA2LDMyNzc0MjU3NywtMTMwNjE3NDE1LC0yMDc3Mjg0ODM0LD
-EwMTAyNTk0LDc4Njk2MzEzMiwtMjg4NTgwNTYxLDExMzMzODg0
-ODddfQ==
+eyJoaXN0b3J5IjpbLTE0MTc2NDk2ODUsLTEzNDcyMTU2MjAsMj
+AwNDgwMTkwMiwxNDY2NDM3NjAxLC0xNzg0MTA0NzgwLC05OTMz
+OTA4OTUsMzU2ODM1NTU1LDM5ODIxODgxLC0yNDE5NDQ1OSwtMT
+E2MzA1OTI0LDEwMDk2NTU3MjAsLTEyOTI1NjA2ODAsLTE4MjA1
+NjY5NTEsNzg4NjY3NTA2LDMyNzc0MjU3NywtMTMwNjE3NDE1LC
+0yMDc3Mjg0ODM0LDEwMTAyNTk0LDc4Njk2MzEzMiwtMjg4NTgw
+NTYxXX0=
 -->
