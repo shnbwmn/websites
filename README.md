@@ -939,6 +939,11 @@ List of awesome websites and tools, particularly for design.
 * [https://www.axis-praxis.org/](https://www.axis-praxis.org/) - variable fonts
 * [https://www.typeroom.eu/](https://www.typeroom.eu/)
 * [https://www.freshfonts.io/](https://www.freshfonts.io/)
+* [https://pampatype.com/reforma](https://pampatype.com/reforma)
+* [https://fonts.floriankarsten.com/space-grotesk]
+* (https://fonts.floriankarsten.com/space-grotesk)
+* [http://velvetyne.fr/](http://velvetyne.fr/)
+* [http://bonjourmonde.net/](http://bonjourmonde.net/)
 
 ### Engineering & CAD
 
@@ -1123,11 +1128,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTA2NjI5NywtMTEzNTI4Mjk4NiwtMT
-QxNzY0OTY4NSwtMTM0NzIxNTYyMCwyMDA0ODAxOTAyLDE0NjY0
-Mzc2MDEsLTE3ODQxMDQ3ODAsLTk5MzM5MDg5NSwzNTY4MzU1NT
-UsMzk4MjE4ODEsLTI0MTk0NDU5LC0xMTYzMDU5MjQsMTAwOTY1
-NTcyMCwtMTI5MjU2MDY4MCwtMTgyMDU2Njk1MSw3ODg2Njc1MD
-YsMzI3NzQyNTc3LC0xMzA2MTc0MTUsLTIwNzcyODQ4MzQsMTAx
-MDI1OTRdfQ==
+eyJoaXN0b3J5IjpbLTEzMDQ0MDcyNTksLTExMzUyODI5ODYsLT
+E0MTc2NDk2ODUsLTEzNDcyMTU2MjAsMjAwNDgwMTkwMiwxNDY2
+NDM3NjAxLC0xNzg0MTA0NzgwLC05OTMzOTA4OTUsMzU2ODM1NT
+U1LDM5ODIxODgxLC0yNDE5NDQ1OSwtMTE2MzA1OTI0LDEwMDk2
+NTU3MjAsLTEyOTI1NjA2ODAsLTE4MjA1NjY5NTEsNzg4NjY3NT
+A2LDMyNzc0MjU3NywtMTMwNjE3NDE1LC0yMDc3Mjg0ODM0LDEw
+MTAyNTk0XX0=
 -->
