@@ -674,6 +674,8 @@ List of awesome websites and tools, particularly for design.
 * [https://www.shutterstock.com/](https://www.shutterstock.com/)
 * [https://www.pexels.com/](https://www.pexels.com/)
 * [https://www.twenty20.com/](https://www.twenty20.com/)
+* [https://www.rawpixel.com/](https://www.rawpixel.com/)
+* [https://kaboompics.com/](https://kaboompics.com/)
 
 ## Tools
 
@@ -1137,11 +1139,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg3NTU3OTEsLTEwMjEzNTgxNzAsLT
-EzMDQ0MDcyNTksLTExMzUyODI5ODYsLTE0MTc2NDk2ODUsLTEz
-NDcyMTU2MjAsMjAwNDgwMTkwMiwxNDY2NDM3NjAxLC0xNzg0MT
-A0NzgwLC05OTMzOTA4OTUsMzU2ODM1NTU1LDM5ODIxODgxLC0y
-NDE5NDQ1OSwtMTE2MzA1OTI0LDEwMDk2NTU3MjAsLTEyOTI1Nj
-A2ODAsLTE4MjA1NjY5NTEsNzg4NjY3NTA2LDMyNzc0MjU3Nywt
-MTMwNjE3NDE1XX0=
+eyJoaXN0b3J5IjpbLTE0NjgzNjMzLC0xMDA4NzU1NzkxLC0xMD
+IxMzU4MTcwLC0xMzA0NDA3MjU5LC0xMTM1MjgyOTg2LC0xNDE3
+NjQ5Njg1LC0xMzQ3MjE1NjIwLDIwMDQ4MDE5MDIsMTQ2NjQzNz
+YwMSwtMTc4NDEwNDc4MCwtOTkzMzkwODk1LDM1NjgzNTU1NSwz
+OTgyMTg4MSwtMjQxOTQ0NTksLTExNjMwNTkyNCwxMDA5NjU1Nz
+IwLC0xMjkyNTYwNjgwLC0xODIwNTY2OTUxLDc4ODY2NzUwNiwz
+Mjc3NDI1NzddfQ==
 -->
