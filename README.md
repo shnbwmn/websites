@@ -166,6 +166,7 @@ List of awesome websites and tools, particularly for design.
 * [https://justcreative.com/](https://justcreative.com/)
 * [https://spotify.design/](https://spotify.design/)
 * [https://www.goskills.com/Design/Articles](https://www.goskills.com/Design/Articles)
+* https://www.logolynx.com/
 
 ### Keeping up to date with trends
 
@@ -1139,11 +1140,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjgzNjMzLC0xMDA4NzU1NzkxLC0xMD
-IxMzU4MTcwLC0xMzA0NDA3MjU5LC0xMTM1MjgyOTg2LC0xNDE3
-NjQ5Njg1LC0xMzQ3MjE1NjIwLDIwMDQ4MDE5MDIsMTQ2NjQzNz
-YwMSwtMTc4NDEwNDc4MCwtOTkzMzkwODk1LDM1NjgzNTU1NSwz
-OTgyMTg4MSwtMjQxOTQ0NTksLTExNjMwNTkyNCwxMDA5NjU1Nz
-IwLC0xMjkyNTYwNjgwLC0xODIwNTY2OTUxLDc4ODY2NzUwNiwz
-Mjc3NDI1NzddfQ==
+eyJoaXN0b3J5IjpbMTc4NjA4NDA4OSwtMTQ2ODM2MzMsLTEwMD
+g3NTU3OTEsLTEwMjEzNTgxNzAsLTEzMDQ0MDcyNTksLTExMzUy
+ODI5ODYsLTE0MTc2NDk2ODUsLTEzNDcyMTU2MjAsMjAwNDgwMT
+kwMiwxNDY2NDM3NjAxLC0xNzg0MTA0NzgwLC05OTMzOTA4OTUs
+MzU2ODM1NTU1LDM5ODIxODgxLC0yNDE5NDQ1OSwtMTE2MzA1OT
+I0LDEwMDk2NTU3MjAsLTEyOTI1NjA2ODAsLTE4MjA1NjY5NTEs
+Nzg4NjY3NTA2XX0=
 -->
