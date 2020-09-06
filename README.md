@@ -930,6 +930,7 @@ List of awesome websites and tools, particularly for design.
 ### Fonts
 
 * https://fonts.google.com/
+* https://goofonts.com/
 * https://www.calligraphr.com/en/
 * https://thefontsmaster.com/all-the-fonts/
 * https://www.futurafree.com/
@@ -1140,11 +1141,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjA4NDA4OSwtMTQ2ODM2MzMsLTEwMD
-g3NTU3OTEsLTEwMjEzNTgxNzAsLTEzMDQ0MDcyNTksLTExMzUy
-ODI5ODYsLTE0MTc2NDk2ODUsLTEzNDcyMTU2MjAsMjAwNDgwMT
-kwMiwxNDY2NDM3NjAxLC0xNzg0MTA0NzgwLC05OTMzOTA4OTUs
-MzU2ODM1NTU1LDM5ODIxODgxLC0yNDE5NDQ1OSwtMTE2MzA1OT
-I0LDEwMDk2NTU3MjAsLTEyOTI1NjA2ODAsLTE4MjA1NjY5NTEs
-Nzg4NjY3NTA2XX0=
+eyJoaXN0b3J5IjpbMzQ1NDQwODcxLDE3ODYwODQwODksLTE0Nj
+gzNjMzLC0xMDA4NzU1NzkxLC0xMDIxMzU4MTcwLC0xMzA0NDA3
+MjU5LC0xMTM1MjgyOTg2LC0xNDE3NjQ5Njg1LC0xMzQ3MjE1Nj
+IwLDIwMDQ4MDE5MDIsMTQ2NjQzNzYwMSwtMTc4NDEwNDc4MCwt
+OTkzMzkwODk1LDM1NjgzNTU1NSwzOTgyMTg4MSwtMjQxOTQ0NT
+ksLTExNjMwNTkyNCwxMDA5NjU1NzIwLC0xMjkyNTYwNjgwLC0x
+ODIwNTY2OTUxXX0=
 -->
