@@ -579,6 +579,7 @@ List of awesome websites and tools, particularly for design.
 * https://www.redgiant.com/products/red-giant-complete/
 * https://aescripts.com/
 * https://aescripts.com/bodymovin/
+* https://exchange.adobe.com/creativecloud.details.12557.bodymovin.html
 * http://darkpulse-motion-design.com/portfolio/uigrids
 * https://www.battleaxe.co/
 * https://misterhorse.com/animation-composer
@@ -1141,11 +1142,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1NDQwODcxLDE3ODYwODQwODksLTE0Nj
-gzNjMzLC0xMDA4NzU1NzkxLC0xMDIxMzU4MTcwLC0xMzA0NDA3
-MjU5LC0xMTM1MjgyOTg2LC0xNDE3NjQ5Njg1LC0xMzQ3MjE1Nj
-IwLDIwMDQ4MDE5MDIsMTQ2NjQzNzYwMSwtMTc4NDEwNDc4MCwt
-OTkzMzkwODk1LDM1NjgzNTU1NSwzOTgyMTg4MSwtMjQxOTQ0NT
-ksLTExNjMwNTkyNCwxMDA5NjU1NzIwLC0xMjkyNTYwNjgwLC0x
-ODIwNTY2OTUxXX0=
+eyJoaXN0b3J5IjpbNjUwNzM5MjEwLDM0NTQ0MDg3MSwxNzg2MD
+g0MDg5LC0xNDY4MzYzMywtMTAwODc1NTc5MSwtMTAyMTM1ODE3
+MCwtMTMwNDQwNzI1OSwtMTEzNTI4Mjk4NiwtMTQxNzY0OTY4NS
+wtMTM0NzIxNTYyMCwyMDA0ODAxOTAyLDE0NjY0Mzc2MDEsLTE3
+ODQxMDQ3ODAsLTk5MzM5MDg5NSwzNTY4MzU1NTUsMzk4MjE4OD
+EsLTI0MTk0NDU5LC0xMTYzMDU5MjQsMTAwOTY1NTcyMCwtMTI5
+MjU2MDY4MF19
 -->
