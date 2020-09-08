@@ -576,7 +576,7 @@ List of awesome websites and tools, particularly for design.
 
 ### After Effects & Premiere
 
-* http://install.anastasiy.com/ - adobe extension inst
+* http://install.anastasiy.com/ - adobe extension manager
 * https://www.redgiant.com/products/red-giant-complete/
 * https://aescripts.com/
 * https://aescripts.com/bodymovin/
@@ -997,6 +997,7 @@ List of awesome websites and tools, particularly for design.
 * [https://designhooks.com/](https://designhooks.com/)
 * [https://mediamodifier.com/mockups/all](https://mediamodifier.com/mockups/all)
 * [https://psdfreebies.com/](https://psdfreebies.com/)
+* 
 
 ### Templates
 
@@ -1143,11 +1144,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTQ0NzU4Myw2NTA3MzkyMTAsMzQ1ND
-QwODcxLDE3ODYwODQwODksLTE0NjgzNjMzLC0xMDA4NzU1Nzkx
-LC0xMDIxMzU4MTcwLC0xMzA0NDA3MjU5LC0xMTM1MjgyOTg2LC
-0xNDE3NjQ5Njg1LC0xMzQ3MjE1NjIwLDIwMDQ4MDE5MDIsMTQ2
-NjQzNzYwMSwtMTc4NDEwNDc4MCwtOTkzMzkwODk1LDM1NjgzNT
-U1NSwzOTgyMTg4MSwtMjQxOTQ0NTksLTExNjMwNTkyNCwxMDA5
-NjU1NzIwXX0=
+eyJoaXN0b3J5IjpbLTE2MzY2MDQxNTYsNjUwNzM5MjEwLDM0NT
+Q0MDg3MSwxNzg2MDg0MDg5LC0xNDY4MzYzMywtMTAwODc1NTc5
+MSwtMTAyMTM1ODE3MCwtMTMwNDQwNzI1OSwtMTEzNTI4Mjk4Ni
+wtMTQxNzY0OTY4NSwtMTM0NzIxNTYyMCwyMDA0ODAxOTAyLDE0
+NjY0Mzc2MDEsLTE3ODQxMDQ3ODAsLTk5MzM5MDg5NSwzNTY4Mz
+U1NTUsMzk4MjE4ODEsLTI0MTk0NDU5LC0xMTYzMDU5MjQsMTAw
+OTY1NTcyMF19
 -->
