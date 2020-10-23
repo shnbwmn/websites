@@ -493,6 +493,7 @@ List of awesome websites and tools, particularly for design.
 * [https://www.voxelmade.com/](https://www.voxelmade.com/)
 * [http://www.aendom.com/en/](http://www.aendom.com/en/)
 * [https://motionarray.com/](https://motionarray.com/)
+* https://open3dmodel.com/3d-models/electronic
 
 ### Tools
 
@@ -1146,11 +1147,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTkxNjQ4NiwxNzU5NzA1Nzc5LC0yMD
-E5NDUyMjk4LDY1MDczOTIxMCwzNDU0NDA4NzEsMTc4NjA4NDA4
-OSwtMTQ2ODM2MzMsLTEwMDg3NTU3OTEsLTEwMjEzNTgxNzAsLT
-EzMDQ0MDcyNTksLTExMzUyODI5ODYsLTE0MTc2NDk2ODUsLTEz
-NDcyMTU2MjAsMjAwNDgwMTkwMiwxNDY2NDM3NjAxLC0xNzg0MT
-A0NzgwLC05OTMzOTA4OTUsMzU2ODM1NTU1LDM5ODIxODgxLC0y
-NDE5NDQ1OV19
+eyJoaXN0b3J5IjpbMTgyNzIyNzIyOCwyMTE5OTE2NDg2LDE3NT
+k3MDU3NzksLTIwMTk0NTIyOTgsNjUwNzM5MjEwLDM0NTQ0MDg3
+MSwxNzg2MDg0MDg5LC0xNDY4MzYzMywtMTAwODc1NTc5MSwtMT
+AyMTM1ODE3MCwtMTMwNDQwNzI1OSwtMTEzNTI4Mjk4NiwtMTQx
+NzY0OTY4NSwtMTM0NzIxNTYyMCwyMDA0ODAxOTAyLDE0NjY0Mz
+c2MDEsLTE3ODQxMDQ3ODAsLTk5MzM5MDg5NSwzNTY4MzU1NTUs
+Mzk4MjE4ODFdfQ==
 -->
