@@ -1092,6 +1092,8 @@ List of awesome websites and tools, particularly for design.
 
 * [https://wanderlog.com/](https://wanderlog.com/)
 
+## Weather
+
 ## Jobs
 
 * https://www.indeed.co.za/
@@ -1147,11 +1149,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTE2MTE4MCwxODI3MjI3MjI4LDIxMT
-k5MTY0ODYsMTc1OTcwNTc3OSwtMjAxOTQ1MjI5OCw2NTA3Mzky
-MTAsMzQ1NDQwODcxLDE3ODYwODQwODksLTE0NjgzNjMzLC0xMD
-A4NzU1NzkxLC0xMDIxMzU4MTcwLC0xMzA0NDA3MjU5LC0xMTM1
-MjgyOTg2LC0xNDE3NjQ5Njg1LC0xMzQ3MjE1NjIwLDIwMDQ4MD
-E5MDIsMTQ2NjQzNzYwMSwtMTc4NDEwNDc4MCwtOTkzMzkwODk1
-LDM1NjgzNTU1NV19
+eyJoaXN0b3J5IjpbMjAwNzUxMDkzMiwxOTU1MTYxMTgwLDE4Mj
+cyMjcyMjgsMjExOTkxNjQ4NiwxNzU5NzA1Nzc5LC0yMDE5NDUy
+Mjk4LDY1MDczOTIxMCwzNDU0NDA4NzEsMTc4NjA4NDA4OSwtMT
+Q2ODM2MzMsLTEwMDg3NTU3OTEsLTEwMjEzNTgxNzAsLTEzMDQ0
+MDcyNTksLTExMzUyODI5ODYsLTE0MTc2NDk2ODUsLTEzNDcyMT
+U2MjAsMjAwNDgwMTkwMiwxNDY2NDM3NjAxLC0xNzg0MTA0Nzgw
+LC05OTMzOTA4OTVdfQ==
 -->
