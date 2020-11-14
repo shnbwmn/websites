@@ -1094,6 +1094,8 @@ List of awesome websites and tools, particularly for design.
 
 ## Weather
 
+* https://www.windguru.cz/91
+
 ## Jobs
 
 * https://www.indeed.co.za/
@@ -1149,11 +1151,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzUxMDkzMiwxOTU1MTYxMTgwLDE4Mj
-cyMjcyMjgsMjExOTkxNjQ4NiwxNzU5NzA1Nzc5LC0yMDE5NDUy
-Mjk4LDY1MDczOTIxMCwzNDU0NDA4NzEsMTc4NjA4NDA4OSwtMT
-Q2ODM2MzMsLTEwMDg3NTU3OTEsLTEwMjEzNTgxNzAsLTEzMDQ0
-MDcyNTksLTExMzUyODI5ODYsLTE0MTc2NDk2ODUsLTEzNDcyMT
-U2MjAsMjAwNDgwMTkwMiwxNDY2NDM3NjAxLC0xNzg0MTA0Nzgw
-LC05OTMzOTA4OTVdfQ==
+eyJoaXN0b3J5IjpbLTEwNjUzOTc0NTcsMTk1NTE2MTE4MCwxOD
+I3MjI3MjI4LDIxMTk5MTY0ODYsMTc1OTcwNTc3OSwtMjAxOTQ1
+MjI5OCw2NTA3MzkyMTAsMzQ1NDQwODcxLDE3ODYwODQwODksLT
+E0NjgzNjMzLC0xMDA4NzU1NzkxLC0xMDIxMzU4MTcwLC0xMzA0
+NDA3MjU5LC0xMTM1MjgyOTg2LC0xNDE3NjQ5Njg1LC0xMzQ3Mj
+E1NjIwLDIwMDQ4MDE5MDIsMTQ2NjQzNzYwMSwtMTc4NDEwNDc4
+MCwtOTkzMzkwODk1XX0=
 -->
