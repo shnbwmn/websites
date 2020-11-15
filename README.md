@@ -168,6 +168,7 @@ List of awesome websites and tools, particularly for design.
 * [https://www.goskills.com/Design/Articles](https://www.goskills.com/Design/Articles)
 * https://www.logolynx.com/
 * https://typegang.com/
+* https://www.brumale.xyz/
 
 ### Keeping up to date with trends
 
@@ -1153,11 +1154,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3MTMxOTMsMTk1NTE2MTE4MCwxODI3Mj
-I3MjI4LDIxMTk5MTY0ODYsMTc1OTcwNTc3OSwtMjAxOTQ1MjI5
-OCw2NTA3MzkyMTAsMzQ1NDQwODcxLDE3ODYwODQwODksLTE0Nj
-gzNjMzLC0xMDA4NzU1NzkxLC0xMDIxMzU4MTcwLC0xMzA0NDA3
-MjU5LC0xMTM1MjgyOTg2LC0xNDE3NjQ5Njg1LC0xMzQ3MjE1Nj
-IwLDIwMDQ4MDE5MDIsMTQ2NjQzNzYwMSwtMTc4NDEwNDc4MCwt
-OTkzMzkwODk1XX0=
+eyJoaXN0b3J5IjpbLTI0OTUyODc5MSwyNTcxMzE5MywxOTU1MT
+YxMTgwLDE4MjcyMjcyMjgsMjExOTkxNjQ4NiwxNzU5NzA1Nzc5
+LC0yMDE5NDUyMjk4LDY1MDczOTIxMCwzNDU0NDA4NzEsMTc4Nj
+A4NDA4OSwtMTQ2ODM2MzMsLTEwMDg3NTU3OTEsLTEwMjEzNTgx
+NzAsLTEzMDQ0MDcyNTksLTExMzUyODI5ODYsLTE0MTc2NDk2OD
+UsLTEzNDcyMTU2MjAsMjAwNDgwMTkwMiwxNDY2NDM3NjAxLC0x
+Nzg0MTA0NzgwXX0=
 -->
