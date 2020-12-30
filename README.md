@@ -251,6 +251,7 @@ List of awesome websites and tools, particularly for design.
 * [https://icons8.com/lunacy](https://icons8.com/lunacy)
 * [https://getsharex.com/](https://getsharex.com/)
 * [https://calculateaspectratio.com/](https://calculateaspectratio.com/) - aspect ratio calculator
+* https://www.slazzer.com - online background removal
 
 ### Enlargement
 
@@ -1154,11 +1155,11 @@ List of awesome websites and tools, particularly for design.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTUyODc5MSwyNTcxMzE5MywxOTU1MT
-YxMTgwLDE4MjcyMjcyMjgsMjExOTkxNjQ4NiwxNzU5NzA1Nzc5
-LC0yMDE5NDUyMjk4LDY1MDczOTIxMCwzNDU0NDA4NzEsMTc4Nj
-A4NDA4OSwtMTQ2ODM2MzMsLTEwMDg3NTU3OTEsLTEwMjEzNTgx
-NzAsLTEzMDQ0MDcyNTksLTExMzUyODI5ODYsLTE0MTc2NDk2OD
-UsLTEzNDcyMTU2MjAsMjAwNDgwMTkwMiwxNDY2NDM3NjAxLC0x
-Nzg0MTA0NzgwXX0=
+eyJoaXN0b3J5IjpbLTIzNDkxODEwMywtMjQ5NTI4NzkxLDI1Nz
+EzMTkzLDE5NTUxNjExODAsMTgyNzIyNzIyOCwyMTE5OTE2NDg2
+LDE3NTk3MDU3NzksLTIwMTk0NTIyOTgsNjUwNzM5MjEwLDM0NT
+Q0MDg3MSwxNzg2MDg0MDg5LC0xNDY4MzYzMywtMTAwODc1NTc5
+MSwtMTAyMTM1ODE3MCwtMTMwNDQwNzI1OSwtMTEzNTI4Mjk4Ni
+wtMTQxNzY0OTY4NSwtMTM0NzIxNTYyMCwyMDA0ODAxOTAyLDE0
+NjY0Mzc2MDFdfQ==
 -->
