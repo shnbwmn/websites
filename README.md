@@ -3,6 +3,72 @@
 
 List of awesome websites and tools, particularly for design.
 
+### 3D
+
+* https://app.sketchup.com/app - free web-based Sketchup
+	* https://3dwarehouse.sketchup.com/ - 3D model repository
+* https://ephtracy.github.io/ - voxel modeller and renderer
+* https://www.sweethome3d.com/ - focused on architectural modelling and interior design
+* https://zbrushcore.com/mini/index.php - 3D sculpting
+
+### Painting
+
+* https://krita.org/en/
+* http://mypaint.org/
+
+### Image Editing
+
+* https://www.gimp.org/
+
+### LEGO
+
+* https://www.ldraw.org/ - unofficial lego parts library
+* https://www.leocad.org/index.html - modeller
+* http://www.melkert.net/LDCad - modeller
+* https://www.bricklink.com/v2/build/studio.page
+* https://www.mecabricks.com/en/ - online LEGO modeller
+
+### CAD
+
+* https://www.freecadweb.org/ - full parametric modeller
+* https://librecad.org/ - 2D CAD
+
+### Audio
+
+* https://resonic.at/
+* https://picard.musicbrainz.org/
+* https://portableapps.com/apps/music_video/picard-portable
+* https://www.xdlab.ru/en/ - TagScanner
+* https://www.vb-audio.com/Voicemeeter/index.htm
+* [https://ardour.org/](https://ardour.org/)
+
+### UI/UX
+
+* https://www.figma.com/ - free for draft projects
+
+### Vector
+
+* https://inkscape.org/ - powerful vector design
+
+### Video
+
+* https://www.blackmagicdesign.com/products/davinciresolve/ - video grading, editing and effects
+
+### Mobile
+
+* https://github.com/Genymobile/scrcpy - Mirror phone screen on PC
+	* https://forum.xda-developers.com/t/official-tool-windows-adb-fastboot-and-drivers-15-seconds-adb-installer-v1-4-3.2588979/ - ADB download
+
+### Diagrams
+
+* https://www.diagrams.net/ - now completely free
+
+### Web
+
+* https://webdesigner.withgoogle.com/ - HTML 5 static and animated banner creation
+
+---
+
 ## Design
 
 * [Pinterest](https://za.pinterest.com/)
@@ -136,9 +202,6 @@ List of awesome websites and tools, particularly for design.
 
 ### Tools
 
-* https://krita.org/en/
-* http://mypaint.org/
-* https://www.gimp.org/
 * https://www.getpaint.net/index.html
 * https://sourceforge.net/projects/jpegview/
 * https://www.xnview.com/en/xnviewmp/
@@ -147,7 +210,6 @@ List of awesome websites and tools, particularly for design.
 * https://webdesigner.withgoogle.com/
 * https://www.invisionapp.com/studio
 * https://www.draw.io/
-* [https://inkscape.org/](https://inkscape.org/)
 * [https://ephtracy.github.io/index.html?page=aerialod](https://ephtracy.github.io/index.html?page=aerialod) - height map renderer
 * [https://photomosh.com/](https://photomosh.com/)
 * [https://vectr.com/](https://vectr.com/)
@@ -625,19 +687,6 @@ List of awesome websites and tools, particularly for design.
 *https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
 * [http://muldersoft.com/](http://muldersoft.com/) - LameXP, MPlayer, x264 Launcher, etc
 * [https://docs.google.com/forms/u/0/](https://docs.google.com/forms/u/0/) - creating web forms for people to fill out
-
-### Audio
-
-* https://resonic.at/
-* https://picard.musicbrainz.org/
-* https://portableapps.com/apps/music_video/picard-portable
-* https://www.xdlab.ru/en/ - TagScanner
-* https://www.vb-audio.com/Voicemeeter/index.htm
-* [https://ardour.org/](https://ardour.org/)
-
-### Video
-
-* https://www.blackmagicdesign.com/products/davinciresolve/ - video grading, editing and effects
 
 ### Chrome extensions
 
