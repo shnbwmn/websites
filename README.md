@@ -608,7 +608,6 @@ List of awesome websites and tools, particularly for design.
 * https://marketingplatform.google.com/
 * https://www.audiotool.com/
 * https://laragon.org/
-* https://www.blackmagicdesign.com/products/davinciresolve/
 * https://www.contextfreeart.org/index.html
 * https://github.com/3Dickulus/FragM
 * https://www.facebook.com/ads/tools/text_overlay
@@ -635,6 +634,10 @@ List of awesome websites and tools, particularly for design.
 * https://www.xdlab.ru/en/ - TagScanner
 * https://www.vb-audio.com/Voicemeeter/index.htm
 * [https://ardour.org/](https://ardour.org/)
+
+### Video
+
+* https://www.blackmagicdesign.com/products/davinciresolve/ - video grading, editing and effects
 
 ### Chrome extensions
 
