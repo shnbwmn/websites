@@ -45,6 +45,7 @@ List of awesome websites and tools, particularly for design.
 ### UI/UX
 
 * https://www.figma.com/ - free for draft projects
+* https://design.penpot.app/ - open source Figma/XD alternative
 
 ### Vector
 
