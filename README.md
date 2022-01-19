@@ -11,6 +11,20 @@ List of awesome websites and tools, particularly for design.
 * https://www.sweethome3d.com/ - focused on architectural modelling and interior design
 * https://zbrushcore.com/mini/index.php - 3D sculpting
 
+### Blender
+
+* https://www.blender.org/
+* https://developer.blender.org/F12811393
+* https://blendermarket.com/products/retopoflow
+* https://github.com/CGCookie/retopoflow
+* https://www.reddit.com/r/blenderhelp/comments/eljxj8/short_guide_on_getting_retopoflow_30_to_work_from/
+* https://www.amd.com/en/technologies/radeon-prorender
+* https://github.com/appleseedhq/blenderseed
+* [http://blendermada.com/](http://blendermada.com/)
+* [https://www.blendswap.com/](https://www.blendswap.com/)
+* [https://fspy.io/](https://fspy.io/)
+	* [https://stuffmatic.com/projects/fspy/](https://stuffmatic.com/projects/fspy/)
+
 ### Painting
 
 * https://krita.org/en/
@@ -528,19 +542,6 @@ List of awesome websites and tools, particularly for design.
 * [https://jarlpenguin.github.io/BeCyIconGrabberPortable/](https://jarlpenguin.github.io/BeCyIconGrabberPortable/)
 * [https://speedypainter.altervista.org/](https://speedypainter.altervista.org/)
 * [http://sweethome3d.com/](http://sweethome3d.com/)
-
-### Blender
-
-* https://www.blender.org/
-* https://blendermarket.com/products/retopoflow
-* https://github.com/CGCookie/retopoflow
-* https://www.reddit.com/r/blenderhelp/comments/eljxj8/short_guide_on_getting_retopoflow_30_to_work_from/
-* https://www.amd.com/en/technologies/radeon-prorender
-* https://github.com/appleseedhq/blenderseed
-* [http://blendermada.com/](http://blendermada.com/)
-* [https://www.blendswap.com/](https://www.blendswap.com/)
-* [https://fspy.io/](https://fspy.io/)
-	* [https://stuffmatic.com/projects/fspy/](https://stuffmatic.com/projects/fspy/)
 
 ### Rigging
 
